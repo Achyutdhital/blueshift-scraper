@@ -1,0 +1,2796 @@
+2024-07-04 16:11:12,324 - ERROR - empty data sent to printer
+2024-07-04 16:38:42,411 - INFO - Yext done
+2024-07-04 16:38:42,421 - INFO - Yext finished.
+2024-07-04 16:38:48,994 - INFO - Github done
+2024-07-04 16:38:49,002 - INFO - Github finished.
+2024-07-04 16:38:55,555 - INFO - Blueshift done
+2024-07-04 16:38:55,573 - INFO - Blueshift finished.
+2024-07-04 16:39:01,959 - INFO - Gong done
+2024-07-04 16:39:01,967 - INFO - Gong finished.
+2024-07-04 16:39:08,799 - INFO - Airtable done
+2024-07-04 16:39:08,806 - INFO - Airtable finished.
+2024-07-04 16:39:14,667 - INFO - Ringostat done
+2024-07-04 16:39:14,673 - INFO - Ringostat finished.
+2024-07-04 16:39:21,113 - INFO - Adobe Marketo done
+2024-07-04 16:39:21,131 - INFO - Adobe Marketo finished.
+2024-07-04 16:39:27,441 - INFO - Klaviyo done
+2024-07-04 16:39:27,459 - INFO - Klaviyo finished.
+2024-07-04 16:39:34,055 - INFO - Totango done
+2024-07-04 16:39:34,074 - INFO - Totango finished.
+2024-07-04 16:39:40,077 - INFO - Intercom done
+2024-07-04 16:39:40,085 - INFO - Intercom finished.
+2024-07-04 16:39:46,313 - INFO - Extole done
+2024-07-04 16:39:46,331 - INFO - Extole finished.
+2024-07-04 16:39:52,849 - INFO - MINDBODY done
+2024-07-04 16:39:52,856 - INFO - MINDBODY finished.
+2024-07-04 16:39:58,814 - INFO - Quickbooks done
+2024-07-04 16:39:58,832 - INFO - Quickbooks finished.
+2024-07-04 16:40:07,887 - INFO - ActiveProspect done
+2024-07-04 16:40:07,893 - INFO - ActiveProspect finished.
+2024-07-04 16:40:26,955 - INFO - Hibob done
+2024-07-04 16:40:26,967 - INFO - Hibob finished.
+2024-07-04 16:40:33,317 - INFO - Aurea done
+2024-07-04 16:40:33,335 - INFO - Aurea finished.
+2024-07-04 16:40:39,459 - INFO - Personia done
+2024-07-04 16:40:39,477 - INFO - Personia finished.
+2024-07-04 16:40:46,274 - INFO - ChannelAdvisor done
+2024-07-04 16:40:46,281 - INFO - ChannelAdvisor finished.
+2024-07-04 16:40:52,771 - INFO - Klue done
+2024-07-04 16:40:52,779 - INFO - Klue finished.
+2024-07-04 16:40:58,785 - INFO - Google Cloud Console done
+2024-07-04 16:40:58,792 - INFO - Google Cloud Console finished.
+2024-07-04 16:41:05,067 - INFO - Cart done
+2024-07-04 16:41:05,085 - INFO - Cart finished.
+2024-07-04 16:41:11,359 - INFO - Stripe Partner Directory done
+2024-07-04 16:41:11,366 - INFO - Stripe Partner Directory finished.
+2024-07-04 16:41:17,378 - INFO - Weebly done
+2024-07-04 16:41:17,386 - INFO - Weebly finished.
+2024-07-04 16:41:23,690 - INFO - Crowdstrike done
+2024-07-04 16:41:23,708 - INFO - Crowdstrike finished.
+2024-07-04 16:41:29,893 - INFO - Drift done
+2024-07-04 16:41:29,904 - INFO - Drift finished.
+2024-07-04 16:41:36,592 - INFO - Reply.io done
+2024-07-04 16:41:36,609 - INFO - Reply.io finished.
+2024-07-04 16:41:42,946 - INFO - Gusto done
+2024-07-04 16:41:42,954 - INFO - Gusto finished.
+2024-07-04 16:41:49,200 - INFO - Blueconic done
+2024-07-04 16:41:49,208 - INFO - Blueconic finished.
+2024-07-04 16:41:55,314 - INFO - Calendly done
+2024-07-04 16:41:55,330 - INFO - Calendly finished.
+2024-07-04 16:42:01,613 - INFO - Brevo done
+2024-07-04 16:42:01,623 - INFO - Brevo finished.
+2024-07-04 16:42:07,647 - INFO - Censhare done
+2024-07-04 16:42:07,654 - INFO - Censhare finished.
+2024-07-04 16:42:13,736 - INFO - 360Learning done
+2024-07-04 16:42:13,744 - INFO - 360Learning finished.
+2024-07-04 16:42:19,784 - INFO - Affirm done
+2024-07-04 16:42:19,802 - INFO - Affirm finished.
+2024-07-04 16:42:25,817 - INFO - Atlassian done
+2024-07-04 16:42:25,825 - INFO - Atlassian finished.
+2024-07-04 16:42:31,843 - INFO - Okta done
+2024-07-04 16:42:31,850 - INFO - Okta finished.
+2024-07-04 16:42:37,797 - INFO - Oneflow done
+2024-07-04 16:42:37,805 - INFO - Oneflow finished.
+2024-07-04 16:42:43,990 - INFO - Contentful done
+2024-07-04 16:42:43,997 - INFO - Contentful finished.
+2024-07-04 16:42:49,865 - INFO - BambooHR  done
+2024-07-04 16:42:49,873 - INFO - BambooHR  finished.
+2024-07-04 16:42:56,209 - INFO - BillingPlatform done
+2024-07-04 16:42:56,217 - INFO - BillingPlatform finished.
+2024-07-04 16:43:02,311 - INFO - Bombora done
+2024-07-04 16:43:02,319 - INFO - Bombora finished.
+2024-07-04 16:43:08,455 - INFO - CampaignMonitor done
+2024-07-04 16:43:08,464 - INFO - CampaignMonitor finished.
+2024-07-04 16:43:14,446 - INFO - Linear done
+2024-07-04 16:43:14,454 - INFO - Linear finished.
+2024-07-04 16:43:20,689 - INFO - Sage done
+2024-07-04 16:43:20,707 - INFO - Sage finished.
+2024-07-04 16:43:27,008 - INFO - Vercel done
+2024-07-04 16:43:27,016 - INFO - Vercel finished.
+2024-07-04 16:43:33,036 - INFO - Pendo done
+2024-07-04 16:43:33,054 - INFO - Pendo finished.
+2024-07-04 16:43:38,942 - INFO - Partnerbase done
+2024-07-04 16:43:38,953 - INFO - Partnerbase finished.
+2024-07-04 16:43:45,287 - INFO - Servicenow done
+2024-07-04 16:43:45,305 - INFO - Servicenow finished.
+2024-07-04 16:43:51,322 - INFO - Netlify done
+2024-07-04 16:43:51,329 - INFO - Netlify finished.
+2024-07-04 16:43:55,313 - ERROR - empty data sent to printer
+2024-07-04 17:18:40,746 - INFO - Yext done
+2024-07-04 17:18:40,751 - INFO - Yext finished.
+2024-07-04 17:18:48,156 - INFO - Github done
+2024-07-04 17:18:48,164 - INFO - Github finished.
+2024-07-04 17:18:56,129 - INFO - Blueshift done
+2024-07-04 17:18:56,137 - INFO - Blueshift finished.
+2024-07-04 17:19:03,563 - INFO - Gong done
+2024-07-04 17:19:03,570 - INFO - Gong finished.
+2024-07-04 17:19:10,995 - INFO - Airtable done
+2024-07-04 17:19:10,999 - INFO - Airtable finished.
+2024-07-04 17:19:18,422 - INFO - Ringostat done
+2024-07-04 17:19:18,430 - INFO - Ringostat finished.
+2024-07-04 17:19:25,839 - INFO - Adobe Marketo done
+2024-07-04 17:19:25,848 - INFO - Adobe Marketo finished.
+2024-07-04 17:19:33,859 - INFO - Klaviyo done
+2024-07-04 17:19:33,867 - INFO - Klaviyo finished.
+2024-07-04 17:19:41,917 - INFO - Totango done
+2024-07-04 17:19:41,920 - INFO - Totango finished.
+2024-07-04 17:19:49,317 - INFO - Intercom done
+2024-07-04 17:19:49,326 - INFO - Intercom finished.
+2024-07-04 17:19:56,713 - INFO - Extole done
+2024-07-04 17:19:56,717 - INFO - Extole finished.
+2024-07-04 17:20:04,815 - INFO - MINDBODY done
+2024-07-04 17:20:04,823 - INFO - MINDBODY finished.
+2024-07-04 17:20:12,911 - INFO - Quickbooks done
+2024-07-04 17:20:12,918 - INFO - Quickbooks finished.
+2024-07-04 17:20:20,341 - INFO - ActiveProspect done
+2024-07-04 17:20:20,344 - INFO - ActiveProspect finished.
+2024-07-04 17:20:27,787 - INFO - Hibob done
+2024-07-04 17:20:27,796 - INFO - Hibob finished.
+2024-07-04 17:20:35,277 - INFO - Aurea done
+2024-07-04 17:20:35,285 - INFO - Aurea finished.
+2024-07-04 17:20:42,662 - INFO - Personia done
+2024-07-04 17:20:42,665 - INFO - Personia finished.
+2024-07-04 17:20:50,048 - INFO - ChannelAdvisor done
+2024-07-04 17:20:50,051 - INFO - ChannelAdvisor finished.
+2024-07-04 17:20:57,440 - INFO - Klue done
+2024-07-04 17:20:57,449 - INFO - Klue finished.
+2024-07-04 17:21:04,853 - INFO - Google Cloud Console done
+2024-07-04 17:21:04,861 - INFO - Google Cloud Console finished.
+2024-07-04 17:21:12,250 - INFO - Cart done
+2024-07-04 17:21:12,258 - INFO - Cart finished.
+2024-07-04 17:21:19,902 - INFO - Stripe Partner Directory done
+2024-07-04 17:21:19,911 - INFO - Stripe Partner Directory finished.
+2024-07-04 17:21:27,298 - INFO - Weebly done
+2024-07-04 17:21:27,301 - INFO - Weebly finished.
+2024-07-04 17:21:34,736 - INFO - Crowdstrike done
+2024-07-04 17:21:34,744 - INFO - Crowdstrike finished.
+2024-07-04 17:21:42,123 - INFO - Drift done
+2024-07-04 17:21:42,131 - INFO - Drift finished.
+2024-07-04 17:21:49,547 - INFO - Reply.io done
+2024-07-04 17:21:49,551 - INFO - Reply.io finished.
+2024-07-04 17:21:56,942 - INFO - Gusto done
+2024-07-04 17:21:56,950 - INFO - Gusto finished.
+2024-07-04 17:22:05,427 - INFO - Blueconic done
+2024-07-04 17:22:05,430 - INFO - Blueconic finished.
+2024-07-04 17:22:12,789 - INFO - Calendly done
+2024-07-04 17:22:12,798 - INFO - Calendly finished.
+2024-07-04 17:22:20,168 - INFO - Brevo done
+2024-07-04 17:22:20,177 - INFO - Brevo finished.
+2024-07-04 17:22:27,589 - INFO - Censhare done
+2024-07-04 17:22:27,593 - INFO - Censhare finished.
+2024-07-04 17:22:35,002 - INFO - 360Learning done
+2024-07-04 17:22:35,010 - INFO - 360Learning finished.
+2024-07-04 17:22:42,453 - INFO - Affirm done
+2024-07-04 17:22:42,461 - INFO - Affirm finished.
+2024-07-04 17:22:49,849 - INFO - Atlassian done
+2024-07-04 17:22:49,858 - INFO - Atlassian finished.
+2024-07-04 17:22:57,229 - INFO - Okta done
+2024-07-04 17:22:57,237 - INFO - Okta finished.
+2024-07-04 17:23:04,634 - INFO - Oneflow done
+2024-07-04 17:23:04,637 - INFO - Oneflow finished.
+2024-07-04 17:23:12,018 - INFO - Contentful done
+2024-07-04 17:23:12,029 - INFO - Contentful finished.
+2024-07-04 17:23:19,478 - INFO - BambooHR  done
+2024-07-04 17:23:19,483 - INFO - BambooHR  finished.
+2024-07-04 17:23:26,881 - INFO - BillingPlatform done
+2024-07-04 17:23:26,891 - INFO - BillingPlatform finished.
+2024-07-04 17:23:34,275 - INFO - Bombora done
+2024-07-04 17:23:34,279 - INFO - Bombora finished.
+2024-07-04 17:23:41,675 - INFO - CampaignMonitor done
+2024-07-04 17:23:41,682 - INFO - CampaignMonitor finished.
+2024-07-04 17:23:49,162 - INFO - Linear done
+2024-07-04 17:23:49,168 - INFO - Linear finished.
+2024-07-04 17:23:56,583 - INFO - Sage done
+2024-07-04 17:23:56,589 - INFO - Sage finished.
+2024-07-04 17:24:03,975 - INFO - Vercel done
+2024-07-04 17:24:03,981 - INFO - Vercel finished.
+2024-07-04 17:24:11,384 - INFO - Pendo done
+2024-07-04 17:24:11,388 - INFO - Pendo finished.
+2024-07-04 17:24:18,837 - INFO - Partnerbase done
+2024-07-04 17:24:18,843 - INFO - Partnerbase finished.
+2024-07-04 17:32:13,959 - INFO - Servicenow done
+2024-07-04 17:32:14,015 - ERROR - empty data sent to printer
+2024-07-04 20:59:02,463 - INFO - Yext done
+2024-07-04 20:59:02,472 - INFO - Yext finished.
+2024-07-04 20:59:09,893 - INFO - Github done
+2024-07-04 20:59:09,901 - INFO - Github finished.
+2024-07-04 20:59:17,288 - INFO - Blueshift done
+2024-07-04 20:59:17,291 - INFO - Blueshift finished.
+2024-07-04 20:59:25,327 - INFO - Gong done
+2024-07-04 20:59:25,334 - INFO - Gong finished.
+2024-07-04 20:59:33,622 - INFO - Airtable done
+2024-07-04 20:59:33,625 - INFO - Airtable finished.
+2024-07-04 20:59:41,673 - INFO - Ringostat done
+2024-07-04 20:59:41,681 - INFO - Ringostat finished.
+2024-07-04 20:59:49,098 - INFO - Adobe Marketo done
+2024-07-04 20:59:49,106 - INFO - Adobe Marketo finished.
+2024-07-04 20:59:56,515 - INFO - Klaviyo done
+2024-07-04 20:59:56,518 - INFO - Klaviyo finished.
+2024-07-04 21:00:03,911 - INFO - Totango done
+2024-07-04 21:00:03,918 - INFO - Totango finished.
+2024-07-04 21:00:11,582 - INFO - Intercom done
+2024-07-04 21:00:11,585 - INFO - Intercom finished.
+2024-07-04 21:00:19,590 - INFO - Extole done
+2024-07-04 21:00:19,593 - INFO - Extole finished.
+2024-07-04 21:00:27,021 - INFO - MINDBODY done
+2024-07-04 21:00:27,028 - INFO - MINDBODY finished.
+2024-07-04 21:00:34,454 - INFO - Quickbooks done
+2024-07-04 21:00:34,462 - INFO - Quickbooks finished.
+2024-07-04 21:00:41,883 - INFO - ActiveProspect done
+2024-07-04 21:00:41,895 - INFO - ActiveProspect finished.
+2024-07-04 21:00:49,330 - INFO - Hibob done
+2024-07-04 21:00:49,338 - INFO - Hibob finished.
+2024-07-04 21:00:56,921 - INFO - Aurea done
+2024-07-04 21:00:56,930 - INFO - Aurea finished.
+2024-07-04 21:01:04,351 - INFO - Personia done
+2024-07-04 21:01:04,358 - INFO - Personia finished.
+2024-07-04 21:01:11,773 - INFO - ChannelAdvisor done
+2024-07-04 21:01:11,776 - INFO - ChannelAdvisor finished.
+2024-07-04 21:01:19,229 - INFO - Klue done
+2024-07-04 21:01:19,236 - INFO - Klue finished.
+2024-07-04 21:01:26,613 - INFO - Google Cloud Console done
+2024-07-04 21:01:26,621 - INFO - Google Cloud Console finished.
+2024-07-04 21:01:34,017 - INFO - Cart done
+2024-07-04 21:01:34,025 - INFO - Cart finished.
+2024-07-04 21:01:41,487 - INFO - Stripe Partner Directory done
+2024-07-04 21:01:41,495 - INFO - Stripe Partner Directory finished.
+2024-07-04 21:01:48,919 - INFO - Weebly done
+2024-07-04 21:01:48,927 - INFO - Weebly finished.
+2024-07-04 21:01:56,310 - INFO - Crowdstrike done
+2024-07-04 21:01:56,317 - INFO - Crowdstrike finished.
+2024-07-04 21:02:03,760 - INFO - Drift done
+2024-07-04 21:02:03,768 - INFO - Drift finished.
+2024-07-04 21:02:11,172 - INFO - Reply.io done
+2024-07-04 21:02:11,179 - INFO - Reply.io finished.
+2024-07-04 21:02:18,591 - INFO - Gusto done
+2024-07-04 21:02:18,594 - INFO - Gusto finished.
+2024-07-04 21:02:26,042 - INFO - Blueconic done
+2024-07-04 21:02:26,049 - INFO - Blueconic finished.
+2024-07-04 21:02:33,471 - INFO - Calendly done
+2024-07-04 21:02:33,478 - INFO - Calendly finished.
+2024-07-04 21:02:40,907 - INFO - Brevo done
+2024-07-04 21:02:40,915 - INFO - Brevo finished.
+2024-07-04 21:02:48,328 - INFO - Censhare done
+2024-07-04 21:02:48,336 - INFO - Censhare finished.
+2024-07-04 21:02:55,745 - INFO - 360Learning done
+2024-07-04 21:02:55,752 - INFO - 360Learning finished.
+2024-07-04 21:03:04,048 - INFO - Affirm done
+2024-07-04 21:03:04,055 - INFO - Affirm finished.
+2024-07-04 21:03:11,441 - INFO - Atlassian done
+2024-07-04 21:03:11,448 - INFO - Atlassian finished.
+2024-07-04 21:03:18,895 - INFO - Okta done
+2024-07-04 21:03:18,903 - INFO - Okta finished.
+2024-07-04 21:03:26,286 - INFO - Oneflow done
+2024-07-04 21:03:26,293 - INFO - Oneflow finished.
+2024-07-04 21:03:33,722 - INFO - Contentful done
+2024-07-04 21:03:33,729 - INFO - Contentful finished.
+2024-07-04 21:03:41,157 - INFO - BambooHR  done
+2024-07-04 21:03:41,160 - INFO - BambooHR  finished.
+2024-07-04 21:03:48,588 - INFO - BillingPlatform done
+2024-07-04 21:03:48,595 - INFO - BillingPlatform finished.
+2024-07-04 21:03:55,987 - INFO - Bombora done
+2024-07-04 21:03:55,990 - INFO - Bombora finished.
+2024-07-04 21:04:03,410 - INFO - CampaignMonitor done
+2024-07-04 21:04:03,413 - INFO - CampaignMonitor finished.
+2024-07-04 21:04:10,843 - INFO - Linear done
+2024-07-04 21:04:10,846 - INFO - Linear finished.
+2024-07-04 21:04:18,265 - INFO - Sage done
+2024-07-04 21:04:18,272 - INFO - Sage finished.
+2024-07-04 21:04:25,678 - INFO - Vercel done
+2024-07-04 21:04:25,686 - INFO - Vercel finished.
+2024-07-04 21:04:33,089 - INFO - Pendo done
+2024-07-04 21:04:33,096 - INFO - Pendo finished.
+2024-07-04 21:04:40,471 - INFO - Partnerbase done
+2024-07-04 21:04:40,479 - INFO - Partnerbase finished.
+2024-07-04 21:04:47,897 - INFO - Servicenow done
+2024-07-04 21:04:47,903 - INFO - Servicenow finished.
+2024-07-04 21:04:55,314 - INFO - Netlify done
+2024-07-04 21:04:55,318 - INFO - Netlify finished.
+2024-07-04 21:05:02,741 - INFO - Rippling done
+2024-07-04 21:05:02,749 - INFO - Rippling finished.
+2024-07-04 21:05:12,560 - INFO - SmartRecruiters done
+2024-07-04 21:05:12,568 - INFO - SmartRecruiters finished.
+2024-07-04 21:05:20,510 - INFO - Livechat done
+2024-07-04 21:05:20,518 - INFO - Livechat finished.
+2024-07-04 21:05:28,427 - INFO - Miro done
+2024-07-04 21:05:28,434 - INFO - Miro finished.
+2024-07-04 21:05:36,349 - INFO - Healthie done
+2024-07-04 21:05:36,356 - INFO - Healthie finished.
+2024-07-04 21:05:44,752 - INFO - Pax8 done
+2024-07-04 21:05:44,760 - INFO - Pax8 finished.
+2024-07-04 21:05:52,634 - INFO - Eventbrite done
+2024-07-04 21:05:52,642 - INFO - Eventbrite finished.
+2024-07-04 21:06:00,538 - INFO - OpenAI GPT Store done
+2024-07-04 21:06:00,545 - INFO - OpenAI GPT Store finished.
+2024-07-04 21:06:08,773 - INFO - Chargebee done
+2024-07-04 21:06:08,780 - INFO - Chargebee finished.
+2024-07-04 21:06:16,736 - INFO - Aircall done
+2024-07-04 21:06:16,738 - INFO - Aircall finished.
+2024-07-04 21:06:24,717 - INFO - Box done
+2024-07-04 21:06:24,721 - INFO - Box finished.
+2024-07-04 21:06:32,649 - INFO - Appdirect done
+2024-07-04 21:06:32,657 - INFO - Appdirect finished.
+2024-07-04 21:06:41,016 - INFO - Deel Integration Marketplace done
+2024-07-04 21:06:41,020 - INFO - Deel Integration Marketplace finished.
+2024-07-04 21:06:49,199 - INFO - Emarsys done
+2024-07-04 21:06:49,203 - INFO - Emarsys finished.
+2024-07-04 21:06:57,183 - INFO - Talkdesk done
+2024-07-04 21:06:57,187 - INFO - Talkdesk finished.
+2024-07-04 21:07:06,100 - INFO - Rydoo done
+2024-07-04 21:07:06,107 - INFO - Rydoo finished.
+2024-07-04 21:07:14,624 - INFO - Kameleoon done
+2024-07-04 21:07:14,632 - INFO - Kameleoon finished.
+2024-07-04 21:07:23,050 - INFO - Powerreviews done
+2024-07-04 21:07:23,054 - INFO - Powerreviews finished.
+2024-07-04 21:07:30,965 - INFO - Close done
+2024-07-04 21:07:30,969 - INFO - Close finished.
+2024-07-04 21:07:38,873 - INFO - Oktopost done
+2024-07-04 21:07:38,876 - INFO - Oktopost finished.
+2024-07-04 21:07:46,924 - INFO - Dukaan done
+2024-07-04 21:07:46,931 - INFO - Dukaan finished.
+2024-07-04 21:07:55,216 - INFO - Network done
+2024-07-04 21:07:55,220 - INFO - Network finished.
+2024-07-04 21:08:03,265 - INFO - Sendpulse done
+2024-07-04 21:08:03,275 - INFO - Sendpulse finished.
+2024-07-04 21:08:11,566 - INFO - Maximizer done
+2024-07-04 21:08:11,574 - INFO - Maximizer finished.
+2024-07-04 21:08:23,925 - INFO - MovableInk done
+2024-07-04 21:08:23,933 - INFO - MovableInk finished.
+2024-07-04 21:08:32,528 - INFO - Lightspeedhq done
+2024-07-04 21:08:32,536 - INFO - Lightspeedhq finished.
+2024-07-04 21:08:40,427 - INFO - yellow done
+2024-07-04 21:08:40,431 - INFO - yellow finished.
+2024-07-04 21:08:48,684 - INFO - Algolia done
+2024-07-04 21:08:48,687 - INFO - Algolia finished.
+2024-07-04 21:08:56,854 - INFO - RollWorks done
+2024-07-04 21:08:56,857 - INFO - RollWorks finished.
+2024-07-04 21:09:05,380 - INFO - ReachDesk done
+2024-07-04 21:09:05,383 - INFO - ReachDesk finished.
+2024-07-04 21:09:13,326 - INFO - Jebbit done
+2024-07-04 21:09:13,333 - INFO - Jebbit finished.
+2024-07-04 21:09:21,333 - INFO - Liferay done
+2024-07-04 21:09:21,336 - INFO - Liferay finished.
+2024-07-04 21:09:29,174 - INFO - Okendo done
+2024-07-04 21:09:29,181 - INFO - Okendo finished.
+2024-07-04 21:09:37,948 - INFO - Stackline done
+2024-07-04 21:09:37,955 - INFO - Stackline finished.
+2024-07-04 21:09:46,060 - INFO - Repay done
+2024-07-04 21:09:46,073 - INFO - Repay finished.
+2024-07-04 21:09:54,050 - INFO - Olo done
+2024-07-04 21:09:54,058 - INFO - Olo finished.
+2024-07-04 21:10:01,870 - INFO - spscommerce done
+2024-07-04 21:10:01,874 - INFO - spscommerce finished.
+2024-07-04 21:10:10,735 - INFO - Certinia done
+2024-07-04 21:10:10,742 - INFO - Certinia finished.
+2024-07-04 21:10:18,730 - INFO - Microsoft Azure done
+2024-07-04 21:10:18,738 - INFO - Microsoft Azure finished.
+2024-07-04 21:10:26,747 - INFO - Nationbuilder done
+2024-07-04 21:10:26,755 - INFO - Nationbuilder finished.
+2024-07-04 21:10:34,599 - INFO - Feefo done
+2024-07-04 21:10:34,602 - INFO - Feefo finished.
+2024-07-04 21:10:42,464 - INFO - Webflow done
+2024-07-04 21:10:42,471 - INFO - Webflow finished.
+2024-07-04 21:10:50,548 - INFO - NachoNacho done
+2024-07-04 21:10:50,555 - INFO - NachoNacho finished.
+2024-07-04 21:10:58,545 - INFO - Chilipiper done
+2024-07-04 21:10:58,552 - INFO - Chilipiper finished.
+2024-07-04 21:11:07,406 - INFO - Yotpo done
+2024-07-04 21:11:07,413 - INFO - Yotpo finished.
+2024-07-04 21:11:15,327 - INFO - Monday done
+2024-07-04 21:11:15,331 - INFO - Monday finished.
+2024-07-04 21:11:22,807 - INFO - Webflow done
+2024-07-04 21:11:22,811 - INFO - Webflow finished.
+2024-07-04 21:11:30,749 - INFO - Softwareag done
+2024-07-04 21:11:30,756 - INFO - Softwareag finished.
+2024-07-04 21:11:38,598 - INFO - Screencloud done
+2024-07-04 21:11:38,606 - INFO - Screencloud finished.
+2024-07-04 21:11:46,856 - INFO - Crossbeam done
+2024-07-04 21:11:46,864 - INFO - Crossbeam finished.
+2024-07-04 21:11:54,761 - INFO - Trainual done
+2024-07-04 21:11:54,769 - INFO - Trainual finished.
+2024-07-04 21:12:02,980 - INFO - Recurly done
+2024-07-04 21:12:02,987 - INFO - Recurly finished.
+2024-07-04 21:12:11,006 - INFO - Mixpanel done
+2024-07-04 21:12:11,014 - INFO - Mixpanel finished.
+2024-07-04 21:12:19,053 - INFO - Moengage done
+2024-07-04 21:12:19,056 - INFO - Moengage finished.
+2024-07-04 21:12:27,023 - INFO - Raydiant done
+2024-07-04 21:12:27,027 - INFO - Raydiant finished.
+2024-07-04 21:12:35,450 - INFO - Servicetitan done
+2024-07-04 21:12:35,457 - INFO - Servicetitan finished.
+2024-07-04 21:12:43,388 - INFO - Signpost done
+2024-07-04 21:12:43,395 - INFO - Signpost finished.
+2024-07-04 21:12:52,260 - INFO - Adjust done
+2024-07-04 21:12:52,268 - INFO - Adjust finished.
+2024-07-04 21:13:00,119 - INFO - Omnisend done
+2024-07-04 21:13:00,122 - INFO - Omnisend finished.
+2024-07-04 21:13:08,500 - INFO - Cloudtalk done
+2024-07-04 21:13:08,508 - INFO - Cloudtalk finished.
+2024-07-04 21:13:16,429 - INFO - Notion done
+2024-07-04 21:13:16,436 - INFO - Notion finished.
+2024-07-04 21:13:25,976 - INFO - LiveRamp done
+2024-07-04 21:13:25,979 - INFO - LiveRamp finished.
+2024-07-04 21:13:34,089 - INFO - Piperlinersales done
+2024-07-04 21:13:34,093 - INFO - Piperlinersales finished.
+2024-07-04 21:13:42,141 - INFO - Scoro done
+2024-07-04 21:13:42,144 - INFO - Scoro finished.
+2024-07-04 21:13:50,189 - INFO - Mode done
+2024-07-04 21:13:50,196 - INFO - Mode finished.
+2024-07-04 21:13:58,061 - INFO - Reputation done
+2024-07-04 21:13:58,068 - INFO - Reputation finished.
+2024-07-04 21:14:06,472 - INFO - Extensiv done
+2024-07-04 21:14:06,480 - INFO - Extensiv finished.
+2024-07-04 21:14:14,340 - INFO - Postal done
+2024-07-04 21:14:14,347 - INFO - Postal finished.
+2024-07-04 21:14:22,296 - INFO - Lianatech done
+2024-07-04 21:14:22,303 - INFO - Lianatech finished.
+2024-07-04 21:14:30,236 - INFO - Zuora done
+2024-07-04 21:14:30,240 - INFO - Zuora finished.
+2024-07-04 21:14:38,184 - INFO - Rudderstack done
+2024-07-04 21:14:38,187 - INFO - Rudderstack finished.
+2024-07-04 21:14:46,307 - INFO - Techjockey done
+2024-07-04 21:14:46,335 - INFO - Techjockey finished.
+2024-07-04 21:14:54,119 - INFO - Synup done
+2024-07-04 21:14:54,122 - INFO - Synup finished.
+2024-07-04 21:15:01,998 - INFO - Shipbob done
+2024-07-04 21:15:02,002 - INFO - Shipbob finished.
+2024-07-04 21:15:10,867 - INFO - mparticle done
+2024-07-04 21:15:10,874 - INFO - mparticle finished.
+2024-07-04 21:15:18,963 - INFO - Postscript done
+2024-07-04 21:15:18,967 - INFO - Postscript finished.
+2024-07-04 21:15:26,853 - INFO - Salesmanago done
+2024-07-04 21:15:26,856 - INFO - Salesmanago finished.
+2024-07-04 21:15:34,726 - INFO - Freshbooks App Store done
+2024-07-04 21:15:34,734 - INFO - Freshbooks App Store finished.
+2024-07-04 21:15:42,711 - INFO - Liveperson done
+2024-07-04 21:15:42,714 - INFO - Liveperson finished.
+2024-07-04 21:15:50,930 - INFO - Make done
+2024-07-04 21:15:50,938 - INFO - Make finished.
+2024-07-04 21:15:50,938 - ERROR - empty data sent to printer
+2024-07-04 21:15:53,017 - INFO - scraping done
+2024-07-04 21:27:12,306 - INFO - Starting scraping process
+2024-07-04 21:27:12,306 - INFO - Loaded tasks from TASKS SCRIPTS TO FIX.csv
+2024-07-04 21:27:22,190 - INFO - Opened URL: https://blueshift.com/partners/#integration-partners
+2024-07-04 21:27:24,191 - INFO - Starting scrape for task: Yext
+2024-07-04 21:27:24,191 - INFO - Scraping category: Yext
+2024-07-04 21:27:28,191 - INFO - Scraping category: Yext, base ranking: 0
+2024-07-04 21:27:32,229 - INFO - Yext done
+2024-07-04 21:27:32,233 - INFO - Yext finished. Items scraped: 0
+2024-07-04 21:27:32,233 - INFO - Starting scrape for task: Github
+2024-07-04 21:27:32,233 - INFO - Scraping category: Github
+2024-07-04 21:27:36,228 - INFO - Scraping category: Github, base ranking: 0
+2024-07-04 21:27:40,280 - INFO - Github done
+2024-07-04 21:27:40,283 - INFO - Github finished. Items scraped: 0
+2024-07-04 21:27:40,283 - INFO - Starting scrape for task: Blueshift
+2024-07-04 21:27:40,283 - INFO - Scraping category: Blueshift
+2024-07-04 21:27:44,245 - INFO - Scraping category: Blueshift, base ranking: 0
+2024-07-04 21:27:48,262 - INFO - Blueshift done
+2024-07-04 21:27:48,266 - INFO - Blueshift finished. Items scraped: 0
+2024-07-04 21:27:48,266 - INFO - Starting scrape for task: Gong
+2024-07-04 21:27:48,266 - INFO - Scraping category: Gong
+2024-07-04 21:27:51,647 - INFO - Scraping category: Gong, base ranking: 0
+2024-07-04 21:27:55,713 - INFO - Gong done
+2024-07-04 21:27:55,720 - INFO - Gong finished. Items scraped: 0
+2024-07-04 21:27:55,720 - INFO - Starting scrape for task: Airtable
+2024-07-04 21:27:55,720 - INFO - Scraping category: Airtable
+2024-07-04 21:27:59,667 - INFO - Scraping category: Airtable, base ranking: 0
+2024-07-04 21:28:03,699 - INFO - Airtable done
+2024-07-04 21:28:03,702 - INFO - Airtable finished. Items scraped: 0
+2024-07-04 21:28:03,702 - INFO - Starting scrape for task: Ringostat
+2024-07-04 21:28:03,702 - INFO - Scraping category: Ringostat
+2024-07-04 21:28:07,768 - INFO - Scraping category: Ringostat, base ranking: 0
+2024-07-04 21:28:11,785 - INFO - Ringostat done
+2024-07-04 21:28:11,792 - INFO - Ringostat finished. Items scraped: 0
+2024-07-04 21:28:11,792 - INFO - Starting scrape for task: Adobe Marketo
+2024-07-04 21:28:11,792 - INFO - Scraping category: Adobe Marketo
+2024-07-04 21:28:15,744 - INFO - Scraping category: Adobe Marketo, base ranking: 0
+2024-07-04 21:28:19,755 - INFO - Adobe Marketo done
+2024-07-04 21:28:19,764 - INFO - Adobe Marketo finished. Items scraped: 0
+2024-07-04 21:28:19,764 - INFO - Starting scrape for task: Klaviyo
+2024-07-04 21:28:19,764 - INFO - Scraping category: Klaviyo
+2024-07-04 21:28:23,134 - INFO - Scraping category: Klaviyo, base ranking: 0
+2024-07-04 21:28:27,183 - INFO - Klaviyo done
+2024-07-04 21:28:27,190 - INFO - Klaviyo finished. Items scraped: 0
+2024-07-04 21:28:27,190 - INFO - Starting scrape for task: Totango
+2024-07-04 21:28:27,190 - INFO - Scraping category: Totango
+2024-07-04 21:28:30,563 - INFO - Scraping category: Totango, base ranking: 0
+2024-07-04 21:28:34,593 - INFO - Totango done
+2024-07-04 21:28:34,601 - INFO - Totango finished. Items scraped: 0
+2024-07-04 21:28:34,601 - INFO - Starting scrape for task: Intercom
+2024-07-04 21:28:34,601 - INFO - Scraping category: Intercom
+2024-07-04 21:28:37,987 - INFO - Scraping category: Intercom, base ranking: 0
+2024-07-04 21:28:42,013 - INFO - Intercom done
+2024-07-04 21:28:42,021 - INFO - Intercom finished. Items scraped: 0
+2024-07-04 21:28:42,021 - INFO - Starting scrape for task: Extole
+2024-07-04 21:28:42,021 - INFO - Scraping category: Extole
+2024-07-04 21:28:45,419 - INFO - Scraping category: Extole, base ranking: 0
+2024-07-04 21:28:49,473 - INFO - Extole done
+2024-07-04 21:28:49,476 - INFO - Extole finished. Items scraped: 0
+2024-07-04 21:28:49,476 - INFO - Starting scrape for task: MINDBODY
+2024-07-04 21:28:49,476 - INFO - Scraping category: MINDBODY
+2024-07-04 21:28:52,880 - INFO - Scraping category: MINDBODY, base ranking: 0
+2024-07-04 21:28:56,894 - INFO - MINDBODY done
+2024-07-04 21:28:56,901 - INFO - MINDBODY finished. Items scraped: 0
+2024-07-04 21:28:56,901 - INFO - Starting scrape for task: Quickbooks
+2024-07-04 21:28:56,901 - INFO - Scraping category: Quickbooks
+2024-07-04 21:29:00,258 - INFO - Scraping category: Quickbooks, base ranking: 0
+2024-07-04 21:29:04,276 - INFO - Quickbooks done
+2024-07-04 21:29:04,284 - INFO - Quickbooks finished. Items scraped: 0
+2024-07-04 21:29:04,284 - INFO - Starting scrape for task: ActiveProspect
+2024-07-04 21:29:04,284 - INFO - Scraping category: ActiveProspect
+2024-07-04 21:29:07,667 - INFO - Scraping category: ActiveProspect, base ranking: 0
+2024-07-04 21:29:11,688 - INFO - ActiveProspect done
+2024-07-04 21:29:11,691 - INFO - ActiveProspect finished. Items scraped: 0
+2024-07-04 21:29:11,691 - INFO - Starting scrape for task: Hibob
+2024-07-04 21:29:11,691 - INFO - Scraping category: Hibob
+2024-07-04 21:29:15,081 - INFO - Scraping category: Hibob, base ranking: 0
+2024-07-04 21:29:19,122 - INFO - Hibob done
+2024-07-04 21:29:19,129 - INFO - Hibob finished. Items scraped: 0
+2024-07-04 21:29:19,130 - INFO - Starting scrape for task: Aurea
+2024-07-04 21:29:19,130 - INFO - Scraping category: Aurea
+2024-07-04 21:29:22,515 - INFO - Scraping category: Aurea, base ranking: 0
+2024-07-04 21:29:26,557 - INFO - Aurea done
+2024-07-04 21:29:26,565 - INFO - Aurea finished. Items scraped: 0
+2024-07-04 21:29:26,565 - INFO - Starting scrape for task: Personia
+2024-07-04 21:29:26,565 - INFO - Scraping category: Personia
+2024-07-04 21:29:29,918 - INFO - Scraping category: Personia, base ranking: 0
+2024-07-04 21:29:33,960 - INFO - Personia done
+2024-07-04 21:29:33,968 - INFO - Personia finished. Items scraped: 0
+2024-07-04 21:29:33,968 - INFO - Starting scrape for task: ChannelAdvisor
+2024-07-04 21:29:33,968 - INFO - Scraping category: ChannelAdvisor
+2024-07-04 21:29:37,361 - INFO - Scraping category: ChannelAdvisor, base ranking: 0
+2024-07-04 21:29:41,407 - INFO - ChannelAdvisor done
+2024-07-04 21:29:41,410 - INFO - ChannelAdvisor finished. Items scraped: 0
+2024-07-04 21:29:41,410 - INFO - Starting scrape for task: Klue
+2024-07-04 21:29:41,410 - INFO - Scraping category: Klue
+2024-07-04 21:29:44,785 - INFO - Scraping category: Klue, base ranking: 0
+2024-07-04 21:29:48,825 - INFO - Klue done
+2024-07-04 21:29:48,832 - INFO - Klue finished. Items scraped: 0
+2024-07-04 21:29:48,832 - INFO - Starting scrape for task: Google Cloud Console
+2024-07-04 21:29:48,832 - INFO - Scraping category: Google Cloud Console
+2024-07-04 21:29:52,176 - INFO - Scraping category: Google Cloud Console, base ranking: 0
+2024-07-04 21:29:56,196 - INFO - Google Cloud Console done
+2024-07-04 21:29:56,203 - INFO - Google Cloud Console finished. Items scraped: 0
+2024-07-04 21:29:56,203 - INFO - Starting scrape for task: Cart
+2024-07-04 21:29:56,203 - INFO - Scraping category: Cart
+2024-07-04 21:29:59,583 - INFO - Scraping category: Cart, base ranking: 0
+2024-07-04 21:30:03,588 - INFO - Cart done
+2024-07-04 21:30:03,596 - INFO - Cart finished. Items scraped: 0
+2024-07-04 21:30:03,596 - INFO - Starting scrape for task: Stripe Partner Directory
+2024-07-04 21:30:03,596 - INFO - Scraping category: Stripe Partner Directory
+2024-07-04 21:30:07,754 - INFO - Scraping category: Stripe Partner Directory, base ranking: 0
+2024-07-04 21:30:11,800 - INFO - Stripe Partner Directory done
+2024-07-04 21:30:11,807 - INFO - Stripe Partner Directory finished. Items scraped: 0
+2024-07-04 21:30:11,807 - INFO - Starting scrape for task: Weebly
+2024-07-04 21:30:11,807 - INFO - Scraping category: Weebly
+2024-07-04 21:30:15,187 - INFO - Scraping category: Weebly, base ranking: 0
+2024-07-04 21:30:19,219 - INFO - Weebly done
+2024-07-04 21:30:19,223 - INFO - Weebly finished. Items scraped: 0
+2024-07-04 21:30:19,223 - INFO - Starting scrape for task: Crowdstrike
+2024-07-04 21:30:19,223 - INFO - Scraping category: Crowdstrike
+2024-07-04 21:30:22,602 - INFO - Scraping category: Crowdstrike, base ranking: 0
+2024-07-04 21:30:26,637 - INFO - Crowdstrike done
+2024-07-04 21:30:26,645 - INFO - Crowdstrike finished. Items scraped: 0
+2024-07-04 21:30:26,645 - INFO - Starting scrape for task: Drift
+2024-07-04 21:30:26,645 - INFO - Scraping category: Drift
+2024-07-04 21:30:30,034 - INFO - Scraping category: Drift, base ranking: 0
+2024-07-04 21:30:34,063 - INFO - Drift done
+2024-07-04 21:30:34,066 - INFO - Drift finished. Items scraped: 0
+2024-07-04 21:30:34,066 - INFO - Starting scrape for task: Reply.io
+2024-07-04 21:30:34,066 - INFO - Scraping category: Reply.io
+2024-07-04 21:30:37,459 - INFO - Scraping category: Reply.io, base ranking: 0
+2024-07-04 21:30:41,498 - INFO - Reply.io done
+2024-07-04 21:30:41,505 - INFO - Reply.io finished. Items scraped: 0
+2024-07-04 21:30:41,505 - INFO - Starting scrape for task: Gusto
+2024-07-04 21:30:41,505 - INFO - Scraping category: Gusto
+2024-07-04 21:30:44,859 - INFO - Scraping category: Gusto, base ranking: 0
+2024-07-04 21:30:48,886 - INFO - Gusto done
+2024-07-04 21:30:48,893 - INFO - Gusto finished. Items scraped: 0
+2024-07-04 21:30:48,893 - INFO - Starting scrape for task: Blueconic
+2024-07-04 21:30:48,893 - INFO - Scraping category: Blueconic
+2024-07-04 21:30:52,257 - INFO - Scraping category: Blueconic, base ranking: 0
+2024-07-04 21:30:56,299 - INFO - Blueconic done
+2024-07-04 21:30:56,302 - INFO - Blueconic finished. Items scraped: 0
+2024-07-04 21:30:56,302 - INFO - Starting scrape for task: Calendly
+2024-07-04 21:30:56,302 - INFO - Scraping category: Calendly
+2024-07-04 21:31:00,286 - INFO - Scraping category: Calendly, base ranking: 0
+2024-07-04 21:31:04,306 - INFO - Calendly done
+2024-07-04 21:31:04,309 - INFO - Calendly finished. Items scraped: 0
+2024-07-04 21:31:04,309 - INFO - Starting scrape for task: Brevo
+2024-07-04 21:31:04,309 - INFO - Scraping category: Brevo
+2024-07-04 21:31:07,702 - INFO - Scraping category: Brevo, base ranking: 0
+2024-07-04 21:31:11,778 - INFO - Brevo done
+2024-07-04 21:31:11,785 - INFO - Brevo finished. Items scraped: 0
+2024-07-04 21:31:11,785 - INFO - Starting scrape for task: Censhare
+2024-07-04 21:31:11,785 - INFO - Scraping category: Censhare
+2024-07-04 21:31:15,136 - INFO - Scraping category: Censhare, base ranking: 0
+2024-07-04 21:31:19,166 - INFO - Censhare done
+2024-07-04 21:31:19,173 - INFO - Censhare finished. Items scraped: 0
+2024-07-04 21:31:19,173 - INFO - Starting scrape for task: 360Learning
+2024-07-04 21:31:19,173 - INFO - Scraping category: 360Learning
+2024-07-04 21:31:22,538 - INFO - Scraping category: 360Learning, base ranking: 0
+2024-07-04 21:31:26,590 - INFO - 360Learning done
+2024-07-04 21:31:26,594 - INFO - 360Learning finished. Items scraped: 0
+2024-07-04 21:31:26,594 - INFO - Starting scrape for task: Affirm
+2024-07-04 21:31:26,594 - INFO - Scraping category: Affirm
+2024-07-04 21:31:29,989 - INFO - Scraping category: Affirm, base ranking: 0
+2024-07-04 21:31:33,999 - INFO - Affirm done
+2024-07-04 21:31:34,002 - INFO - Affirm finished. Items scraped: 0
+2024-07-04 21:31:34,002 - INFO - Starting scrape for task: Atlassian
+2024-07-04 21:31:34,002 - INFO - Scraping category: Atlassian
+2024-07-04 21:31:37,400 - INFO - Scraping category: Atlassian, base ranking: 0
+2024-07-04 21:31:41,430 - INFO - Atlassian done
+2024-07-04 21:31:41,434 - INFO - Atlassian finished. Items scraped: 0
+2024-07-04 21:31:41,434 - INFO - Starting scrape for task: Okta
+2024-07-04 21:31:41,434 - INFO - Scraping category: Okta
+2024-07-04 21:31:44,822 - INFO - Scraping category: Okta, base ranking: 0
+2024-07-04 21:31:48,865 - INFO - Okta done
+2024-07-04 21:31:48,873 - INFO - Okta finished. Items scraped: 0
+2024-07-04 21:31:48,873 - INFO - Starting scrape for task: Oneflow
+2024-07-04 21:31:48,873 - INFO - Scraping category: Oneflow
+2024-07-04 21:31:52,240 - INFO - Scraping category: Oneflow, base ranking: 0
+2024-07-04 21:31:56,289 - INFO - Oneflow done
+2024-07-04 21:31:56,297 - INFO - Oneflow finished. Items scraped: 0
+2024-07-04 21:31:56,297 - INFO - Starting scrape for task: Contentful
+2024-07-04 21:31:56,297 - INFO - Scraping category: Contentful
+2024-07-04 21:31:59,678 - INFO - Scraping category: Contentful, base ranking: 0
+2024-07-04 21:32:03,709 - INFO - Contentful done
+2024-07-04 21:32:03,714 - INFO - Contentful finished. Items scraped: 0
+2024-07-04 21:32:03,714 - INFO - Starting scrape for task: BambooHR 
+2024-07-04 21:32:03,714 - INFO - Scraping category: BambooHR 
+2024-07-04 21:32:07,128 - INFO - Scraping category: BambooHR , base ranking: 0
+2024-07-04 21:32:11,159 - INFO - BambooHR  done
+2024-07-04 21:32:11,167 - INFO - BambooHR  finished. Items scraped: 0
+2024-07-04 21:32:11,167 - INFO - Starting scrape for task: BillingPlatform
+2024-07-04 21:32:11,167 - INFO - Scraping category: BillingPlatform
+2024-07-04 21:32:14,538 - INFO - Scraping category: BillingPlatform, base ranking: 0
+2024-07-04 21:32:18,584 - INFO - BillingPlatform done
+2024-07-04 21:32:18,587 - INFO - BillingPlatform finished. Items scraped: 0
+2024-07-04 21:32:18,587 - INFO - Starting scrape for task: Bombora
+2024-07-04 21:32:18,587 - INFO - Scraping category: Bombora
+2024-07-04 21:32:21,985 - INFO - Scraping category: Bombora, base ranking: 0
+2024-07-04 21:32:26,013 - INFO - Bombora done
+2024-07-04 21:32:26,016 - INFO - Bombora finished. Items scraped: 0
+2024-07-04 21:32:26,016 - INFO - Starting scrape for task: CampaignMonitor
+2024-07-04 21:32:26,016 - INFO - Scraping category: CampaignMonitor
+2024-07-04 21:32:29,424 - INFO - Scraping category: CampaignMonitor, base ranking: 0
+2024-07-04 21:32:33,445 - INFO - CampaignMonitor done
+2024-07-04 21:32:33,452 - INFO - CampaignMonitor finished. Items scraped: 0
+2024-07-04 21:32:33,452 - INFO - Starting scrape for task: Linear
+2024-07-04 21:32:33,452 - INFO - Scraping category: Linear
+2024-07-04 21:32:36,843 - INFO - Scraping category: Linear, base ranking: 0
+2024-07-04 21:32:40,880 - INFO - Linear done
+2024-07-04 21:32:40,883 - INFO - Linear finished. Items scraped: 0
+2024-07-04 21:32:40,883 - INFO - Starting scrape for task: Sage
+2024-07-04 21:32:40,883 - INFO - Scraping category: Sage
+2024-07-04 21:32:44,295 - INFO - Scraping category: Sage, base ranking: 0
+2024-07-04 21:32:48,324 - INFO - Sage done
+2024-07-04 21:32:48,332 - INFO - Sage finished. Items scraped: 0
+2024-07-04 21:32:48,332 - INFO - Starting scrape for task: Vercel
+2024-07-04 21:32:48,332 - INFO - Scraping category: Vercel
+2024-07-04 21:32:51,708 - INFO - Scraping category: Vercel, base ranking: 0
+2024-07-04 21:32:55,742 - INFO - Vercel done
+2024-07-04 21:32:55,749 - INFO - Vercel finished. Items scraped: 0
+2024-07-04 21:32:55,749 - INFO - Starting scrape for task: Pendo
+2024-07-04 21:32:55,749 - INFO - Scraping category: Pendo
+2024-07-04 21:32:59,116 - INFO - Scraping category: Pendo, base ranking: 0
+2024-07-04 21:33:03,160 - INFO - Pendo done
+2024-07-04 21:33:03,163 - INFO - Pendo finished. Items scraped: 0
+2024-07-04 21:33:03,163 - INFO - Starting scrape for task: Partnerbase
+2024-07-04 21:33:03,163 - INFO - Scraping category: Partnerbase
+2024-07-04 21:33:06,522 - INFO - Scraping category: Partnerbase, base ranking: 0
+2024-07-04 21:33:10,572 - INFO - Partnerbase done
+2024-07-04 21:33:10,575 - INFO - Partnerbase finished. Items scraped: 0
+2024-07-04 21:33:10,575 - INFO - Starting scrape for task: Servicenow
+2024-07-04 21:33:10,575 - INFO - Scraping category: Servicenow
+2024-07-04 21:33:13,955 - INFO - Scraping category: Servicenow, base ranking: 0
+2024-07-04 21:33:17,979 - INFO - Servicenow done
+2024-07-04 21:33:17,987 - INFO - Servicenow finished. Items scraped: 0
+2024-07-04 21:33:17,987 - INFO - Starting scrape for task: Netlify
+2024-07-04 21:33:17,987 - INFO - Scraping category: Netlify
+2024-07-04 21:33:21,349 - INFO - Scraping category: Netlify, base ranking: 0
+2024-07-04 21:33:25,405 - INFO - Netlify done
+2024-07-04 21:33:25,413 - INFO - Netlify finished. Items scraped: 0
+2024-07-04 21:33:25,413 - INFO - Starting scrape for task: Rippling
+2024-07-04 21:33:25,413 - INFO - Scraping category: Rippling
+2024-07-04 21:33:28,797 - INFO - Scraping category: Rippling, base ranking: 0
+2024-07-04 21:33:32,858 - INFO - Rippling done
+2024-07-04 21:33:32,861 - INFO - Rippling finished. Items scraped: 0
+2024-07-04 21:33:32,861 - INFO - Starting scrape for task: SmartRecruiters
+2024-07-04 21:33:32,861 - INFO - Scraping category: SmartRecruiters
+2024-07-04 21:33:36,242 - INFO - Scraping category: SmartRecruiters, base ranking: 0
+2024-07-04 21:33:40,275 - INFO - SmartRecruiters done
+2024-07-04 21:33:40,278 - INFO - SmartRecruiters finished. Items scraped: 0
+2024-07-04 21:33:40,278 - INFO - Starting scrape for task: Livechat
+2024-07-04 21:33:40,278 - INFO - Scraping category: Livechat
+2024-07-04 21:33:43,653 - INFO - Scraping category: Livechat, base ranking: 0
+2024-07-04 21:33:47,698 - INFO - Livechat done
+2024-07-04 21:33:47,705 - INFO - Livechat finished. Items scraped: 0
+2024-07-04 21:33:47,705 - INFO - Starting scrape for task: Miro
+2024-07-04 21:33:47,705 - INFO - Scraping category: Miro
+2024-07-04 21:33:51,065 - INFO - Scraping category: Miro, base ranking: 0
+2024-07-04 21:33:55,122 - INFO - Miro done
+2024-07-04 21:33:55,125 - INFO - Miro finished. Items scraped: 0
+2024-07-04 21:33:55,125 - INFO - Starting scrape for task: Healthie
+2024-07-04 21:33:55,125 - INFO - Scraping category: Healthie
+2024-07-04 21:33:58,519 - INFO - Scraping category: Healthie, base ranking: 0
+2024-07-04 21:34:02,564 - INFO - Healthie done
+2024-07-04 21:34:02,567 - INFO - Healthie finished. Items scraped: 0
+2024-07-04 21:34:02,567 - INFO - Starting scrape for task: Pax8
+2024-07-04 21:34:02,567 - INFO - Scraping category: Pax8
+2024-07-04 21:34:05,956 - INFO - Scraping category: Pax8, base ranking: 0
+2024-07-04 21:34:09,992 - INFO - Pax8 done
+2024-07-04 21:34:10,000 - INFO - Pax8 finished. Items scraped: 0
+2024-07-04 21:34:10,000 - INFO - Starting scrape for task: Eventbrite
+2024-07-04 21:34:10,000 - INFO - Scraping category: Eventbrite
+2024-07-04 21:34:13,382 - INFO - Scraping category: Eventbrite, base ranking: 0
+2024-07-04 21:34:17,409 - INFO - Eventbrite done
+2024-07-04 21:34:17,413 - INFO - Eventbrite finished. Items scraped: 0
+2024-07-04 21:34:17,413 - INFO - Starting scrape for task: OpenAI GPT Store
+2024-07-04 21:34:17,413 - INFO - Scraping category: OpenAI GPT Store
+2024-07-04 21:34:20,793 - INFO - Scraping category: OpenAI GPT Store, base ranking: 0
+2024-07-04 21:34:24,836 - INFO - OpenAI GPT Store done
+2024-07-04 21:34:24,840 - INFO - OpenAI GPT Store finished. Items scraped: 0
+2024-07-04 21:34:24,840 - INFO - Starting scrape for task: Chargebee
+2024-07-04 21:34:24,840 - INFO - Scraping category: Chargebee
+2024-07-04 21:34:28,207 - INFO - Scraping category: Chargebee, base ranking: 0
+2024-07-04 21:34:32,230 - INFO - Chargebee done
+2024-07-04 21:34:32,233 - INFO - Chargebee finished. Items scraped: 0
+2024-07-04 21:34:32,233 - INFO - Starting scrape for task: Aircall
+2024-07-04 21:34:32,233 - INFO - Scraping category: Aircall
+2024-07-04 21:34:35,628 - INFO - Scraping category: Aircall, base ranking: 0
+2024-07-04 21:34:39,671 - INFO - Aircall done
+2024-07-04 21:34:39,678 - INFO - Aircall finished. Items scraped: 0
+2024-07-04 21:34:39,678 - INFO - Starting scrape for task: Box
+2024-07-04 21:34:39,678 - INFO - Scraping category: Box
+2024-07-04 21:34:43,018 - INFO - Scraping category: Box, base ranking: 0
+2024-07-04 21:34:47,045 - INFO - Box done
+2024-07-04 21:34:47,052 - INFO - Box finished. Items scraped: 0
+2024-07-04 21:34:47,052 - INFO - Starting scrape for task: Appdirect
+2024-07-04 21:34:47,052 - INFO - Scraping category: Appdirect
+2024-07-04 21:34:50,410 - INFO - Scraping category: Appdirect, base ranking: 0
+2024-07-04 21:34:54,463 - INFO - Appdirect done
+2024-07-04 21:34:54,470 - INFO - Appdirect finished. Items scraped: 0
+2024-07-04 21:34:54,470 - INFO - Starting scrape for task: Deel Integration Marketplace
+2024-07-04 21:34:54,470 - INFO - Scraping category: Deel Integration Marketplace
+2024-07-04 21:34:57,862 - INFO - Scraping category: Deel Integration Marketplace, base ranking: 0
+2024-07-04 21:35:01,906 - INFO - Deel Integration Marketplace done
+2024-07-04 21:35:01,914 - INFO - Deel Integration Marketplace finished. Items scraped: 0
+2024-07-04 21:35:01,914 - INFO - Starting scrape for task: Emarsys
+2024-07-04 21:35:01,914 - INFO - Scraping category: Emarsys
+2024-07-04 21:35:05,559 - INFO - Scraping category: Emarsys, base ranking: 0
+2024-07-04 21:35:09,577 - INFO - Emarsys done
+2024-07-04 21:35:09,583 - INFO - Emarsys finished. Items scraped: 0
+2024-07-04 21:35:09,583 - INFO - Starting scrape for task: Talkdesk
+2024-07-04 21:35:09,584 - INFO - Scraping category: Talkdesk
+2024-07-04 21:35:12,963 - INFO - Scraping category: Talkdesk, base ranking: 0
+2024-07-04 21:35:17,005 - INFO - Talkdesk done
+2024-07-04 21:35:17,013 - INFO - Talkdesk finished. Items scraped: 0
+2024-07-04 21:35:17,013 - INFO - Starting scrape for task: Rydoo
+2024-07-04 21:35:17,013 - INFO - Scraping category: Rydoo
+2024-07-04 21:35:20,379 - INFO - Scraping category: Rydoo, base ranking: 0
+2024-07-04 21:35:24,402 - INFO - Rydoo done
+2024-07-04 21:35:24,410 - INFO - Rydoo finished. Items scraped: 0
+2024-07-04 21:35:24,410 - INFO - Starting scrape for task: Kameleoon
+2024-07-04 21:35:24,410 - INFO - Scraping category: Kameleoon
+2024-07-04 21:35:27,805 - INFO - Scraping category: Kameleoon, base ranking: 0
+2024-07-04 21:35:31,819 - INFO - Kameleoon done
+2024-07-04 21:35:31,823 - INFO - Kameleoon finished. Items scraped: 0
+2024-07-04 21:35:31,823 - INFO - Starting scrape for task: Powerreviews
+2024-07-04 21:35:31,823 - INFO - Scraping category: Powerreviews
+2024-07-04 21:35:35,167 - INFO - Scraping category: Powerreviews, base ranking: 0
+2024-07-04 21:35:39,192 - INFO - Powerreviews done
+2024-07-04 21:35:39,196 - INFO - Powerreviews finished. Items scraped: 0
+2024-07-04 21:35:39,196 - INFO - Starting scrape for task: Close
+2024-07-04 21:35:39,196 - INFO - Scraping category: Close
+2024-07-04 21:35:42,578 - INFO - Scraping category: Close, base ranking: 0
+2024-07-04 21:35:46,602 - INFO - Close done
+2024-07-04 21:35:46,605 - INFO - Close finished. Items scraped: 0
+2024-07-04 21:35:46,605 - INFO - Starting scrape for task: Oktopost
+2024-07-04 21:35:46,605 - INFO - Scraping category: Oktopost
+2024-07-04 21:35:49,995 - INFO - Scraping category: Oktopost, base ranking: 0
+2024-07-04 21:35:54,030 - INFO - Oktopost done
+2024-07-04 21:35:54,037 - INFO - Oktopost finished. Items scraped: 0
+2024-07-04 21:35:54,037 - INFO - Starting scrape for task: Dukaan
+2024-07-04 21:35:54,037 - INFO - Scraping category: Dukaan
+2024-07-04 21:35:57,418 - INFO - Scraping category: Dukaan, base ranking: 0
+2024-07-04 21:36:01,442 - INFO - Dukaan done
+2024-07-04 21:36:01,449 - INFO - Dukaan finished. Items scraped: 0
+2024-07-04 21:36:01,449 - INFO - Starting scrape for task: Network
+2024-07-04 21:36:01,449 - INFO - Scraping category: Network
+2024-07-04 21:36:04,818 - INFO - Scraping category: Network, base ranking: 0
+2024-07-04 21:36:08,859 - INFO - Network done
+2024-07-04 21:36:08,862 - INFO - Network finished. Items scraped: 0
+2024-07-04 21:36:08,862 - INFO - Starting scrape for task: Sendpulse
+2024-07-04 21:36:08,862 - INFO - Scraping category: Sendpulse
+2024-07-04 21:36:12,240 - INFO - Scraping category: Sendpulse, base ranking: 0
+2024-07-04 21:36:16,277 - INFO - Sendpulse done
+2024-07-04 21:36:16,284 - INFO - Sendpulse finished. Items scraped: 0
+2024-07-04 21:36:16,284 - INFO - Starting scrape for task: Maximizer
+2024-07-04 21:36:16,284 - INFO - Scraping category: Maximizer
+2024-07-04 21:36:20,315 - INFO - Scraping category: Maximizer, base ranking: 0
+2024-07-04 21:36:24,355 - INFO - Maximizer done
+2024-07-04 21:36:24,358 - INFO - Maximizer finished. Items scraped: 0
+2024-07-04 21:36:24,358 - INFO - Starting scrape for task: MovableInk
+2024-07-04 21:36:24,358 - INFO - Scraping category: MovableInk
+2024-07-04 21:36:27,753 - INFO - Scraping category: MovableInk, base ranking: 0
+2024-07-04 21:36:31,773 - INFO - MovableInk done
+2024-07-04 21:36:31,780 - INFO - MovableInk finished. Items scraped: 0
+2024-07-04 21:36:31,780 - INFO - Starting scrape for task: Lightspeedhq
+2024-07-04 21:36:31,780 - INFO - Scraping category: Lightspeedhq
+2024-07-04 21:36:35,131 - INFO - Scraping category: Lightspeedhq, base ranking: 0
+2024-07-04 21:36:39,175 - INFO - Lightspeedhq done
+2024-07-04 21:36:39,178 - INFO - Lightspeedhq finished. Items scraped: 0
+2024-07-04 21:36:39,178 - INFO - Starting scrape for task: yellow
+2024-07-04 21:36:39,178 - INFO - Scraping category: yellow
+2024-07-04 21:36:42,582 - INFO - Scraping category: yellow, base ranking: 0
+2024-07-04 21:36:46,628 - INFO - yellow done
+2024-07-04 21:36:46,632 - INFO - yellow finished. Items scraped: 0
+2024-07-04 21:36:46,632 - INFO - Starting scrape for task: Algolia
+2024-07-04 21:36:46,632 - INFO - Scraping category: Algolia
+2024-07-04 21:36:50,033 - INFO - Scraping category: Algolia, base ranking: 0
+2024-07-04 21:36:54,092 - INFO - Algolia done
+2024-07-04 21:36:54,100 - INFO - Algolia finished. Items scraped: 0
+2024-07-04 21:36:54,100 - INFO - Starting scrape for task: RollWorks
+2024-07-04 21:36:54,100 - INFO - Scraping category: RollWorks
+2024-07-04 21:36:57,519 - INFO - Scraping category: RollWorks, base ranking: 0
+2024-07-04 21:37:01,549 - INFO - RollWorks done
+2024-07-04 21:37:01,552 - INFO - RollWorks finished. Items scraped: 0
+2024-07-04 21:37:01,552 - INFO - Starting scrape for task: ReachDesk
+2024-07-04 21:37:01,552 - INFO - Scraping category: ReachDesk
+2024-07-04 21:37:04,946 - INFO - Scraping category: ReachDesk, base ranking: 0
+2024-07-04 21:37:08,985 - INFO - ReachDesk done
+2024-07-04 21:37:08,989 - INFO - ReachDesk finished. Items scraped: 0
+2024-07-04 21:37:08,989 - INFO - Starting scrape for task: Jebbit
+2024-07-04 21:37:08,989 - INFO - Scraping category: Jebbit
+2024-07-04 21:37:12,363 - INFO - Scraping category: Jebbit, base ranking: 0
+2024-07-04 21:37:16,378 - INFO - Jebbit done
+2024-07-04 21:37:16,382 - INFO - Jebbit finished. Items scraped: 0
+2024-07-04 21:37:16,382 - INFO - Starting scrape for task: Liferay
+2024-07-04 21:37:16,382 - INFO - Scraping category: Liferay
+2024-07-04 21:37:19,790 - INFO - Scraping category: Liferay, base ranking: 0
+2024-07-04 21:37:23,839 - INFO - Liferay done
+2024-07-04 21:37:23,846 - INFO - Liferay finished. Items scraped: 0
+2024-07-04 21:37:23,846 - INFO - Starting scrape for task: Okendo
+2024-07-04 21:37:23,846 - INFO - Scraping category: Okendo
+2024-07-04 21:37:27,225 - INFO - Scraping category: Okendo, base ranking: 0
+2024-07-04 21:37:31,266 - INFO - Okendo done
+2024-07-04 21:37:31,273 - INFO - Okendo finished. Items scraped: 0
+2024-07-04 21:37:31,273 - INFO - Starting scrape for task: Stackline
+2024-07-04 21:37:31,273 - INFO - Scraping category: Stackline
+2024-07-04 21:37:34,631 - INFO - Scraping category: Stackline, base ranking: 0
+2024-07-04 21:37:38,682 - INFO - Stackline done
+2024-07-04 21:37:38,689 - INFO - Stackline finished. Items scraped: 0
+2024-07-04 21:37:38,689 - INFO - Starting scrape for task: Repay
+2024-07-04 21:37:38,689 - INFO - Scraping category: Repay
+2024-07-04 21:37:42,061 - INFO - Scraping category: Repay, base ranking: 0
+2024-07-04 21:37:46,099 - INFO - Repay done
+2024-07-04 21:37:46,106 - INFO - Repay finished. Items scraped: 0
+2024-07-04 21:37:46,106 - INFO - Starting scrape for task: Olo
+2024-07-04 21:37:46,106 - INFO - Scraping category: Olo
+2024-07-04 21:37:49,520 - INFO - Scraping category: Olo, base ranking: 0
+2024-07-04 21:37:53,535 - INFO - Olo done
+2024-07-04 21:37:53,538 - INFO - Olo finished. Items scraped: 0
+2024-07-04 21:37:53,538 - INFO - Starting scrape for task: spscommerce
+2024-07-04 21:37:53,538 - INFO - Scraping category: spscommerce
+2024-07-04 21:37:56,937 - INFO - Scraping category: spscommerce, base ranking: 0
+2024-07-04 21:38:00,968 - INFO - spscommerce done
+2024-07-04 21:38:00,971 - INFO - spscommerce finished. Items scraped: 0
+2024-07-04 21:38:00,971 - INFO - Starting scrape for task: Certinia
+2024-07-04 21:38:00,971 - INFO - Scraping category: Certinia
+2024-07-04 21:38:04,372 - INFO - Scraping category: Certinia, base ranking: 0
+2024-07-04 21:38:08,401 - INFO - Certinia done
+2024-07-04 21:38:08,409 - INFO - Certinia finished. Items scraped: 0
+2024-07-04 21:38:08,409 - INFO - Starting scrape for task: Microsoft Azure
+2024-07-04 21:38:08,409 - INFO - Scraping category: Microsoft Azure
+2024-07-04 21:38:11,818 - INFO - Scraping category: Microsoft Azure, base ranking: 0
+2024-07-04 21:38:15,847 - INFO - Microsoft Azure done
+2024-07-04 21:38:15,854 - INFO - Microsoft Azure finished. Items scraped: 0
+2024-07-04 21:38:15,854 - INFO - Starting scrape for task: Nationbuilder
+2024-07-04 21:38:15,854 - INFO - Scraping category: Nationbuilder
+2024-07-04 21:38:19,261 - INFO - Scraping category: Nationbuilder, base ranking: 0
+2024-07-04 21:38:23,286 - INFO - Nationbuilder done
+2024-07-04 21:38:23,289 - INFO - Nationbuilder finished. Items scraped: 0
+2024-07-04 21:38:23,289 - INFO - Starting scrape for task: Feefo
+2024-07-04 21:38:23,289 - INFO - Scraping category: Feefo
+2024-07-04 21:38:26,932 - INFO - Scraping category: Feefo, base ranking: 0
+2024-07-04 21:38:30,955 - INFO - Feefo done
+2024-07-04 21:38:30,959 - INFO - Feefo finished. Items scraped: 0
+2024-07-04 21:38:30,959 - INFO - Starting scrape for task: Webflow
+2024-07-04 21:38:30,959 - INFO - Scraping category: Webflow
+2024-07-04 21:38:34,866 - INFO - Scraping category: Webflow, base ranking: 0
+2024-07-04 21:38:38,888 - INFO - Webflow done
+2024-07-04 21:38:38,896 - INFO - Webflow finished. Items scraped: 0
+2024-07-04 21:38:38,896 - INFO - Starting scrape for task: NachoNacho
+2024-07-04 21:38:38,896 - INFO - Scraping category: NachoNacho
+2024-07-04 21:38:42,284 - INFO - Scraping category: NachoNacho, base ranking: 0
+2024-07-04 21:38:46,321 - INFO - NachoNacho done
+2024-07-04 21:38:46,325 - INFO - NachoNacho finished. Items scraped: 0
+2024-07-04 21:38:46,325 - INFO - Starting scrape for task: Chilipiper
+2024-07-04 21:38:46,325 - INFO - Scraping category: Chilipiper
+2024-07-04 21:38:49,732 - INFO - Scraping category: Chilipiper, base ranking: 0
+2024-07-04 21:38:53,766 - INFO - Chilipiper done
+2024-07-04 21:38:53,770 - INFO - Chilipiper finished. Items scraped: 0
+2024-07-04 21:38:53,770 - INFO - Starting scrape for task: Yotpo
+2024-07-04 21:38:53,770 - INFO - Scraping category: Yotpo
+2024-07-04 21:38:57,179 - INFO - Scraping category: Yotpo, base ranking: 0
+2024-07-04 21:39:01,202 - INFO - Yotpo done
+2024-07-04 21:39:01,209 - INFO - Yotpo finished. Items scraped: 0
+2024-07-04 21:39:01,209 - INFO - Starting scrape for task: Monday
+2024-07-04 21:39:01,209 - INFO - Scraping category: Monday
+2024-07-04 21:39:04,656 - INFO - Scraping category: Monday, base ranking: 0
+2024-07-04 21:39:08,682 - INFO - Monday done
+2024-07-04 21:39:08,685 - INFO - Monday finished. Items scraped: 0
+2024-07-04 21:39:08,685 - INFO - Starting scrape for task: Webflow
+2024-07-04 21:39:08,685 - INFO - Scraping category: Webflow
+2024-07-04 21:39:12,111 - INFO - Scraping category: Webflow, base ranking: 0
+2024-07-04 21:39:16,150 - INFO - Webflow done
+2024-07-04 21:39:16,157 - INFO - Webflow finished. Items scraped: 0
+2024-07-04 21:39:16,157 - INFO - Starting scrape for task: Softwareag
+2024-07-04 21:39:16,157 - INFO - Scraping category: Softwareag
+2024-07-04 21:39:19,733 - INFO - Scraping category: Softwareag, base ranking: 0
+2024-07-04 21:39:23,774 - INFO - Softwareag done
+2024-07-04 21:39:23,777 - INFO - Softwareag finished. Items scraped: 0
+2024-07-04 21:39:23,777 - INFO - Starting scrape for task: Screencloud
+2024-07-04 21:39:23,777 - INFO - Scraping category: Screencloud
+2024-07-04 21:39:27,183 - INFO - Scraping category: Screencloud, base ranking: 0
+2024-07-04 21:39:31,229 - INFO - Screencloud done
+2024-07-04 21:39:31,236 - INFO - Screencloud finished. Items scraped: 0
+2024-07-04 21:39:31,236 - INFO - Starting scrape for task: Crossbeam
+2024-07-04 21:39:31,236 - INFO - Scraping category: Crossbeam
+2024-07-04 21:39:34,614 - INFO - Scraping category: Crossbeam, base ranking: 0
+2024-07-04 21:39:38,641 - INFO - Crossbeam done
+2024-07-04 21:39:38,644 - INFO - Crossbeam finished. Items scraped: 0
+2024-07-04 21:39:38,644 - INFO - Starting scrape for task: Trainual
+2024-07-04 21:39:38,644 - INFO - Scraping category: Trainual
+2024-07-04 21:39:42,029 - INFO - Scraping category: Trainual, base ranking: 0
+2024-07-04 21:39:46,058 - INFO - Trainual done
+2024-07-04 21:39:46,061 - INFO - Trainual finished. Items scraped: 0
+2024-07-04 21:39:46,061 - INFO - Starting scrape for task: Recurly
+2024-07-04 21:39:46,061 - INFO - Scraping category: Recurly
+2024-07-04 21:39:49,466 - INFO - Scraping category: Recurly, base ranking: 0
+2024-07-04 21:39:53,494 - INFO - Recurly done
+2024-07-04 21:39:53,501 - INFO - Recurly finished. Items scraped: 0
+2024-07-04 21:39:53,501 - INFO - Starting scrape for task: Mixpanel
+2024-07-04 21:39:53,501 - INFO - Scraping category: Mixpanel
+2024-07-04 21:39:57,148 - INFO - Scraping category: Mixpanel, base ranking: 0
+2024-07-04 21:40:01,193 - INFO - Mixpanel done
+2024-07-04 21:40:01,200 - INFO - Mixpanel finished. Items scraped: 0
+2024-07-04 21:40:01,200 - INFO - Starting scrape for task: Moengage
+2024-07-04 21:40:01,200 - INFO - Scraping category: Moengage
+2024-07-04 21:40:05,213 - INFO - Scraping category: Moengage, base ranking: 0
+2024-07-04 21:40:09,246 - INFO - Moengage done
+2024-07-04 21:40:09,253 - INFO - Moengage finished. Items scraped: 0
+2024-07-04 21:40:09,254 - INFO - Starting scrape for task: Raydiant
+2024-07-04 21:40:09,254 - INFO - Scraping category: Raydiant
+2024-07-04 21:40:12,660 - INFO - Scraping category: Raydiant, base ranking: 0
+2024-07-04 21:40:16,688 - INFO - Raydiant done
+2024-07-04 21:40:16,691 - INFO - Raydiant finished. Items scraped: 0
+2024-07-04 21:40:16,691 - INFO - Starting scrape for task: Servicetitan
+2024-07-04 21:40:16,691 - INFO - Scraping category: Servicetitan
+2024-07-04 21:40:20,109 - INFO - Scraping category: Servicetitan, base ranking: 0
+2024-07-04 21:40:24,161 - INFO - Servicetitan done
+2024-07-04 21:40:24,168 - INFO - Servicetitan finished. Items scraped: 0
+2024-07-04 21:40:24,168 - INFO - Starting scrape for task: Signpost
+2024-07-04 21:40:24,168 - INFO - Scraping category: Signpost
+2024-07-04 21:40:27,571 - INFO - Scraping category: Signpost, base ranking: 0
+2024-07-04 21:40:31,594 - INFO - Signpost done
+2024-07-04 21:40:31,601 - INFO - Signpost finished. Items scraped: 0
+2024-07-04 21:40:31,601 - INFO - Starting scrape for task: Adjust
+2024-07-04 21:40:31,601 - INFO - Scraping category: Adjust
+2024-07-04 21:40:35,011 - INFO - Scraping category: Adjust, base ranking: 0
+2024-07-04 21:40:39,064 - INFO - Adjust done
+2024-07-04 21:40:39,068 - INFO - Adjust finished. Items scraped: 0
+2024-07-04 21:40:39,068 - INFO - Starting scrape for task: Omnisend
+2024-07-04 21:40:39,068 - INFO - Scraping category: Omnisend
+2024-07-04 21:40:42,457 - INFO - Scraping category: Omnisend, base ranking: 0
+2024-07-04 21:40:46,488 - INFO - Omnisend done
+2024-07-04 21:40:46,492 - INFO - Omnisend finished. Items scraped: 0
+2024-07-04 21:40:46,492 - INFO - Starting scrape for task: Cloudtalk
+2024-07-04 21:40:46,492 - INFO - Scraping category: Cloudtalk
+2024-07-04 21:40:49,877 - INFO - Scraping category: Cloudtalk, base ranking: 0
+2024-07-04 21:40:53,910 - INFO - Cloudtalk done
+2024-07-04 21:40:53,917 - INFO - Cloudtalk finished. Items scraped: 0
+2024-07-04 21:40:53,918 - INFO - Starting scrape for task: Notion
+2024-07-04 21:40:53,918 - INFO - Scraping category: Notion
+2024-07-04 21:40:57,320 - INFO - Scraping category: Notion, base ranking: 0
+2024-07-04 21:41:01,360 - INFO - Notion done
+2024-07-04 21:41:01,364 - INFO - Notion finished. Items scraped: 0
+2024-07-04 21:41:01,364 - INFO - Starting scrape for task: LiveRamp
+2024-07-04 21:41:01,364 - INFO - Scraping category: LiveRamp
+2024-07-04 21:41:04,741 - INFO - Scraping category: LiveRamp, base ranking: 0
+2024-07-04 21:41:08,791 - INFO - LiveRamp done
+2024-07-04 21:41:08,798 - INFO - LiveRamp finished. Items scraped: 0
+2024-07-04 21:41:08,798 - INFO - Starting scrape for task: Piperlinersales
+2024-07-04 21:41:08,798 - INFO - Scraping category: Piperlinersales
+2024-07-04 21:41:12,190 - INFO - Scraping category: Piperlinersales, base ranking: 0
+2024-07-04 21:41:16,226 - INFO - Piperlinersales done
+2024-07-04 21:41:16,233 - INFO - Piperlinersales finished. Items scraped: 0
+2024-07-04 21:41:16,233 - INFO - Starting scrape for task: Scoro
+2024-07-04 21:41:16,233 - INFO - Scraping category: Scoro
+2024-07-04 21:41:19,628 - INFO - Scraping category: Scoro, base ranking: 0
+2024-07-04 21:41:23,684 - INFO - Scoro done
+2024-07-04 21:41:23,688 - INFO - Scoro finished. Items scraped: 0
+2024-07-04 21:41:23,688 - INFO - Starting scrape for task: Mode
+2024-07-04 21:41:23,688 - INFO - Scraping category: Mode
+2024-07-04 21:41:27,070 - INFO - Scraping category: Mode, base ranking: 0
+2024-07-04 21:41:31,106 - INFO - Mode done
+2024-07-04 21:41:31,109 - INFO - Mode finished. Items scraped: 0
+2024-07-04 21:41:31,109 - INFO - Starting scrape for task: Reputation
+2024-07-04 21:41:31,109 - INFO - Scraping category: Reputation
+2024-07-04 21:41:34,508 - INFO - Scraping category: Reputation, base ranking: 0
+2024-07-04 21:41:38,546 - INFO - Reputation done
+2024-07-04 21:41:38,550 - INFO - Reputation finished. Items scraped: 0
+2024-07-04 21:41:38,550 - INFO - Starting scrape for task: Extensiv
+2024-07-04 21:41:38,550 - INFO - Scraping category: Extensiv
+2024-07-04 21:41:41,955 - INFO - Scraping category: Extensiv, base ranking: 0
+2024-07-04 21:41:45,978 - INFO - Extensiv done
+2024-07-04 21:41:45,981 - INFO - Extensiv finished. Items scraped: 0
+2024-07-04 21:41:45,981 - INFO - Starting scrape for task: Postal
+2024-07-04 21:41:45,981 - INFO - Scraping category: Postal
+2024-07-04 21:41:49,357 - INFO - Scraping category: Postal, base ranking: 0
+2024-07-04 21:41:53,378 - INFO - Postal done
+2024-07-04 21:41:53,382 - INFO - Postal finished. Items scraped: 0
+2024-07-04 21:41:53,382 - INFO - Starting scrape for task: Lianatech
+2024-07-04 21:41:53,382 - INFO - Scraping category: Lianatech
+2024-07-04 21:41:56,769 - INFO - Scraping category: Lianatech, base ranking: 0
+2024-07-04 21:42:00,798 - INFO - Lianatech done
+2024-07-04 21:42:00,805 - INFO - Lianatech finished. Items scraped: 0
+2024-07-04 21:42:00,805 - INFO - Starting scrape for task: Zuora
+2024-07-04 21:42:00,805 - INFO - Scraping category: Zuora
+2024-07-04 21:42:04,238 - INFO - Scraping category: Zuora, base ranking: 0
+2024-07-04 21:42:08,291 - INFO - Zuora done
+2024-07-04 21:42:08,298 - INFO - Zuora finished. Items scraped: 0
+2024-07-04 21:42:08,298 - INFO - Starting scrape for task: Rudderstack
+2024-07-04 21:42:08,298 - INFO - Scraping category: Rudderstack
+2024-07-04 21:42:11,692 - INFO - Scraping category: Rudderstack, base ranking: 0
+2024-07-04 21:42:15,735 - INFO - Rudderstack done
+2024-07-04 21:42:15,742 - INFO - Rudderstack finished. Items scraped: 0
+2024-07-04 21:42:15,742 - INFO - Starting scrape for task: Techjockey
+2024-07-04 21:42:15,742 - INFO - Scraping category: Techjockey
+2024-07-04 21:42:19,132 - INFO - Scraping category: Techjockey, base ranking: 0
+2024-07-04 21:42:23,157 - INFO - Techjockey done
+2024-07-04 21:42:23,161 - INFO - Techjockey finished. Items scraped: 0
+2024-07-04 21:42:23,161 - INFO - Starting scrape for task: Synup
+2024-07-04 21:42:23,161 - INFO - Scraping category: Synup
+2024-07-04 21:42:26,565 - INFO - Scraping category: Synup, base ranking: 0
+2024-07-04 21:42:30,586 - INFO - Synup done
+2024-07-04 21:42:30,595 - INFO - Synup finished. Items scraped: 0
+2024-07-04 21:42:30,595 - INFO - Starting scrape for task: Shipbob
+2024-07-04 21:42:30,595 - INFO - Scraping category: Shipbob
+2024-07-04 21:42:33,948 - INFO - Scraping category: Shipbob, base ranking: 0
+2024-07-04 21:42:37,994 - INFO - Shipbob done
+2024-07-04 21:42:37,998 - INFO - Shipbob finished. Items scraped: 0
+2024-07-04 21:42:37,998 - INFO - Starting scrape for task: mparticle
+2024-07-04 21:42:37,998 - INFO - Scraping category: mparticle
+2024-07-04 21:42:41,410 - INFO - Scraping category: mparticle, base ranking: 0
+2024-07-04 21:42:45,444 - INFO - mparticle done
+2024-07-04 21:42:45,447 - INFO - mparticle finished. Items scraped: 0
+2024-07-04 21:42:45,447 - INFO - Starting scrape for task: Postscript
+2024-07-04 21:42:45,447 - INFO - Scraping category: Postscript
+2024-07-04 21:42:48,840 - INFO - Scraping category: Postscript, base ranking: 0
+2024-07-04 21:42:52,900 - INFO - Postscript done
+2024-07-04 21:42:52,904 - INFO - Postscript finished. Items scraped: 0
+2024-07-04 21:42:52,904 - INFO - Starting scrape for task: Salesmanago
+2024-07-04 21:42:52,904 - INFO - Scraping category: Salesmanago
+2024-07-04 21:42:56,297 - INFO - Scraping category: Salesmanago, base ranking: 0
+2024-07-04 21:43:00,321 - INFO - Salesmanago done
+2024-07-04 21:43:00,329 - INFO - Salesmanago finished. Items scraped: 0
+2024-07-04 21:43:00,329 - INFO - Starting scrape for task: Freshbooks App Store
+2024-07-04 21:43:00,329 - INFO - Scraping category: Freshbooks App Store
+2024-07-04 21:43:03,739 - INFO - Scraping category: Freshbooks App Store, base ranking: 0
+2024-07-04 21:43:07,786 - INFO - Freshbooks App Store done
+2024-07-04 21:43:07,793 - INFO - Freshbooks App Store finished. Items scraped: 0
+2024-07-04 21:43:07,794 - INFO - Starting scrape for task: Liveperson
+2024-07-04 21:43:07,794 - INFO - Scraping category: Liveperson
+2024-07-04 21:43:11,212 - INFO - Scraping category: Liveperson, base ranking: 0
+2024-07-04 21:43:15,252 - INFO - Liveperson done
+2024-07-04 21:43:15,259 - INFO - Liveperson finished. Items scraped: 0
+2024-07-04 21:43:15,259 - INFO - Starting scrape for task: Make
+2024-07-04 21:43:15,259 - INFO - Scraping category: Make
+2024-07-04 21:43:18,647 - INFO - Scraping category: Make, base ranking: 0
+2024-07-04 21:43:22,700 - INFO - Make done
+2024-07-04 21:43:22,704 - INFO - Make finished. Items scraped: 0
+2024-07-04 21:43:22,704 - ERROR - empty data sent to printer
+2024-07-04 21:43:24,743 - INFO - scraping done
+2024-07-04 22:35:36,751 - INFO - Starting scraping process
+2024-07-04 22:35:36,751 - INFO - Loaded tasks from TASKS SCRIPTS TO FIX.csv
+2024-07-04 22:35:47,119 - INFO - Opened URL: https://blueshift.com/partners/#integration-partners
+2024-07-04 22:35:49,120 - INFO - Starting scrape for task: Yext
+2024-07-04 22:35:49,120 - INFO - Scraping category: Yext
+2024-07-04 22:35:53,829 - INFO - Scraping category: Yext, base ranking: 0
+2024-07-04 22:35:57,895 - INFO - Yext done
+2024-07-04 22:35:57,905 - INFO - Yext finished. Items scraped: 0
+2024-07-04 22:35:57,905 - INFO - Starting scrape for task: Github
+2024-07-04 22:35:57,905 - INFO - Scraping category: Github
+2024-07-04 22:36:02,163 - INFO - Scraping category: Github, base ranking: 0
+2024-07-04 22:36:06,231 - INFO - Github done
+2024-07-04 22:36:06,234 - INFO - Github finished. Items scraped: 0
+2024-07-04 22:36:06,234 - INFO - Starting scrape for task: Blueshift
+2024-07-04 22:36:06,234 - INFO - Scraping category: Blueshift
+2024-07-04 22:36:10,159 - INFO - Scraping category: Blueshift, base ranking: 0
+2024-07-04 22:36:14,212 - INFO - Blueshift done
+2024-07-04 22:36:14,219 - INFO - Blueshift finished. Items scraped: 0
+2024-07-04 22:36:14,219 - INFO - Starting scrape for task: Gong
+2024-07-04 22:36:14,219 - INFO - Scraping category: Gong
+2024-07-04 22:36:17,580 - INFO - Scraping category: Gong, base ranking: 0
+2024-07-04 22:36:21,644 - INFO - Gong done
+2024-07-04 22:36:21,651 - INFO - Gong finished. Items scraped: 0
+2024-07-04 22:36:21,652 - INFO - Starting scrape for task: Airtable
+2024-07-04 22:36:21,652 - INFO - Scraping category: Airtable
+2024-07-04 22:36:25,071 - INFO - Scraping category: Airtable, base ranking: 0
+2024-07-04 22:36:29,132 - INFO - Airtable done
+2024-07-04 22:36:29,135 - INFO - Airtable finished. Items scraped: 0
+2024-07-04 22:36:29,135 - INFO - Starting scrape for task: Ringostat
+2024-07-04 22:36:29,135 - INFO - Scraping category: Ringostat
+2024-07-04 22:36:32,491 - INFO - Scraping category: Ringostat, base ranking: 0
+2024-07-04 22:36:36,538 - INFO - Ringostat done
+2024-07-04 22:36:36,545 - INFO - Ringostat finished. Items scraped: 0
+2024-07-04 22:36:36,545 - INFO - Starting scrape for task: Adobe Marketo
+2024-07-04 22:36:36,545 - INFO - Scraping category: Adobe Marketo
+2024-07-04 22:36:40,537 - INFO - Scraping category: Adobe Marketo, base ranking: 0
+2024-07-04 22:36:44,561 - INFO - Adobe Marketo done
+2024-07-04 22:36:44,564 - INFO - Adobe Marketo finished. Items scraped: 0
+2024-07-04 22:36:44,564 - INFO - Starting scrape for task: Klaviyo
+2024-07-04 22:36:44,564 - INFO - Scraping category: Klaviyo
+2024-07-04 22:36:47,979 - INFO - Scraping category: Klaviyo, base ranking: 0
+2024-07-04 22:36:52,044 - INFO - Klaviyo done
+2024-07-04 22:36:52,047 - INFO - Klaviyo finished. Items scraped: 0
+2024-07-04 22:36:52,047 - INFO - Starting scrape for task: Totango
+2024-07-04 22:36:52,047 - INFO - Scraping category: Totango
+2024-07-04 22:36:56,001 - INFO - Scraping category: Totango, base ranking: 0
+2024-07-04 22:37:00,069 - INFO - Totango done
+2024-07-04 22:37:00,076 - INFO - Totango finished. Items scraped: 0
+2024-07-04 22:37:00,076 - INFO - Starting scrape for task: Intercom
+2024-07-04 22:37:00,076 - INFO - Scraping category: Intercom
+2024-07-04 22:37:03,457 - INFO - Scraping category: Intercom, base ranking: 0
+2024-07-04 22:37:07,518 - INFO - Intercom done
+2024-07-04 22:37:07,525 - INFO - Intercom finished. Items scraped: 0
+2024-07-04 22:37:07,525 - INFO - Starting scrape for task: Extole
+2024-07-04 22:37:07,525 - INFO - Scraping category: Extole
+2024-07-04 22:37:10,863 - INFO - Scraping category: Extole, base ranking: 0
+2024-07-04 22:37:14,925 - INFO - Extole done
+2024-07-04 22:37:14,928 - INFO - Extole finished. Items scraped: 0
+2024-07-04 22:37:14,928 - INFO - Starting scrape for task: MINDBODY
+2024-07-04 22:37:14,928 - INFO - Scraping category: MINDBODY
+2024-07-04 22:37:18,320 - INFO - Scraping category: MINDBODY, base ranking: 0
+2024-07-04 22:37:22,371 - INFO - MINDBODY done
+2024-07-04 22:37:22,379 - INFO - MINDBODY finished. Items scraped: 0
+2024-07-04 22:37:22,379 - INFO - Starting scrape for task: Quickbooks
+2024-07-04 22:37:22,379 - INFO - Scraping category: Quickbooks
+2024-07-04 22:37:25,758 - INFO - Scraping category: Quickbooks, base ranking: 0
+2024-07-04 22:37:29,820 - INFO - Quickbooks done
+2024-07-04 22:37:29,828 - INFO - Quickbooks finished. Items scraped: 0
+2024-07-04 22:37:29,828 - INFO - Starting scrape for task: ActiveProspect
+2024-07-04 22:37:29,828 - INFO - Scraping category: ActiveProspect
+2024-07-04 22:37:33,193 - INFO - Scraping category: ActiveProspect, base ranking: 0
+2024-07-04 22:37:37,231 - INFO - ActiveProspect done
+2024-07-04 22:37:37,238 - INFO - ActiveProspect finished. Items scraped: 0
+2024-07-04 22:37:37,239 - INFO - Starting scrape for task: Hibob
+2024-07-04 22:37:37,239 - INFO - Scraping category: Hibob
+2024-07-04 22:37:40,648 - INFO - Scraping category: Hibob, base ranking: 0
+2024-07-04 22:37:44,700 - INFO - Hibob done
+2024-07-04 22:37:44,707 - INFO - Hibob finished. Items scraped: 0
+2024-07-04 22:37:44,707 - INFO - Starting scrape for task: Aurea
+2024-07-04 22:37:44,707 - INFO - Scraping category: Aurea
+2024-07-04 22:37:48,096 - INFO - Scraping category: Aurea, base ranking: 0
+2024-07-04 22:37:52,150 - INFO - Aurea done
+2024-07-04 22:37:52,158 - INFO - Aurea finished. Items scraped: 0
+2024-07-04 22:37:52,158 - INFO - Starting scrape for task: Personia
+2024-07-04 22:37:52,158 - INFO - Scraping category: Personia
+2024-07-04 22:37:55,513 - INFO - Scraping category: Personia, base ranking: 0
+2024-07-04 22:37:59,585 - INFO - Personia done
+2024-07-04 22:37:59,589 - INFO - Personia finished. Items scraped: 0
+2024-07-04 22:37:59,589 - INFO - Starting scrape for task: ChannelAdvisor
+2024-07-04 22:37:59,589 - INFO - Scraping category: ChannelAdvisor
+2024-07-04 22:38:02,982 - INFO - Scraping category: ChannelAdvisor, base ranking: 0
+2024-07-04 22:38:07,033 - INFO - ChannelAdvisor done
+2024-07-04 22:38:07,036 - INFO - ChannelAdvisor finished. Items scraped: 0
+2024-07-04 22:38:07,036 - INFO - Starting scrape for task: Klue
+2024-07-04 22:38:07,036 - INFO - Scraping category: Klue
+2024-07-04 22:38:10,763 - INFO - Scraping category: Klue, base ranking: 0
+2024-07-04 22:38:14,799 - INFO - Klue done
+2024-07-04 22:38:14,806 - INFO - Klue finished. Items scraped: 0
+2024-07-04 22:38:14,807 - INFO - Starting scrape for task: Google Cloud Console
+2024-07-04 22:38:14,807 - INFO - Scraping category: Google Cloud Console
+2024-07-04 22:38:18,520 - INFO - Scraping category: Google Cloud Console, base ranking: 0
+2024-07-04 22:38:22,567 - INFO - Google Cloud Console done
+2024-07-04 22:38:22,574 - INFO - Google Cloud Console finished. Items scraped: 0
+2024-07-04 22:38:22,574 - INFO - Starting scrape for task: Cart
+2024-07-04 22:38:22,574 - INFO - Scraping category: Cart
+2024-07-04 22:38:25,954 - INFO - Scraping category: Cart, base ranking: 0
+2024-07-04 22:38:30,026 - INFO - Cart done
+2024-07-04 22:38:30,029 - INFO - Cart finished. Items scraped: 0
+2024-07-04 22:38:30,029 - INFO - Starting scrape for task: Stripe Partner Directory
+2024-07-04 22:38:30,029 - INFO - Scraping category: Stripe Partner Directory
+2024-07-04 22:38:33,806 - INFO - Scraping category: Stripe Partner Directory, base ranking: 0
+2024-07-04 22:38:37,870 - INFO - Stripe Partner Directory done
+2024-07-04 22:38:37,878 - INFO - Stripe Partner Directory finished. Items scraped: 0
+2024-07-04 22:38:37,878 - INFO - Starting scrape for task: Weebly
+2024-07-04 22:38:37,878 - INFO - Scraping category: Weebly
+2024-07-04 22:38:41,598 - INFO - Scraping category: Weebly, base ranking: 0
+2024-07-04 22:38:45,664 - INFO - Weebly done
+2024-07-04 22:38:45,671 - INFO - Weebly finished. Items scraped: 0
+2024-07-04 22:38:45,671 - INFO - Starting scrape for task: Crowdstrike
+2024-07-04 22:38:45,671 - INFO - Scraping category: Crowdstrike
+2024-07-04 22:38:49,336 - INFO - Scraping category: Crowdstrike, base ranking: 0
+2024-07-04 22:38:53,399 - INFO - Crowdstrike done
+2024-07-04 22:38:53,402 - INFO - Crowdstrike finished. Items scraped: 0
+2024-07-04 22:38:53,402 - INFO - Starting scrape for task: Drift
+2024-07-04 22:38:53,402 - INFO - Scraping category: Drift
+2024-07-04 22:38:56,817 - INFO - Scraping category: Drift, base ranking: 0
+2024-07-04 22:39:00,834 - INFO - Drift done
+2024-07-04 22:39:00,841 - INFO - Drift finished. Items scraped: 0
+2024-07-04 22:39:00,841 - INFO - Starting scrape for task: Reply.io
+2024-07-04 22:39:00,841 - INFO - Scraping category: Reply.io
+2024-07-04 22:39:04,207 - INFO - Scraping category: Reply.io, base ranking: 0
+2024-07-04 22:39:08,227 - INFO - Reply.io done
+2024-07-04 22:39:08,230 - INFO - Reply.io finished. Items scraped: 0
+2024-07-04 22:39:08,230 - INFO - Starting scrape for task: Gusto
+2024-07-04 22:39:08,230 - INFO - Scraping category: Gusto
+2024-07-04 22:39:11,988 - INFO - Scraping category: Gusto, base ranking: 0
+2024-07-04 22:39:16,036 - INFO - Gusto done
+2024-07-04 22:39:16,045 - INFO - Gusto finished. Items scraped: 0
+2024-07-04 22:39:16,045 - INFO - Starting scrape for task: Blueconic
+2024-07-04 22:39:16,045 - INFO - Scraping category: Blueconic
+2024-07-04 22:39:19,440 - INFO - Scraping category: Blueconic, base ranking: 0
+2024-07-04 22:39:23,492 - INFO - Blueconic done
+2024-07-04 22:39:23,499 - INFO - Blueconic finished. Items scraped: 0
+2024-07-04 22:39:23,499 - INFO - Starting scrape for task: Calendly
+2024-07-04 22:39:23,499 - INFO - Scraping category: Calendly
+2024-07-04 22:39:27,056 - INFO - Scraping category: Calendly, base ranking: 0
+2024-07-04 22:39:31,081 - INFO - Calendly done
+2024-07-04 22:39:31,089 - INFO - Calendly finished. Items scraped: 0
+2024-07-04 22:39:31,089 - INFO - Starting scrape for task: Brevo
+2024-07-04 22:39:31,089 - INFO - Scraping category: Brevo
+2024-07-04 22:39:34,460 - INFO - Scraping category: Brevo, base ranking: 0
+2024-07-04 22:39:38,492 - INFO - Brevo done
+2024-07-04 22:39:38,504 - INFO - Brevo finished. Items scraped: 0
+2024-07-04 22:39:38,504 - INFO - Starting scrape for task: Censhare
+2024-07-04 22:39:38,504 - INFO - Scraping category: Censhare
+2024-07-04 22:39:41,896 - INFO - Scraping category: Censhare, base ranking: 0
+2024-07-04 22:39:45,913 - INFO - Censhare done
+2024-07-04 22:39:45,916 - INFO - Censhare finished. Items scraped: 0
+2024-07-04 22:39:45,916 - INFO - Starting scrape for task: 360Learning
+2024-07-04 22:39:45,916 - INFO - Scraping category: 360Learning
+2024-07-04 22:39:49,458 - INFO - Scraping category: 360Learning, base ranking: 0
+2024-07-04 22:39:53,501 - INFO - 360Learning done
+2024-07-04 22:39:53,504 - INFO - 360Learning finished. Items scraped: 0
+2024-07-04 22:39:53,504 - INFO - Starting scrape for task: Affirm
+2024-07-04 22:39:53,504 - INFO - Scraping category: Affirm
+2024-07-04 22:39:56,860 - INFO - Scraping category: Affirm, base ranking: 0
+2024-07-04 22:40:00,865 - INFO - Affirm done
+2024-07-04 22:40:00,869 - INFO - Affirm finished. Items scraped: 0
+2024-07-04 22:40:00,869 - INFO - Starting scrape for task: Atlassian
+2024-07-04 22:40:00,869 - INFO - Scraping category: Atlassian
+2024-07-04 22:40:04,885 - INFO - Scraping category: Atlassian, base ranking: 0
+2024-07-04 22:40:08,913 - INFO - Atlassian done
+2024-07-04 22:40:08,917 - INFO - Atlassian finished. Items scraped: 0
+2024-07-04 22:40:08,917 - INFO - Starting scrape for task: Okta
+2024-07-04 22:40:08,917 - INFO - Scraping category: Okta
+2024-07-04 22:40:12,300 - INFO - Scraping category: Okta, base ranking: 0
+2024-07-04 22:40:16,348 - INFO - Okta done
+2024-07-04 22:40:16,352 - INFO - Okta finished. Items scraped: 0
+2024-07-04 22:40:16,352 - INFO - Starting scrape for task: Oneflow
+2024-07-04 22:40:16,352 - INFO - Scraping category: Oneflow
+2024-07-04 22:40:19,753 - INFO - Scraping category: Oneflow, base ranking: 0
+2024-07-04 22:40:23,775 - INFO - Oneflow done
+2024-07-04 22:40:23,783 - INFO - Oneflow finished. Items scraped: 0
+2024-07-04 22:40:23,783 - INFO - Starting scrape for task: Contentful
+2024-07-04 22:40:23,783 - INFO - Scraping category: Contentful
+2024-07-04 22:40:27,165 - INFO - Scraping category: Contentful, base ranking: 0
+2024-07-04 22:40:31,226 - INFO - Contentful done
+2024-07-04 22:40:31,229 - INFO - Contentful finished. Items scraped: 0
+2024-07-04 22:40:31,229 - INFO - Starting scrape for task: BambooHR 
+2024-07-04 22:40:31,229 - INFO - Scraping category: BambooHR 
+2024-07-04 22:40:34,612 - INFO - Scraping category: BambooHR , base ranking: 0
+2024-07-04 22:40:38,653 - INFO - BambooHR  done
+2024-07-04 22:40:38,661 - INFO - BambooHR  finished. Items scraped: 0
+2024-07-04 22:40:38,661 - INFO - Starting scrape for task: BillingPlatform
+2024-07-04 22:40:38,661 - INFO - Scraping category: BillingPlatform
+2024-07-04 22:40:42,086 - INFO - Scraping category: BillingPlatform, base ranking: 0
+2024-07-04 22:40:46,113 - INFO - BillingPlatform done
+2024-07-04 22:40:46,120 - INFO - BillingPlatform finished. Items scraped: 0
+2024-07-04 22:40:46,121 - INFO - Starting scrape for task: Bombora
+2024-07-04 22:40:46,121 - INFO - Scraping category: Bombora
+2024-07-04 22:40:49,490 - INFO - Scraping category: Bombora, base ranking: 0
+2024-07-04 22:40:53,522 - INFO - Bombora done
+2024-07-04 22:40:53,536 - INFO - Bombora finished. Items scraped: 0
+2024-07-04 22:40:53,537 - INFO - Starting scrape for task: CampaignMonitor
+2024-07-04 22:40:53,537 - INFO - Scraping category: CampaignMonitor
+2024-07-04 22:40:56,960 - INFO - Scraping category: CampaignMonitor, base ranking: 0
+2024-07-04 22:41:01,014 - INFO - CampaignMonitor done
+2024-07-04 22:41:01,017 - INFO - CampaignMonitor finished. Items scraped: 0
+2024-07-04 22:41:01,017 - INFO - Starting scrape for task: Linear
+2024-07-04 22:41:01,017 - INFO - Scraping category: Linear
+2024-07-04 22:41:04,410 - INFO - Scraping category: Linear, base ranking: 0
+2024-07-04 22:41:08,466 - INFO - Linear done
+2024-07-04 22:41:08,473 - INFO - Linear finished. Items scraped: 0
+2024-07-04 22:41:08,473 - INFO - Starting scrape for task: Sage
+2024-07-04 22:41:08,473 - INFO - Scraping category: Sage
+2024-07-04 22:41:12,427 - INFO - Scraping category: Sage, base ranking: 0
+2024-07-04 22:41:16,464 - INFO - Sage done
+2024-07-04 22:41:16,471 - INFO - Sage finished. Items scraped: 0
+2024-07-04 22:41:16,471 - INFO - Starting scrape for task: Vercel
+2024-07-04 22:41:16,471 - INFO - Scraping category: Vercel
+2024-07-04 22:41:19,857 - INFO - Scraping category: Vercel, base ranking: 0
+2024-07-04 22:41:23,912 - INFO - Vercel done
+2024-07-04 22:41:23,915 - INFO - Vercel finished. Items scraped: 0
+2024-07-04 22:41:23,915 - INFO - Starting scrape for task: Pendo
+2024-07-04 22:41:23,915 - INFO - Scraping category: Pendo
+2024-07-04 22:41:27,279 - INFO - Scraping category: Pendo, base ranking: 0
+2024-07-04 22:41:31,317 - INFO - Pendo done
+2024-07-04 22:41:31,320 - INFO - Pendo finished. Items scraped: 0
+2024-07-04 22:41:31,320 - INFO - Starting scrape for task: Partnerbase
+2024-07-04 22:41:31,320 - INFO - Scraping category: Partnerbase
+2024-07-04 22:41:34,746 - INFO - Scraping category: Partnerbase, base ranking: 0
+2024-07-04 22:41:38,789 - INFO - Partnerbase done
+2024-07-04 22:41:38,796 - INFO - Partnerbase finished. Items scraped: 0
+2024-07-04 22:41:38,797 - INFO - Starting scrape for task: Servicenow
+2024-07-04 22:41:38,797 - INFO - Scraping category: Servicenow
+2024-07-04 22:41:42,169 - INFO - Scraping category: Servicenow, base ranking: 0
+2024-07-04 22:41:46,207 - INFO - Servicenow done
+2024-07-04 22:41:46,211 - INFO - Servicenow finished. Items scraped: 0
+2024-07-04 22:41:46,211 - INFO - Starting scrape for task: Netlify
+2024-07-04 22:41:46,211 - INFO - Scraping category: Netlify
+2024-07-04 22:41:49,580 - INFO - Scraping category: Netlify, base ranking: 0
+2024-07-04 22:41:53,591 - INFO - Netlify done
+2024-07-04 22:41:53,599 - INFO - Netlify finished. Items scraped: 0
+2024-07-04 22:41:53,599 - INFO - Starting scrape for task: Rippling
+2024-07-04 22:41:53,599 - INFO - Scraping category: Rippling
+2024-07-04 22:41:56,966 - INFO - Scraping category: Rippling, base ranking: 0
+2024-07-04 22:42:01,008 - INFO - Rippling done
+2024-07-04 22:42:01,012 - INFO - Rippling finished. Items scraped: 0
+2024-07-04 22:42:01,012 - INFO - Starting scrape for task: SmartRecruiters
+2024-07-04 22:42:01,012 - INFO - Scraping category: SmartRecruiters
+2024-07-04 22:42:04,395 - INFO - Scraping category: SmartRecruiters, base ranking: 0
+2024-07-04 22:42:08,449 - INFO - SmartRecruiters done
+2024-07-04 22:42:08,453 - INFO - SmartRecruiters finished. Items scraped: 0
+2024-07-04 22:42:08,453 - INFO - Starting scrape for task: Livechat
+2024-07-04 22:42:08,453 - INFO - Scraping category: Livechat
+2024-07-04 22:42:11,843 - INFO - Scraping category: Livechat, base ranking: 0
+2024-07-04 22:42:15,862 - INFO - Livechat done
+2024-07-04 22:42:15,865 - INFO - Livechat finished. Items scraped: 0
+2024-07-04 22:42:15,865 - INFO - Starting scrape for task: Miro
+2024-07-04 22:42:15,865 - INFO - Scraping category: Miro
+2024-07-04 22:42:19,231 - INFO - Scraping category: Miro, base ranking: 0
+2024-07-04 22:42:23,269 - INFO - Miro done
+2024-07-04 22:42:23,272 - INFO - Miro finished. Items scraped: 0
+2024-07-04 22:42:23,272 - INFO - Starting scrape for task: Healthie
+2024-07-04 22:42:23,272 - INFO - Scraping category: Healthie
+2024-07-04 22:42:26,673 - INFO - Scraping category: Healthie, base ranking: 0
+2024-07-04 22:42:30,697 - INFO - Healthie done
+2024-07-04 22:42:30,704 - INFO - Healthie finished. Items scraped: 0
+2024-07-04 22:42:30,704 - INFO - Starting scrape for task: Pax8
+2024-07-04 22:42:30,704 - INFO - Scraping category: Pax8
+2024-07-04 22:42:34,093 - INFO - Scraping category: Pax8, base ranking: 0
+2024-07-04 22:42:38,146 - INFO - Pax8 done
+2024-07-04 22:42:38,149 - INFO - Pax8 finished. Items scraped: 0
+2024-07-04 22:42:38,149 - INFO - Starting scrape for task: Eventbrite
+2024-07-04 22:42:38,149 - INFO - Scraping category: Eventbrite
+2024-07-04 22:42:43,530 - INFO - Scraping category: Eventbrite, base ranking: 0
+2024-07-04 22:42:47,549 - INFO - Eventbrite done
+2024-07-04 22:42:47,553 - INFO - Eventbrite finished. Items scraped: 0
+2024-07-04 22:42:47,553 - INFO - Starting scrape for task: OpenAI GPT Store
+2024-07-04 22:42:47,553 - INFO - Scraping category: OpenAI GPT Store
+2024-07-04 22:42:50,978 - INFO - Scraping category: OpenAI GPT Store, base ranking: 0
+2024-07-04 22:42:55,035 - INFO - OpenAI GPT Store done
+2024-07-04 22:42:55,038 - INFO - OpenAI GPT Store finished. Items scraped: 0
+2024-07-04 22:42:55,038 - INFO - Starting scrape for task: Chargebee
+2024-07-04 22:42:55,038 - INFO - Scraping category: Chargebee
+2024-07-04 22:42:58,392 - INFO - Scraping category: Chargebee, base ranking: 0
+2024-07-04 22:43:02,423 - INFO - Chargebee done
+2024-07-04 22:43:02,426 - INFO - Chargebee finished. Items scraped: 0
+2024-07-04 22:43:02,426 - INFO - Starting scrape for task: Aircall
+2024-07-04 22:43:02,426 - INFO - Scraping category: Aircall
+2024-07-04 22:43:05,819 - INFO - Scraping category: Aircall, base ranking: 0
+2024-07-04 22:43:09,860 - INFO - Aircall done
+2024-07-04 22:43:09,867 - INFO - Aircall finished. Items scraped: 0
+2024-07-04 22:43:09,867 - INFO - Starting scrape for task: Box
+2024-07-04 22:43:09,867 - INFO - Scraping category: Box
+2024-07-04 22:43:13,244 - INFO - Scraping category: Box, base ranking: 0
+2024-07-04 22:43:17,300 - INFO - Box done
+2024-07-04 22:43:17,307 - INFO - Box finished. Items scraped: 0
+2024-07-04 22:43:17,307 - INFO - Starting scrape for task: Appdirect
+2024-07-04 22:43:17,307 - INFO - Scraping category: Appdirect
+2024-07-04 22:43:20,651 - INFO - Scraping category: Appdirect, base ranking: 0
+2024-07-04 22:43:24,675 - INFO - Appdirect done
+2024-07-04 22:43:24,682 - INFO - Appdirect finished. Items scraped: 0
+2024-07-04 22:43:24,682 - INFO - Starting scrape for task: Deel Integration Marketplace
+2024-07-04 22:43:24,682 - INFO - Scraping category: Deel Integration Marketplace
+2024-07-04 22:43:28,076 - INFO - Scraping category: Deel Integration Marketplace, base ranking: 0
+2024-07-04 22:43:32,125 - INFO - Deel Integration Marketplace done
+2024-07-04 22:43:32,133 - INFO - Deel Integration Marketplace finished. Items scraped: 0
+2024-07-04 22:43:32,133 - INFO - Starting scrape for task: Emarsys
+2024-07-04 22:43:32,133 - INFO - Scraping category: Emarsys
+2024-07-04 22:43:35,479 - INFO - Scraping category: Emarsys, base ranking: 0
+2024-07-04 22:43:39,544 - INFO - Emarsys done
+2024-07-04 22:43:39,552 - INFO - Emarsys finished. Items scraped: 0
+2024-07-04 22:43:39,552 - INFO - Starting scrape for task: Talkdesk
+2024-07-04 22:43:39,552 - INFO - Scraping category: Talkdesk
+2024-07-04 22:43:42,916 - INFO - Scraping category: Talkdesk, base ranking: 0
+2024-07-04 22:43:46,940 - INFO - Talkdesk done
+2024-07-04 22:43:46,947 - INFO - Talkdesk finished. Items scraped: 0
+2024-07-04 22:43:46,947 - INFO - Starting scrape for task: Rydoo
+2024-07-04 22:43:46,947 - INFO - Scraping category: Rydoo
+2024-07-04 22:43:50,298 - INFO - Scraping category: Rydoo, base ranking: 0
+2024-07-04 22:43:54,343 - INFO - Rydoo done
+2024-07-04 22:43:54,347 - INFO - Rydoo finished. Items scraped: 0
+2024-07-04 22:43:54,347 - INFO - Starting scrape for task: Kameleoon
+2024-07-04 22:43:54,347 - INFO - Scraping category: Kameleoon
+2024-07-04 22:43:57,758 - INFO - Scraping category: Kameleoon, base ranking: 0
+2024-07-04 22:44:01,801 - INFO - Kameleoon done
+2024-07-04 22:44:01,808 - INFO - Kameleoon finished. Items scraped: 0
+2024-07-04 22:44:01,808 - INFO - Starting scrape for task: Powerreviews
+2024-07-04 22:44:01,808 - INFO - Scraping category: Powerreviews
+2024-07-04 22:44:05,195 - INFO - Scraping category: Powerreviews, base ranking: 0
+2024-07-04 22:44:09,233 - INFO - Powerreviews done
+2024-07-04 22:44:09,240 - INFO - Powerreviews finished. Items scraped: 0
+2024-07-04 22:44:09,240 - INFO - Starting scrape for task: Close
+2024-07-04 22:44:09,240 - INFO - Scraping category: Close
+2024-07-04 22:44:12,598 - INFO - Scraping category: Close, base ranking: 0
+2024-07-04 22:44:16,628 - INFO - Close done
+2024-07-04 22:44:16,632 - INFO - Close finished. Items scraped: 0
+2024-07-04 22:44:16,632 - INFO - Starting scrape for task: Oktopost
+2024-07-04 22:44:16,632 - INFO - Scraping category: Oktopost
+2024-07-04 22:44:20,036 - INFO - Scraping category: Oktopost, base ranking: 0
+2024-07-04 22:44:24,064 - INFO - Oktopost done
+2024-07-04 22:44:24,071 - INFO - Oktopost finished. Items scraped: 0
+2024-07-04 22:44:24,071 - INFO - Starting scrape for task: Dukaan
+2024-07-04 22:44:24,071 - INFO - Scraping category: Dukaan
+2024-07-04 22:44:27,457 - INFO - Scraping category: Dukaan, base ranking: 0
+2024-07-04 22:44:31,507 - INFO - Dukaan done
+2024-07-04 22:44:31,510 - INFO - Dukaan finished. Items scraped: 0
+2024-07-04 22:44:31,510 - INFO - Starting scrape for task: Network
+2024-07-04 22:44:31,510 - INFO - Scraping category: Network
+2024-07-04 22:44:34,875 - INFO - Scraping category: Network, base ranking: 0
+2024-07-04 22:44:38,921 - INFO - Network done
+2024-07-04 22:44:38,929 - INFO - Network finished. Items scraped: 0
+2024-07-04 22:44:38,929 - INFO - Starting scrape for task: Sendpulse
+2024-07-04 22:44:38,929 - INFO - Scraping category: Sendpulse
+2024-07-04 22:44:42,301 - INFO - Scraping category: Sendpulse, base ranking: 0
+2024-07-04 22:44:46,328 - INFO - Sendpulse done
+2024-07-04 22:44:46,332 - INFO - Sendpulse finished. Items scraped: 0
+2024-07-04 22:44:46,332 - INFO - Starting scrape for task: Maximizer
+2024-07-04 22:44:46,332 - INFO - Scraping category: Maximizer
+2024-07-04 22:44:49,685 - INFO - Scraping category: Maximizer, base ranking: 0
+2024-07-04 22:44:53,710 - INFO - Maximizer done
+2024-07-04 22:44:53,714 - INFO - Maximizer finished. Items scraped: 0
+2024-07-04 22:44:53,714 - INFO - Starting scrape for task: MovableInk
+2024-07-04 22:44:53,714 - INFO - Scraping category: MovableInk
+2024-07-04 22:44:57,111 - INFO - Scraping category: MovableInk, base ranking: 0
+2024-07-04 22:45:01,162 - INFO - MovableInk done
+2024-07-04 22:45:01,170 - INFO - MovableInk finished. Items scraped: 0
+2024-07-04 22:45:01,170 - INFO - Starting scrape for task: Lightspeedhq
+2024-07-04 22:45:01,170 - INFO - Scraping category: Lightspeedhq
+2024-07-04 22:45:05,251 - INFO - Scraping category: Lightspeedhq, base ranking: 0
+2024-07-04 22:45:09,279 - INFO - Lightspeedhq done
+2024-07-04 22:45:09,286 - INFO - Lightspeedhq finished. Items scraped: 0
+2024-07-04 22:45:09,286 - INFO - Starting scrape for task: yellow
+2024-07-04 22:45:09,286 - INFO - Scraping category: yellow
+2024-07-04 22:45:12,660 - INFO - Scraping category: yellow, base ranking: 0
+2024-07-04 22:45:16,695 - INFO - yellow done
+2024-07-04 22:45:16,704 - INFO - yellow finished. Items scraped: 0
+2024-07-04 22:45:16,704 - INFO - Starting scrape for task: Algolia
+2024-07-04 22:45:16,704 - INFO - Scraping category: Algolia
+2024-07-04 22:45:20,077 - INFO - Scraping category: Algolia, base ranking: 0
+2024-07-04 22:45:24,082 - INFO - Algolia done
+2024-07-04 22:45:24,091 - INFO - Algolia finished. Items scraped: 0
+2024-07-04 22:45:24,091 - INFO - Starting scrape for task: RollWorks
+2024-07-04 22:45:24,091 - INFO - Scraping category: RollWorks
+2024-07-04 22:45:27,474 - INFO - Scraping category: RollWorks, base ranking: 0
+2024-07-04 22:45:31,488 - INFO - RollWorks done
+2024-07-04 22:45:31,495 - INFO - RollWorks finished. Items scraped: 0
+2024-07-04 22:45:31,495 - INFO - Starting scrape for task: ReachDesk
+2024-07-04 22:45:31,495 - INFO - Scraping category: ReachDesk
+2024-07-04 22:45:34,865 - INFO - Scraping category: ReachDesk, base ranking: 0
+2024-07-04 22:45:38,903 - INFO - ReachDesk done
+2024-07-04 22:45:38,906 - INFO - ReachDesk finished. Items scraped: 0
+2024-07-04 22:45:38,906 - INFO - Starting scrape for task: Jebbit
+2024-07-04 22:45:38,906 - INFO - Scraping category: Jebbit
+2024-07-04 22:45:42,301 - INFO - Scraping category: Jebbit, base ranking: 0
+2024-07-04 22:45:46,339 - INFO - Jebbit done
+2024-07-04 22:45:46,346 - INFO - Jebbit finished. Items scraped: 0
+2024-07-04 22:45:46,346 - INFO - Starting scrape for task: Liferay
+2024-07-04 22:45:46,346 - INFO - Scraping category: Liferay
+2024-07-04 22:45:49,711 - INFO - Scraping category: Liferay, base ranking: 0
+2024-07-04 22:45:53,768 - INFO - Liferay done
+2024-07-04 22:45:53,775 - INFO - Liferay finished. Items scraped: 0
+2024-07-04 22:45:53,775 - INFO - Starting scrape for task: Okendo
+2024-07-04 22:45:53,776 - INFO - Scraping category: Okendo
+2024-07-04 22:45:57,129 - INFO - Scraping category: Okendo, base ranking: 0
+2024-07-04 22:46:01,168 - INFO - Okendo done
+2024-07-04 22:46:01,175 - INFO - Okendo finished. Items scraped: 0
+2024-07-04 22:46:01,175 - INFO - Starting scrape for task: Stackline
+2024-07-04 22:46:01,175 - INFO - Scraping category: Stackline
+2024-07-04 22:46:04,708 - INFO - Scraping category: Stackline, base ranking: 0
+2024-07-04 22:46:08,777 - INFO - Stackline done
+2024-07-04 22:46:08,784 - INFO - Stackline finished. Items scraped: 0
+2024-07-04 22:46:08,784 - INFO - Starting scrape for task: Repay
+2024-07-04 22:46:08,785 - INFO - Scraping category: Repay
+2024-07-04 22:46:12,192 - INFO - Scraping category: Repay, base ranking: 0
+2024-07-04 22:46:16,216 - INFO - Repay done
+2024-07-04 22:46:16,223 - INFO - Repay finished. Items scraped: 0
+2024-07-04 22:46:16,223 - INFO - Starting scrape for task: Olo
+2024-07-04 22:46:16,223 - INFO - Scraping category: Olo
+2024-07-04 22:46:19,613 - INFO - Scraping category: Olo, base ranking: 0
+2024-07-04 22:46:23,669 - INFO - Olo done
+2024-07-04 22:46:23,677 - INFO - Olo finished. Items scraped: 0
+2024-07-04 22:46:23,677 - INFO - Starting scrape for task: spscommerce
+2024-07-04 22:46:23,677 - INFO - Scraping category: spscommerce
+2024-07-04 22:46:27,048 - INFO - Scraping category: spscommerce, base ranking: 0
+2024-07-04 22:46:31,098 - INFO - spscommerce done
+2024-07-04 22:46:31,101 - INFO - spscommerce finished. Items scraped: 0
+2024-07-04 22:46:31,101 - INFO - Starting scrape for task: Certinia
+2024-07-04 22:46:31,101 - INFO - Scraping category: Certinia
+2024-07-04 22:46:34,490 - INFO - Scraping category: Certinia, base ranking: 0
+2024-07-04 22:46:38,524 - INFO - Certinia done
+2024-07-04 22:46:38,532 - INFO - Certinia finished. Items scraped: 0
+2024-07-04 22:46:38,532 - INFO - Starting scrape for task: Microsoft Azure
+2024-07-04 22:46:38,532 - INFO - Scraping category: Microsoft Azure
+2024-07-04 22:46:41,879 - INFO - Scraping category: Microsoft Azure, base ranking: 0
+2024-07-04 22:46:45,939 - INFO - Microsoft Azure done
+2024-07-04 22:46:45,942 - INFO - Microsoft Azure finished. Items scraped: 0
+2024-07-04 22:46:45,942 - INFO - Starting scrape for task: Nationbuilder
+2024-07-04 22:46:45,942 - INFO - Scraping category: Nationbuilder
+2024-07-04 22:46:49,310 - INFO - Scraping category: Nationbuilder, base ranking: 0
+2024-07-04 22:46:53,348 - INFO - Nationbuilder done
+2024-07-04 22:46:53,351 - INFO - Nationbuilder finished. Items scraped: 0
+2024-07-04 22:46:53,351 - INFO - Starting scrape for task: Feefo
+2024-07-04 22:46:53,351 - INFO - Scraping category: Feefo
+2024-07-04 22:46:56,739 - INFO - Scraping category: Feefo, base ranking: 0
+2024-07-04 22:47:00,776 - INFO - Feefo done
+2024-07-04 22:47:00,784 - INFO - Feefo finished. Items scraped: 0
+2024-07-04 22:47:00,784 - INFO - Starting scrape for task: Webflow
+2024-07-04 22:47:00,784 - INFO - Scraping category: Webflow
+2024-07-04 22:47:04,164 - INFO - Scraping category: Webflow, base ranking: 0
+2024-07-04 22:47:08,181 - INFO - Webflow done
+2024-07-04 22:47:08,185 - INFO - Webflow finished. Items scraped: 0
+2024-07-04 22:47:08,185 - INFO - Starting scrape for task: NachoNacho
+2024-07-04 22:47:08,185 - INFO - Scraping category: NachoNacho
+2024-07-04 22:47:11,832 - INFO - Scraping category: NachoNacho, base ranking: 0
+2024-07-04 22:47:15,883 - INFO - NachoNacho done
+2024-07-04 22:47:15,886 - INFO - NachoNacho finished. Items scraped: 0
+2024-07-04 22:47:15,886 - INFO - Starting scrape for task: Chilipiper
+2024-07-04 22:47:15,886 - INFO - Scraping category: Chilipiper
+2024-07-04 22:47:19,272 - INFO - Scraping category: Chilipiper, base ranking: 0
+2024-07-04 22:47:23,310 - INFO - Chilipiper done
+2024-07-04 22:47:23,313 - INFO - Chilipiper finished. Items scraped: 0
+2024-07-04 22:47:23,313 - INFO - Starting scrape for task: Yotpo
+2024-07-04 22:47:23,313 - INFO - Scraping category: Yotpo
+2024-07-04 22:47:26,678 - INFO - Scraping category: Yotpo, base ranking: 0
+2024-07-04 22:47:30,746 - INFO - Yotpo done
+2024-07-04 22:47:30,754 - INFO - Yotpo finished. Items scraped: 0
+2024-07-04 22:47:30,754 - INFO - Starting scrape for task: Monday
+2024-07-04 22:47:30,754 - INFO - Scraping category: Monday
+2024-07-04 22:47:34,133 - INFO - Scraping category: Monday, base ranking: 0
+2024-07-04 22:47:38,148 - INFO - Monday done
+2024-07-04 22:47:38,155 - INFO - Monday finished. Items scraped: 0
+2024-07-04 22:47:38,155 - INFO - Starting scrape for task: Webflow
+2024-07-04 22:47:38,155 - INFO - Scraping category: Webflow
+2024-07-04 22:47:41,945 - INFO - Scraping category: Webflow, base ranking: 0
+2024-07-04 22:47:45,986 - INFO - Webflow done
+2024-07-04 22:47:45,990 - INFO - Webflow finished. Items scraped: 0
+2024-07-04 22:47:45,990 - INFO - Starting scrape for task: Softwareag
+2024-07-04 22:47:45,990 - INFO - Scraping category: Softwareag
+2024-07-04 22:47:49,760 - INFO - Scraping category: Softwareag, base ranking: 0
+2024-07-04 22:47:53,803 - INFO - Softwareag done
+2024-07-04 22:47:53,810 - INFO - Softwareag finished. Items scraped: 0
+2024-07-04 22:47:53,811 - INFO - Starting scrape for task: Screencloud
+2024-07-04 22:47:53,811 - INFO - Scraping category: Screencloud
+2024-07-04 22:47:57,165 - INFO - Scraping category: Screencloud, base ranking: 0
+2024-07-04 22:48:01,183 - INFO - Screencloud done
+2024-07-04 22:48:01,190 - INFO - Screencloud finished. Items scraped: 0
+2024-07-04 22:48:01,190 - INFO - Starting scrape for task: Crossbeam
+2024-07-04 22:48:01,190 - INFO - Scraping category: Crossbeam
+2024-07-04 22:48:04,584 - INFO - Scraping category: Crossbeam, base ranking: 0
+2024-07-04 22:48:08,589 - INFO - Crossbeam done
+2024-07-04 22:48:08,597 - INFO - Crossbeam finished. Items scraped: 0
+2024-07-04 22:48:08,597 - INFO - Starting scrape for task: Trainual
+2024-07-04 22:48:08,597 - INFO - Scraping category: Trainual
+2024-07-04 22:48:12,254 - INFO - Scraping category: Trainual, base ranking: 0
+2024-07-04 22:48:16,277 - INFO - Trainual done
+2024-07-04 22:48:16,280 - INFO - Trainual finished. Items scraped: 0
+2024-07-04 22:48:16,280 - INFO - Starting scrape for task: Recurly
+2024-07-04 22:48:16,280 - INFO - Scraping category: Recurly
+2024-07-04 22:48:19,670 - INFO - Scraping category: Recurly, base ranking: 0
+2024-07-04 22:48:23,713 - INFO - Recurly done
+2024-07-04 22:48:23,720 - INFO - Recurly finished. Items scraped: 0
+2024-07-04 22:48:23,720 - INFO - Starting scrape for task: Mixpanel
+2024-07-04 22:48:23,720 - INFO - Scraping category: Mixpanel
+2024-07-04 22:48:27,116 - INFO - Scraping category: Mixpanel, base ranking: 0
+2024-07-04 22:48:31,152 - INFO - Mixpanel done
+2024-07-04 22:48:31,159 - INFO - Mixpanel finished. Items scraped: 0
+2024-07-04 22:48:31,159 - INFO - Starting scrape for task: Moengage
+2024-07-04 22:48:31,159 - INFO - Scraping category: Moengage
+2024-07-04 22:48:34,539 - INFO - Scraping category: Moengage, base ranking: 0
+2024-07-04 22:48:38,594 - INFO - Moengage done
+2024-07-04 22:48:38,597 - INFO - Moengage finished. Items scraped: 0
+2024-07-04 22:48:38,597 - INFO - Starting scrape for task: Raydiant
+2024-07-04 22:48:38,597 - INFO - Scraping category: Raydiant
+2024-07-04 22:48:41,985 - INFO - Scraping category: Raydiant, base ranking: 0
+2024-07-04 22:48:46,021 - INFO - Raydiant done
+2024-07-04 22:48:46,029 - INFO - Raydiant finished. Items scraped: 0
+2024-07-04 22:48:46,029 - INFO - Starting scrape for task: Servicetitan
+2024-07-04 22:48:46,029 - INFO - Scraping category: Servicetitan
+2024-07-04 22:48:49,372 - INFO - Scraping category: Servicetitan, base ranking: 0
+2024-07-04 22:48:53,397 - INFO - Servicetitan done
+2024-07-04 22:48:53,401 - INFO - Servicetitan finished. Items scraped: 0
+2024-07-04 22:48:53,401 - INFO - Starting scrape for task: Signpost
+2024-07-04 22:48:53,401 - INFO - Scraping category: Signpost
+2024-07-04 22:48:56,790 - INFO - Scraping category: Signpost, base ranking: 0
+2024-07-04 22:49:00,857 - INFO - Signpost done
+2024-07-04 22:49:00,865 - INFO - Signpost finished. Items scraped: 0
+2024-07-04 22:49:00,865 - INFO - Starting scrape for task: Adjust
+2024-07-04 22:49:00,865 - INFO - Scraping category: Adjust
+2024-07-04 22:49:04,270 - INFO - Scraping category: Adjust, base ranking: 0
+2024-07-04 22:49:08,296 - INFO - Adjust done
+2024-07-04 22:49:08,303 - INFO - Adjust finished. Items scraped: 0
+2024-07-04 22:49:08,303 - INFO - Starting scrape for task: Omnisend
+2024-07-04 22:49:08,303 - INFO - Scraping category: Omnisend
+2024-07-04 22:49:11,716 - INFO - Scraping category: Omnisend, base ranking: 0
+2024-07-04 22:49:15,723 - INFO - Omnisend done
+2024-07-04 22:49:15,731 - INFO - Omnisend finished. Items scraped: 0
+2024-07-04 22:49:15,731 - INFO - Starting scrape for task: Cloudtalk
+2024-07-04 22:49:15,731 - INFO - Scraping category: Cloudtalk
+2024-07-04 22:49:19,074 - INFO - Scraping category: Cloudtalk, base ranking: 0
+2024-07-04 22:49:23,091 - INFO - Cloudtalk done
+2024-07-04 22:49:23,099 - INFO - Cloudtalk finished. Items scraped: 0
+2024-07-04 22:49:23,099 - INFO - Starting scrape for task: Notion
+2024-07-04 22:49:23,099 - INFO - Scraping category: Notion
+2024-07-04 22:49:26,443 - INFO - Scraping category: Notion, base ranking: 0
+2024-07-04 22:49:30,493 - INFO - Notion done
+2024-07-04 22:49:30,500 - INFO - Notion finished. Items scraped: 0
+2024-07-04 22:49:30,500 - INFO - Starting scrape for task: LiveRamp
+2024-07-04 22:49:30,500 - INFO - Scraping category: LiveRamp
+2024-07-04 22:49:33,940 - INFO - Scraping category: LiveRamp, base ranking: 0
+2024-07-04 22:49:37,990 - INFO - LiveRamp done
+2024-07-04 22:49:37,993 - INFO - LiveRamp finished. Items scraped: 0
+2024-07-04 22:49:37,993 - INFO - Starting scrape for task: Piperlinersales
+2024-07-04 22:49:37,993 - INFO - Scraping category: Piperlinersales
+2024-07-04 22:49:41,381 - INFO - Scraping category: Piperlinersales, base ranking: 0
+2024-07-04 22:49:45,400 - INFO - Piperlinersales done
+2024-07-04 22:49:45,409 - INFO - Piperlinersales finished. Items scraped: 0
+2024-07-04 22:49:45,409 - INFO - Starting scrape for task: Scoro
+2024-07-04 22:49:45,409 - INFO - Scraping category: Scoro
+2024-07-04 22:49:48,808 - INFO - Scraping category: Scoro, base ranking: 0
+2024-07-04 22:49:52,846 - INFO - Scoro done
+2024-07-04 22:49:52,853 - INFO - Scoro finished. Items scraped: 0
+2024-07-04 22:49:52,854 - INFO - Starting scrape for task: Mode
+2024-07-04 22:49:52,854 - INFO - Scraping category: Mode
+2024-07-04 22:49:56,233 - INFO - Scraping category: Mode, base ranking: 0
+2024-07-04 22:50:00,258 - INFO - Mode done
+2024-07-04 22:50:00,266 - INFO - Mode finished. Items scraped: 0
+2024-07-04 22:50:00,266 - INFO - Starting scrape for task: Reputation
+2024-07-04 22:50:00,266 - INFO - Scraping category: Reputation
+2024-07-04 22:50:04,302 - INFO - Scraping category: Reputation, base ranking: 0
+2024-07-04 22:50:08,323 - INFO - Reputation done
+2024-07-04 22:50:08,330 - INFO - Reputation finished. Items scraped: 0
+2024-07-04 22:50:08,331 - INFO - Starting scrape for task: Extensiv
+2024-07-04 22:50:08,331 - INFO - Scraping category: Extensiv
+2024-07-04 22:50:11,726 - INFO - Scraping category: Extensiv, base ranking: 0
+2024-07-04 22:50:15,771 - INFO - Extensiv done
+2024-07-04 22:50:15,779 - INFO - Extensiv finished. Items scraped: 0
+2024-07-04 22:50:15,779 - INFO - Starting scrape for task: Postal
+2024-07-04 22:50:15,779 - INFO - Scraping category: Postal
+2024-07-04 22:50:19,245 - INFO - Scraping category: Postal, base ranking: 0
+2024-07-04 22:50:23,288 - INFO - Postal done
+2024-07-04 22:50:23,291 - INFO - Postal finished. Items scraped: 0
+2024-07-04 22:50:23,291 - INFO - Starting scrape for task: Lianatech
+2024-07-04 22:50:23,291 - INFO - Scraping category: Lianatech
+2024-07-04 22:50:26,672 - INFO - Scraping category: Lianatech, base ranking: 0
+2024-07-04 22:50:30,709 - INFO - Lianatech done
+2024-07-04 22:50:30,713 - INFO - Lianatech finished. Items scraped: 0
+2024-07-04 22:50:30,713 - INFO - Starting scrape for task: Zuora
+2024-07-04 22:50:30,713 - INFO - Scraping category: Zuora
+2024-07-04 22:50:34,073 - INFO - Scraping category: Zuora, base ranking: 0
+2024-07-04 22:50:38,111 - INFO - Zuora done
+2024-07-04 22:50:38,115 - INFO - Zuora finished. Items scraped: 0
+2024-07-04 22:50:38,115 - INFO - Starting scrape for task: Rudderstack
+2024-07-04 22:50:38,115 - INFO - Scraping category: Rudderstack
+2024-07-04 22:50:41,492 - INFO - Scraping category: Rudderstack, base ranking: 0
+2024-07-04 22:50:45,544 - INFO - Rudderstack done
+2024-07-04 22:50:45,548 - INFO - Rudderstack finished. Items scraped: 0
+2024-07-04 22:50:45,548 - INFO - Starting scrape for task: Techjockey
+2024-07-04 22:50:45,548 - INFO - Scraping category: Techjockey
+2024-07-04 22:50:48,890 - INFO - Scraping category: Techjockey, base ranking: 0
+2024-07-04 22:50:52,925 - INFO - Techjockey done
+2024-07-04 22:50:52,932 - INFO - Techjockey finished. Items scraped: 0
+2024-07-04 22:50:52,933 - INFO - Starting scrape for task: Synup
+2024-07-04 22:50:52,933 - INFO - Scraping category: Synup
+2024-07-04 22:50:56,290 - INFO - Scraping category: Synup, base ranking: 0
+2024-07-04 22:51:00,309 - INFO - Synup done
+2024-07-04 22:51:00,313 - INFO - Synup finished. Items scraped: 0
+2024-07-04 22:51:00,313 - INFO - Starting scrape for task: Shipbob
+2024-07-04 22:51:00,313 - INFO - Scraping category: Shipbob
+2024-07-04 22:51:03,655 - INFO - Scraping category: Shipbob, base ranking: 0
+2024-07-04 22:51:07,693 - INFO - Shipbob done
+2024-07-04 22:51:07,700 - INFO - Shipbob finished. Items scraped: 0
+2024-07-04 22:51:07,700 - INFO - Starting scrape for task: mparticle
+2024-07-04 22:51:07,701 - INFO - Scraping category: mparticle
+2024-07-04 22:51:11,092 - INFO - Scraping category: mparticle, base ranking: 0
+2024-07-04 22:51:15,135 - INFO - mparticle done
+2024-07-04 22:51:15,142 - INFO - mparticle finished. Items scraped: 0
+2024-07-04 22:51:15,143 - INFO - Starting scrape for task: Postscript
+2024-07-04 22:51:15,143 - INFO - Scraping category: Postscript
+2024-07-04 22:51:18,592 - INFO - Scraping category: Postscript, base ranking: 0
+2024-07-04 22:51:22,646 - INFO - Postscript done
+2024-07-04 22:51:22,653 - INFO - Postscript finished. Items scraped: 0
+2024-07-04 22:51:22,653 - INFO - Starting scrape for task: Salesmanago
+2024-07-04 22:51:22,653 - INFO - Scraping category: Salesmanago
+2024-07-04 22:51:26,043 - INFO - Scraping category: Salesmanago, base ranking: 0
+2024-07-04 22:51:30,055 - INFO - Salesmanago done
+2024-07-04 22:51:30,063 - INFO - Salesmanago finished. Items scraped: 0
+2024-07-04 22:51:30,063 - INFO - Starting scrape for task: Freshbooks App Store
+2024-07-04 22:51:30,063 - INFO - Scraping category: Freshbooks App Store
+2024-07-04 22:51:33,417 - INFO - Scraping category: Freshbooks App Store, base ranking: 0
+2024-07-04 22:51:37,438 - INFO - Freshbooks App Store done
+2024-07-04 22:51:37,441 - INFO - Freshbooks App Store finished. Items scraped: 0
+2024-07-04 22:51:37,441 - INFO - Starting scrape for task: Liveperson
+2024-07-04 22:51:37,441 - INFO - Scraping category: Liveperson
+2024-07-04 22:51:40,822 - INFO - Scraping category: Liveperson, base ranking: 0
+2024-07-04 22:51:44,868 - INFO - Liveperson done
+2024-07-04 22:51:44,875 - INFO - Liveperson finished. Items scraped: 0
+2024-07-04 22:51:44,875 - INFO - Starting scrape for task: Make
+2024-07-04 22:51:44,875 - INFO - Scraping category: Make
+2024-07-04 22:51:48,265 - INFO - Scraping category: Make, base ranking: 0
+2024-07-04 22:51:52,310 - INFO - Make done
+2024-07-04 22:51:52,314 - INFO - Make finished. Items scraped: 0
+2024-07-04 22:51:52,314 - ERROR - empty data sent to printer
+2024-07-04 22:51:54,397 - INFO - scraping done
+2024-07-04 23:02:37,602 - INFO - Yext done
+2024-07-04 23:02:37,664 - INFO - Yext finished.
+2024-07-04 23:02:48,912 - INFO - Github done
+2024-07-04 23:02:49,007 - INFO - Github finished.
+2024-07-04 23:03:01,369 - INFO - Blueshift done
+2024-07-04 23:03:01,484 - INFO - Blueshift finished.
+2024-07-04 23:03:13,759 - INFO - Gong done
+2024-07-04 23:03:13,860 - INFO - Gong finished.
+2024-07-04 23:03:25,318 - INFO - Airtable done
+2024-07-04 23:03:25,378 - INFO - Airtable finished.
+2024-07-04 23:03:36,963 - INFO - Ringostat done
+2024-07-04 23:03:37,031 - INFO - Ringostat finished.
+2024-07-04 23:03:49,429 - INFO - Adobe Marketo done
+2024-07-04 23:03:49,489 - INFO - Adobe Marketo finished.
+2024-07-04 23:04:01,431 - INFO - Klaviyo done
+2024-07-04 23:04:01,496 - INFO - Klaviyo finished.
+2024-07-04 23:04:13,058 - INFO - Totango done
+2024-07-04 23:04:13,125 - INFO - Totango finished.
+2024-07-04 23:04:25,963 - INFO - Intercom done
+2024-07-04 23:04:26,026 - INFO - Intercom finished.
+2024-07-04 23:04:37,729 - INFO - Extole done
+2024-07-04 23:04:37,793 - INFO - Extole finished.
+2024-07-04 23:04:49,417 - INFO - MINDBODY done
+2024-07-04 23:04:49,480 - INFO - MINDBODY finished.
+2024-07-04 23:05:00,906 - INFO - Quickbooks done
+2024-07-04 23:05:00,967 - INFO - Quickbooks finished.
+2024-07-04 23:05:13,312 - INFO - ActiveProspect done
+2024-07-04 23:05:13,375 - INFO - ActiveProspect finished.
+2024-07-04 23:05:24,651 - INFO - Hibob done
+2024-07-04 23:05:24,719 - INFO - Hibob finished.
+2024-07-04 23:05:36,164 - INFO - Aurea done
+2024-07-04 23:05:36,224 - INFO - Aurea finished.
+2024-07-04 23:05:47,776 - INFO - Personia done
+2024-07-04 23:05:47,839 - INFO - Personia finished.
+2024-07-04 23:05:59,089 - INFO - ChannelAdvisor done
+2024-07-04 23:05:59,151 - INFO - ChannelAdvisor finished.
+2024-07-04 23:06:10,482 - INFO - Klue done
+2024-07-04 23:06:10,544 - INFO - Klue finished.
+2024-07-04 23:06:14,957 - ERROR - empty data sent to printer
+2024-07-04 23:10:07,002 - INFO - Yext done
+2024-07-04 23:10:07,064 - INFO - Yext finished.
+2024-07-04 23:10:19,614 - INFO - Github done
+2024-07-04 23:10:19,726 - INFO - Github finished.
+2024-07-04 23:10:32,110 - INFO - Blueshift done
+2024-07-04 23:10:32,173 - INFO - Blueshift finished.
+2024-07-04 23:10:43,939 - INFO - Gong done
+2024-07-04 23:10:44,018 - INFO - Gong finished.
+2024-07-04 23:10:56,188 - INFO - Airtable done
+2024-07-04 23:10:56,251 - INFO - Airtable finished.
+2024-07-04 23:11:08,674 - INFO - Ringostat done
+2024-07-04 23:11:08,752 - INFO - Ringostat finished.
+2024-07-04 23:11:20,981 - INFO - Adobe Marketo done
+2024-07-04 23:11:21,048 - INFO - Adobe Marketo finished.
+2024-07-04 23:11:32,599 - INFO - Klaviyo done
+2024-07-04 23:11:32,676 - INFO - Klaviyo finished.
+2024-07-04 23:11:44,970 - INFO - Totango done
+2024-07-04 23:11:45,048 - INFO - Totango finished.
+2024-07-04 23:11:56,735 - INFO - Intercom done
+2024-07-04 23:11:56,799 - INFO - Intercom finished.
+2024-07-04 23:12:08,879 - INFO - Extole done
+2024-07-04 23:12:08,948 - INFO - Extole finished.
+2024-07-04 23:12:20,581 - INFO - MINDBODY done
+2024-07-04 23:12:20,647 - INFO - MINDBODY finished.
+2024-07-04 23:12:32,281 - INFO - Quickbooks done
+2024-07-04 23:12:32,359 - INFO - Quickbooks finished.
+2024-07-04 23:12:44,891 - INFO - ActiveProspect done
+2024-07-04 23:12:44,975 - INFO - ActiveProspect finished.
+2024-07-04 23:12:56,672 - INFO - Hibob done
+2024-07-04 23:12:56,739 - INFO - Hibob finished.
+2024-07-04 23:13:08,807 - INFO - Aurea done
+2024-07-04 23:13:08,882 - INFO - Aurea finished.
+2024-07-04 23:13:20,495 - INFO - Personia done
+2024-07-04 23:13:20,558 - INFO - Personia finished.
+2024-07-04 23:13:32,562 - INFO - ChannelAdvisor done
+2024-07-04 23:13:32,624 - INFO - ChannelAdvisor finished.
+2024-07-04 23:13:45,188 - INFO - Klue done
+2024-07-04 23:13:45,254 - INFO - Klue finished.
+2024-07-04 23:13:57,046 - INFO - Google Cloud Console done
+2024-07-04 23:13:57,122 - INFO - Google Cloud Console finished.
+2024-07-04 23:14:08,833 - INFO - Cart done
+2024-07-04 23:14:08,893 - INFO - Cart finished.
+2024-07-04 23:14:20,766 - INFO - Stripe Partner Directory done
+2024-07-04 23:14:20,839 - INFO - Stripe Partner Directory finished.
+2024-07-04 23:14:32,553 - INFO - Weebly done
+2024-07-04 23:14:32,618 - INFO - Weebly finished.
+2024-07-04 23:14:44,254 - INFO - Crowdstrike done
+2024-07-04 23:14:44,335 - INFO - Crowdstrike finished.
+2024-07-04 23:14:56,663 - INFO - Drift done
+2024-07-04 23:14:56,730 - INFO - Drift finished.
+2024-07-04 23:15:08,618 - INFO - Reply.io done
+2024-07-04 23:15:08,702 - INFO - Reply.io finished.
+2024-07-04 23:15:21,078 - INFO - Gusto done
+2024-07-04 23:15:21,140 - INFO - Gusto finished.
+2024-07-04 23:15:32,937 - INFO - Blueconic done
+2024-07-04 23:15:33,003 - INFO - Blueconic finished.
+2024-07-04 23:15:44,716 - INFO - Calendly done
+2024-07-04 23:15:44,778 - INFO - Calendly finished.
+2024-07-04 23:15:56,695 - INFO - Brevo done
+2024-07-04 23:15:56,754 - INFO - Brevo finished.
+2024-07-04 23:16:08,421 - INFO - Censhare done
+2024-07-04 23:16:08,483 - INFO - Censhare finished.
+2024-07-04 23:16:20,287 - INFO - 360Learning done
+2024-07-04 23:16:20,349 - INFO - 360Learning finished.
+2024-07-04 23:16:32,018 - INFO - Affirm done
+2024-07-04 23:16:32,082 - INFO - Affirm finished.
+2024-07-04 23:16:43,922 - INFO - Atlassian done
+2024-07-04 23:16:43,991 - INFO - Atlassian finished.
+2024-07-04 23:16:55,547 - INFO - Okta done
+2024-07-04 23:16:55,608 - INFO - Okta finished.
+2024-07-04 23:17:07,954 - INFO - Oneflow done
+2024-07-04 23:17:08,025 - INFO - Oneflow finished.
+2024-07-04 23:17:19,641 - INFO - Contentful done
+2024-07-04 23:17:19,704 - INFO - Contentful finished.
+2024-07-04 23:17:31,598 - INFO - BambooHR  done
+2024-07-04 23:17:31,662 - INFO - BambooHR  finished.
+2024-07-04 23:17:43,422 - INFO - BillingPlatform done
+2024-07-04 23:17:43,502 - INFO - BillingPlatform finished.
+2024-07-04 23:17:55,184 - INFO - Bombora done
+2024-07-04 23:17:55,246 - INFO - Bombora finished.
+2024-07-04 23:18:07,110 - INFO - CampaignMonitor done
+2024-07-04 23:18:07,184 - INFO - CampaignMonitor finished.
+2024-07-04 23:18:18,874 - INFO - Linear done
+2024-07-04 23:18:18,954 - INFO - Linear finished.
+2024-07-04 23:18:30,531 - INFO - Sage done
+2024-07-04 23:18:30,595 - INFO - Sage finished.
+2024-07-04 23:18:42,475 - INFO - Vercel done
+2024-07-04 23:18:42,535 - INFO - Vercel finished.
+2024-07-04 23:18:54,265 - INFO - Pendo done
+2024-07-04 23:18:54,344 - INFO - Pendo finished.
+2024-07-04 23:19:06,461 - INFO - Partnerbase done
+2024-07-04 23:19:06,525 - INFO - Partnerbase finished.
+2024-07-04 23:19:18,437 - INFO - Servicenow done
+2024-07-04 23:19:18,517 - INFO - Servicenow finished.
+2024-07-04 23:19:30,068 - INFO - Netlify done
+2024-07-04 23:19:30,136 - INFO - Netlify finished.
+2024-07-04 23:19:41,437 - INFO - Rippling done
+2024-07-04 23:19:41,498 - INFO - Rippling finished.
+2024-07-04 23:19:52,959 - INFO - SmartRecruiters done
+2024-07-04 23:19:53,023 - INFO - SmartRecruiters finished.
+2024-07-04 23:20:04,328 - INFO - Livechat done
+2024-07-04 23:20:04,398 - INFO - Livechat finished.
+2024-07-04 23:20:16,687 - INFO - Miro done
+2024-07-04 23:20:16,760 - INFO - Miro finished.
+2024-07-04 23:20:28,265 - INFO - Healthie done
+2024-07-04 23:20:28,346 - INFO - Healthie finished.
+2024-07-04 23:20:39,749 - INFO - Pax8 done
+2024-07-04 23:20:39,809 - INFO - Pax8 finished.
+2024-07-04 23:20:52,168 - INFO - Eventbrite done
+2024-07-04 23:20:52,230 - INFO - Eventbrite finished.
+2024-07-04 23:21:03,734 - INFO - OpenAI GPT Store done
+2024-07-04 23:21:03,804 - INFO - OpenAI GPT Store finished.
+2024-07-04 23:21:15,152 - INFO - Chargebee done
+2024-07-04 23:21:15,247 - INFO - Chargebee finished.
+2024-07-04 23:21:27,137 - INFO - Aircall done
+2024-07-04 23:21:27,198 - INFO - Aircall finished.
+2024-07-04 23:21:38,763 - INFO - Box done
+2024-07-04 23:21:38,849 - INFO - Box finished.
+2024-07-04 23:21:50,567 - INFO - Appdirect done
+2024-07-04 23:21:50,639 - INFO - Appdirect finished.
+2024-07-04 23:22:02,496 - INFO - Deel Integration Marketplace done
+2024-07-04 23:22:02,561 - INFO - Deel Integration Marketplace finished.
+2024-07-04 23:22:13,746 - INFO - Emarsys done
+2024-07-04 23:22:13,824 - INFO - Emarsys finished.
+2024-07-04 23:22:25,269 - INFO - Talkdesk done
+2024-07-04 23:22:25,330 - INFO - Talkdesk finished.
+2024-07-04 23:22:37,120 - INFO - Rydoo done
+2024-07-04 23:22:37,203 - INFO - Rydoo finished.
+2024-07-04 23:22:48,862 - INFO - Kameleoon done
+2024-07-04 23:22:48,940 - INFO - Kameleoon finished.
+2024-07-04 23:23:00,616 - INFO - Powerreviews done
+2024-07-04 23:23:00,692 - INFO - Powerreviews finished.
+2024-07-04 23:23:12,149 - INFO - Close done
+2024-07-04 23:23:12,210 - INFO - Close finished.
+2024-07-04 23:23:23,978 - INFO - Oktopost done
+2024-07-04 23:23:24,040 - INFO - Oktopost finished.
+2024-07-04 23:23:35,680 - INFO - Dukaan done
+2024-07-04 23:23:35,742 - INFO - Dukaan finished.
+2024-07-04 23:23:47,554 - INFO - Network done
+2024-07-04 23:23:47,633 - INFO - Network finished.
+2024-07-04 23:23:59,773 - INFO - Sendpulse done
+2024-07-04 23:23:59,835 - INFO - Sendpulse finished.
+2024-07-04 23:24:12,493 - INFO - Maximizer done
+2024-07-04 23:24:12,555 - INFO - Maximizer finished.
+2024-07-04 23:24:24,210 - INFO - MovableInk done
+2024-07-04 23:24:24,288 - INFO - MovableInk finished.
+2024-07-04 23:24:35,738 - INFO - Lightspeedhq done
+2024-07-04 23:24:35,803 - INFO - Lightspeedhq finished.
+2024-07-04 23:24:47,937 - INFO - yellow done
+2024-07-04 23:24:48,005 - INFO - yellow finished.
+2024-07-04 23:24:59,753 - INFO - Algolia done
+2024-07-04 23:24:59,816 - INFO - Algolia finished.
+2024-07-04 23:25:12,171 - INFO - RollWorks done
+2024-07-04 23:25:12,232 - INFO - RollWorks finished.
+2024-07-04 23:25:23,781 - INFO - ReachDesk done
+2024-07-04 23:25:23,853 - INFO - ReachDesk finished.
+2024-07-04 23:25:35,273 - INFO - Jebbit done
+2024-07-04 23:25:35,362 - INFO - Jebbit finished.
+2024-07-04 23:25:46,894 - INFO - Liferay done
+2024-07-04 23:25:46,958 - INFO - Liferay finished.
+2024-07-04 23:25:58,329 - INFO - Okendo done
+2024-07-04 23:25:58,393 - INFO - Okendo finished.
+2024-07-04 23:26:10,720 - INFO - Stackline done
+2024-07-04 23:26:10,797 - INFO - Stackline finished.
+2024-07-04 23:26:22,241 - INFO - Repay done
+2024-07-04 23:26:22,318 - INFO - Repay finished.
+2024-07-04 23:26:33,718 - INFO - Olo done
+2024-07-04 23:26:33,796 - INFO - Olo finished.
+2024-07-04 23:26:45,055 - INFO - spscommerce done
+2024-07-04 23:26:45,119 - INFO - spscommerce finished.
+2024-07-04 23:26:56,604 - INFO - Certinia done
+2024-07-04 23:26:56,677 - INFO - Certinia finished.
+2024-07-04 23:27:08,109 - INFO - Microsoft Azure done
+2024-07-04 23:27:08,176 - INFO - Microsoft Azure finished.
+2024-07-04 23:27:19,788 - INFO - Nationbuilder done
+2024-07-04 23:27:19,851 - INFO - Nationbuilder finished.
+2024-07-04 23:27:31,208 - INFO - Feefo done
+2024-07-04 23:27:31,275 - INFO - Feefo finished.
+2024-07-04 23:27:42,644 - INFO - Webflow done
+2024-07-04 23:27:42,707 - INFO - Webflow finished.
+2024-07-04 23:27:54,046 - INFO - NachoNacho done
+2024-07-04 23:27:54,131 - INFO - NachoNacho finished.
+2024-07-04 23:28:05,622 - INFO - Chilipiper done
+2024-07-04 23:28:05,691 - INFO - Chilipiper finished.
+2024-07-04 23:28:17,359 - INFO - Yotpo done
+2024-07-04 23:28:17,449 - INFO - Yotpo finished.
+2024-07-04 23:28:30,040 - INFO - Monday done
+2024-07-04 23:28:30,116 - INFO - Monday finished.
+2024-07-04 23:28:42,126 - INFO - Webflow done
+2024-07-04 23:28:42,201 - INFO - Webflow finished.
+2024-07-04 23:28:54,696 - INFO - Softwareag done
+2024-07-04 23:28:54,839 - INFO - Softwareag finished.
+2024-07-04 23:29:06,675 - INFO - Screencloud done
+2024-07-04 23:29:06,749 - INFO - Screencloud finished.
+2024-07-04 23:29:19,289 - INFO - Crossbeam done
+2024-07-04 23:29:19,359 - INFO - Crossbeam finished.
+2024-07-04 23:29:31,118 - INFO - Trainual done
+2024-07-04 23:29:31,179 - INFO - Trainual finished.
+2024-07-04 23:29:42,967 - INFO - Recurly done
+2024-07-04 23:29:43,029 - INFO - Recurly finished.
+2024-07-04 23:29:54,811 - INFO - Mixpanel done
+2024-07-04 23:29:54,890 - INFO - Mixpanel finished.
+2024-07-04 23:30:06,575 - INFO - Moengage done
+2024-07-04 23:30:06,654 - INFO - Moengage finished.
+2024-07-04 23:30:19,265 - INFO - Raydiant done
+2024-07-04 23:30:19,328 - INFO - Raydiant finished.
+2024-07-04 23:30:32,489 - INFO - Servicetitan done
+2024-07-04 23:30:32,567 - INFO - Servicetitan finished.
+2024-07-04 23:30:44,354 - INFO - Signpost done
+2024-07-04 23:30:44,422 - INFO - Signpost finished.
+2024-07-04 23:30:56,178 - INFO - Adjust done
+2024-07-04 23:30:56,242 - INFO - Adjust finished.
+2024-07-04 23:31:07,813 - INFO - Omnisend done
+2024-07-04 23:31:07,889 - INFO - Omnisend finished.
+2024-07-04 23:31:19,877 - INFO - Cloudtalk done
+2024-07-04 23:31:19,942 - INFO - Cloudtalk finished.
+2024-07-04 23:31:31,757 - INFO - Notion done
+2024-07-04 23:31:31,822 - INFO - Notion finished.
+2024-07-04 23:31:43,712 - INFO - LiveRamp done
+2024-07-04 23:31:43,774 - INFO - LiveRamp finished.
+2024-07-04 23:31:56,017 - INFO - Piperlinersales done
+2024-07-04 23:31:56,095 - INFO - Piperlinersales finished.
+2024-07-04 23:32:07,827 - INFO - Scoro done
+2024-07-04 23:32:07,890 - INFO - Scoro finished.
+2024-07-04 23:32:14,219 - ERROR - empty data sent to printer
+2024-07-04 23:33:19,767 - INFO - Yext done
+2024-07-04 23:33:19,845 - INFO - Yext finished.
+2024-07-04 23:33:31,768 - INFO - Github done
+2024-07-04 23:33:31,855 - INFO - Github finished.
+2024-07-04 23:33:43,939 - INFO - Blueshift done
+2024-07-04 23:33:44,013 - INFO - Blueshift finished.
+2024-07-04 23:33:56,511 - INFO - Gong done
+2024-07-04 23:33:56,586 - INFO - Gong finished.
+2024-07-04 23:34:08,611 - INFO - Airtable done
+2024-07-04 23:34:08,683 - INFO - Airtable finished.
+2024-07-04 23:34:20,716 - INFO - Ringostat done
+2024-07-04 23:34:20,776 - INFO - Ringostat finished.
+2024-07-04 23:34:32,715 - INFO - Adobe Marketo done
+2024-07-04 23:34:32,779 - INFO - Adobe Marketo finished.
+2024-07-04 23:34:45,204 - INFO - Klaviyo done
+2024-07-04 23:34:45,280 - INFO - Klaviyo finished.
+2024-07-04 23:34:57,287 - INFO - Totango done
+2024-07-04 23:34:57,350 - INFO - Totango finished.
+2024-07-04 23:35:09,206 - INFO - Intercom done
+2024-07-04 23:35:09,270 - INFO - Intercom finished.
+2024-07-04 23:35:22,219 - INFO - Extole done
+2024-07-04 23:35:22,286 - INFO - Extole finished.
+2024-07-04 23:35:34,254 - INFO - MINDBODY done
+2024-07-04 23:35:34,315 - INFO - MINDBODY finished.
+2024-07-04 23:35:46,196 - INFO - Quickbooks done
+2024-07-04 23:35:46,274 - INFO - Quickbooks finished.
+2024-07-04 23:35:58,548 - INFO - ActiveProspect done
+2024-07-04 23:35:58,614 - INFO - ActiveProspect finished.
+2024-07-04 23:36:11,033 - INFO - Hibob done
+2024-07-04 23:36:11,112 - INFO - Hibob finished.
+2024-07-04 23:36:23,151 - INFO - Aurea done
+2024-07-04 23:36:23,227 - INFO - Aurea finished.
+2024-07-04 23:36:35,751 - INFO - Personia done
+2024-07-04 23:36:35,828 - INFO - Personia finished.
+2024-07-04 23:36:47,813 - INFO - ChannelAdvisor done
+2024-07-04 23:36:47,898 - INFO - ChannelAdvisor finished.
+2024-07-04 23:36:59,808 - INFO - Klue done
+2024-07-04 23:36:59,876 - INFO - Klue finished.
+2024-07-04 23:37:11,720 - INFO - Google Cloud Console done
+2024-07-04 23:37:11,795 - INFO - Google Cloud Console finished.
+2024-07-04 23:37:23,803 - INFO - Cart done
+2024-07-04 23:37:23,878 - INFO - Cart finished.
+2024-07-04 23:37:36,155 - INFO - Stripe Partner Directory done
+2024-07-04 23:37:36,538 - INFO - Stripe Partner Directory finished.
+2024-07-04 23:37:49,012 - INFO - Weebly done
+2024-07-04 23:37:49,104 - INFO - Weebly finished.
+2024-07-04 23:38:02,169 - INFO - Crowdstrike done
+2024-07-04 23:38:02,282 - INFO - Crowdstrike finished.
+2024-07-04 23:38:14,627 - INFO - Drift done
+2024-07-04 23:38:14,731 - INFO - Drift finished.
+2024-07-04 23:38:26,989 - INFO - Reply.io done
+2024-07-04 23:38:27,076 - INFO - Reply.io finished.
+2024-07-04 23:38:39,184 - INFO - Gusto done
+2024-07-04 23:38:39,415 - INFO - Gusto finished.
+2024-07-04 23:38:51,368 - INFO - Blueconic done
+2024-07-04 23:38:51,459 - INFO - Blueconic finished.
+2024-07-04 23:39:04,465 - INFO - Calendly done
+2024-07-04 23:39:04,546 - INFO - Calendly finished.
+2024-07-04 23:39:16,714 - INFO - Brevo done
+2024-07-04 23:39:16,816 - INFO - Brevo finished.
+2024-07-04 23:39:28,888 - INFO - Censhare done
+2024-07-04 23:39:28,989 - INFO - Censhare finished.
+2024-07-04 23:39:41,299 - INFO - 360Learning done
+2024-07-04 23:39:41,395 - INFO - 360Learning finished.
+2024-07-04 23:39:53,623 - INFO - Affirm done
+2024-07-04 23:39:53,700 - INFO - Affirm finished.
+2024-07-04 23:40:05,584 - INFO - Atlassian done
+2024-07-04 23:40:05,670 - INFO - Atlassian finished.
+2024-07-04 23:40:18,374 - INFO - Okta done
+2024-07-04 23:40:18,460 - INFO - Okta finished.
+2024-07-04 23:40:30,580 - INFO - Oneflow done
+2024-07-04 23:40:30,666 - INFO - Oneflow finished.
+2024-07-04 23:40:42,740 - INFO - Contentful done
+2024-07-04 23:40:42,813 - INFO - Contentful finished.
+2024-07-04 23:40:54,651 - INFO - BambooHR  done
+2024-07-04 23:40:54,731 - INFO - BambooHR  finished.
+2024-07-04 23:41:06,669 - INFO - BillingPlatform done
+2024-07-04 23:41:06,757 - INFO - BillingPlatform finished.
+2024-07-04 23:41:18,905 - INFO - Bombora done
+2024-07-04 23:41:18,994 - INFO - Bombora finished.
+2024-07-04 23:41:31,154 - INFO - CampaignMonitor done
+2024-07-04 23:41:31,218 - INFO - CampaignMonitor finished.
+2024-07-04 23:41:43,918 - INFO - Linear done
+2024-07-04 23:41:44,000 - INFO - Linear finished.
+2024-07-04 23:41:56,056 - INFO - Sage done
+2024-07-04 23:41:56,137 - INFO - Sage finished.
+2024-07-04 23:42:08,071 - INFO - Vercel done
+2024-07-04 23:42:08,144 - INFO - Vercel finished.
+2024-07-04 23:42:20,394 - INFO - Pendo done
+2024-07-04 23:42:20,473 - INFO - Pendo finished.
+2024-07-04 23:42:32,708 - INFO - Partnerbase done
+2024-07-04 23:42:32,828 - INFO - Partnerbase finished.
+2024-07-04 23:42:44,967 - INFO - Servicenow done
+2024-07-04 23:42:45,039 - INFO - Servicenow finished.
+2024-07-04 23:42:57,121 - INFO - Netlify done
+2024-07-04 23:42:57,206 - INFO - Netlify finished.
+2024-07-04 23:43:10,150 - INFO - Rippling done
+2024-07-04 23:43:10,236 - INFO - Rippling finished.
+2024-07-04 23:43:22,334 - INFO - SmartRecruiters done
+2024-07-04 23:43:22,412 - INFO - SmartRecruiters finished.
+2024-07-04 23:43:34,419 - INFO - Livechat done
+2024-07-04 23:43:34,498 - INFO - Livechat finished.
+2024-07-04 23:43:46,557 - INFO - Miro done
+2024-07-04 23:43:46,636 - INFO - Miro finished.
+2024-07-04 23:43:59,271 - INFO - Healthie done
+2024-07-04 23:43:59,351 - INFO - Healthie finished.
+2024-07-04 23:44:11,569 - INFO - Pax8 done
+2024-07-04 23:44:11,684 - INFO - Pax8 finished.
+2024-07-04 23:44:23,998 - INFO - Eventbrite done
+2024-07-04 23:44:24,078 - INFO - Eventbrite finished.
+2024-07-04 23:44:36,164 - INFO - OpenAI GPT Store done
+2024-07-04 23:44:36,246 - INFO - OpenAI GPT Store finished.
+2024-07-04 23:44:48,564 - INFO - Chargebee done
+2024-07-04 23:44:48,648 - INFO - Chargebee finished.
+2024-07-04 23:45:00,921 - INFO - Aircall done
+2024-07-04 23:45:01,000 - INFO - Aircall finished.
+2024-07-04 23:45:14,113 - INFO - Box done
+2024-07-04 23:45:14,207 - INFO - Box finished.
+2024-07-04 23:45:26,698 - INFO - Appdirect done
+2024-07-04 23:45:26,766 - INFO - Appdirect finished.
+2024-07-04 23:45:39,144 - INFO - Deel Integration Marketplace done
+2024-07-04 23:45:39,209 - INFO - Deel Integration Marketplace finished.
+2024-07-04 23:45:51,854 - INFO - Emarsys done
+2024-07-04 23:45:51,932 - INFO - Emarsys finished.
+2024-07-04 23:46:04,036 - INFO - Talkdesk done
+2024-07-04 23:46:04,116 - INFO - Talkdesk finished.
+2024-07-04 23:46:15,937 - INFO - Rydoo done
+2024-07-04 23:46:16,026 - INFO - Rydoo finished.
+2024-07-04 23:46:27,903 - INFO - Kameleoon done
+2024-07-04 23:46:27,989 - INFO - Kameleoon finished.
+2024-07-04 23:46:39,780 - INFO - Powerreviews done
+2024-07-04 23:46:39,873 - INFO - Powerreviews finished.
+2024-07-04 23:46:51,641 - INFO - Close done
+2024-07-04 23:46:51,713 - INFO - Close finished.
+2024-07-04 23:47:03,364 - INFO - Oktopost done
+2024-07-04 23:47:03,453 - INFO - Oktopost finished.
+2024-07-04 23:47:15,838 - INFO - Dukaan done
+2024-07-04 23:47:15,914 - INFO - Dukaan finished.
+2024-07-04 23:47:27,640 - INFO - Network done
+2024-07-04 23:47:27,706 - INFO - Network finished.
+2024-07-04 23:47:39,880 - INFO - Sendpulse done
+2024-07-04 23:47:39,979 - INFO - Sendpulse finished.
+2024-07-04 23:47:52,260 - INFO - Maximizer done
+2024-07-04 23:47:52,332 - INFO - Maximizer finished.
+2024-07-04 23:48:04,329 - INFO - MovableInk done
+2024-07-04 23:48:04,461 - INFO - MovableInk finished.
+2024-07-04 23:48:16,535 - INFO - Lightspeedhq done
+2024-07-04 23:48:16,612 - INFO - Lightspeedhq finished.
+2024-07-04 23:48:28,481 - INFO - yellow done
+2024-07-04 23:48:28,561 - INFO - yellow finished.
+2024-07-04 23:48:40,541 - INFO - Algolia done
+2024-07-04 23:48:40,621 - INFO - Algolia finished.
+2024-07-04 23:48:53,284 - INFO - RollWorks done
+2024-07-04 23:48:53,361 - INFO - RollWorks finished.
+2024-07-04 23:49:06,239 - INFO - ReachDesk done
+2024-07-04 23:49:06,313 - INFO - ReachDesk finished.
+2024-07-04 23:49:18,398 - INFO - Jebbit done
+2024-07-04 23:49:18,476 - INFO - Jebbit finished.
+2024-07-04 23:49:30,218 - INFO - Liferay done
+2024-07-04 23:49:30,300 - INFO - Liferay finished.
+2024-07-04 23:49:42,158 - INFO - Okendo done
+2024-07-04 23:49:42,228 - INFO - Okendo finished.
+2024-07-04 23:49:54,618 - INFO - Stackline done
+2024-07-04 23:49:54,708 - INFO - Stackline finished.
+2024-07-04 23:50:06,524 - INFO - Repay done
+2024-07-04 23:50:06,627 - INFO - Repay finished.
+2024-07-04 23:50:18,636 - INFO - Olo done
+2024-07-04 23:50:18,710 - INFO - Olo finished.
+2024-07-04 23:50:30,784 - INFO - spscommerce done
+2024-07-04 23:50:30,848 - INFO - spscommerce finished.
+2024-07-04 23:50:42,689 - INFO - Certinia done
+2024-07-04 23:50:42,788 - INFO - Certinia finished.
+2024-07-04 23:50:54,590 - INFO - Microsoft Azure done
+2024-07-04 23:50:54,667 - INFO - Microsoft Azure finished.
+2024-07-04 23:51:06,387 - INFO - Nationbuilder done
+2024-07-04 23:51:06,468 - INFO - Nationbuilder finished.
+2024-07-04 23:51:18,886 - INFO - Feefo done
+2024-07-04 23:51:18,969 - INFO - Feefo finished.
+2024-07-04 23:51:31,178 - INFO - Webflow done
+2024-07-04 23:51:31,260 - INFO - Webflow finished.
+2024-07-04 23:51:43,876 - INFO - NachoNacho done
+2024-07-04 23:51:43,947 - INFO - NachoNacho finished.
+2024-07-04 23:51:57,178 - INFO - Chilipiper done
+2024-07-04 23:51:57,256 - INFO - Chilipiper finished.
+2024-07-04 23:52:09,430 - INFO - Yotpo done
+2024-07-04 23:52:09,509 - INFO - Yotpo finished.
+2024-07-04 23:52:21,806 - INFO - Monday done
+2024-07-04 23:52:21,877 - INFO - Monday finished.
+2024-07-04 23:52:34,222 - INFO - Webflow done
+2024-07-04 23:52:34,298 - INFO - Webflow finished.
+2024-07-04 23:52:46,100 - INFO - Softwareag done
+2024-07-04 23:52:46,214 - INFO - Softwareag finished.
+2024-07-04 23:52:57,913 - INFO - Screencloud done
+2024-07-04 23:52:57,989 - INFO - Screencloud finished.
+2024-07-04 23:53:09,819 - INFO - Crossbeam done
+2024-07-04 23:53:09,890 - INFO - Crossbeam finished.
+2024-07-04 23:53:21,944 - INFO - Trainual done
+2024-07-04 23:53:22,037 - INFO - Trainual finished.
+2024-07-04 23:53:34,206 - INFO - Recurly done
+2024-07-04 23:53:34,276 - INFO - Recurly finished.
+2024-07-04 23:53:46,296 - INFO - Mixpanel done
+2024-07-04 23:53:46,380 - INFO - Mixpanel finished.
+2024-07-04 23:53:58,412 - INFO - Moengage done
+2024-07-04 23:53:58,566 - INFO - Moengage finished.
+2024-07-04 23:54:10,630 - INFO - Raydiant done
+2024-07-04 23:54:10,708 - INFO - Raydiant finished.
+2024-07-04 23:54:22,928 - INFO - Servicetitan done
+2024-07-04 23:54:23,010 - INFO - Servicetitan finished.
+2024-07-04 23:54:35,322 - INFO - Signpost done
+2024-07-04 23:54:35,398 - INFO - Signpost finished.
+2024-07-04 23:54:47,730 - INFO - Adjust done
+2024-07-04 23:54:47,809 - INFO - Adjust finished.
+2024-07-04 23:54:59,748 - INFO - Omnisend done
+2024-07-04 23:54:59,826 - INFO - Omnisend finished.
+2024-07-04 23:55:12,583 - INFO - Cloudtalk done
+2024-07-04 23:55:12,730 - INFO - Cloudtalk finished.
+2024-07-04 23:55:25,227 - INFO - Notion done
+2024-07-04 23:55:25,344 - INFO - Notion finished.
+2024-07-04 23:55:37,844 - INFO - LiveRamp done
+2024-07-04 23:55:38,039 - INFO - LiveRamp finished.
+2024-07-04 23:55:51,289 - INFO - Piperlinersales done
+2024-07-04 23:55:51,369 - INFO - Piperlinersales finished.
+2024-07-04 23:56:03,958 - INFO - Scoro done
+2024-07-04 23:56:04,029 - INFO - Scoro finished.
+2024-07-04 23:56:16,271 - INFO - Mode done
+2024-07-04 23:56:16,370 - INFO - Mode finished.
+2024-07-04 23:56:28,437 - INFO - Reputation done
+2024-07-04 23:56:28,660 - INFO - Reputation finished.
+2024-07-04 23:56:40,901 - INFO - Extensiv done
+2024-07-04 23:56:40,971 - INFO - Extensiv finished.
+2024-07-04 23:56:53,009 - INFO - Postal done
+2024-07-04 23:56:53,090 - INFO - Postal finished.
+2024-07-04 23:57:05,121 - INFO - Lianatech done
+2024-07-04 23:57:05,221 - INFO - Lianatech finished.
+2024-07-04 23:57:16,838 - INFO - Zuora done
+2024-07-04 23:57:16,935 - INFO - Zuora finished.
+2024-07-04 23:57:28,683 - INFO - Rudderstack done
+2024-07-04 23:57:28,749 - INFO - Rudderstack finished.
+2024-07-04 23:57:40,671 - INFO - Techjockey done
+2024-07-04 23:57:40,753 - INFO - Techjockey finished.
+2024-07-04 23:57:52,853 - INFO - Synup done
+2024-07-04 23:57:52,913 - INFO - Synup finished.
+2024-07-04 23:58:04,682 - INFO - Shipbob done
+2024-07-04 23:58:04,763 - INFO - Shipbob finished.
+2024-07-04 23:58:17,709 - INFO - mparticle done
+2024-07-04 23:58:17,778 - INFO - mparticle finished.
+2024-07-04 23:58:30,000 - INFO - Postscript done
+2024-07-04 23:58:30,070 - INFO - Postscript finished.
+2024-07-04 23:58:42,481 - INFO - Salesmanago done
+2024-07-04 23:58:42,560 - INFO - Salesmanago finished.
+2024-07-04 23:58:54,751 - INFO - Freshbooks App Store done
+2024-07-04 23:58:54,829 - INFO - Freshbooks App Store finished.
+2024-07-04 23:59:06,887 - INFO - Liveperson done
+2024-07-04 23:59:06,967 - INFO - Liveperson finished.
+2024-07-04 23:59:19,271 - INFO - Make done
+2024-07-04 23:59:19,352 - INFO - Make finished.
+2024-07-04 23:59:19,352 - ERROR - empty data sent to printer
+2024-07-04 23:59:21,612 - INFO - scraping done
+2024-07-05 09:16:57,053 - INFO - Yext done
+2024-07-05 09:16:57,111 - INFO - Yext finished.
+2024-07-05 09:17:08,455 - INFO - Github done
+2024-07-05 09:17:08,516 - INFO - Github finished.
+2024-07-05 09:18:19,391 - ERROR - empty data sent to printer
+2024-07-05 09:20:57,613 - INFO - Yext done
+2024-07-05 09:20:57,684 - INFO - Yext finished.
+2024-07-05 09:21:08,900 - INFO - Github done
+2024-07-05 09:21:08,961 - INFO - Github finished.
+2024-07-05 09:22:18,032 - ERROR - empty data sent to printer
+2024-07-05 09:27:46,167 - INFO - Yext done
+2024-07-05 09:27:46,239 - INFO - Yext finished.
+2024-07-05 09:27:57,489 - INFO - Github done
+2024-07-05 09:27:57,555 - INFO - Github finished.
+2024-07-05 09:29:05,899 - INFO - Scraping Blueshift on page 1
+2024-07-05 09:30:13,197 - INFO - Scraping Blueshift on page 2
+2024-07-05 09:31:20,429 - INFO - Scraping Blueshift on page 3
+2024-07-05 09:32:33,328 - INFO - Scraping Blueshift on page 4
+2024-07-05 09:33:52,342 - INFO - Scraping Blueshift on page 5
+2024-07-05 09:35:09,407 - INFO - Blueshift done
+2024-07-05 09:35:09,486 - INFO - Blueshift finished.
+2024-07-05 09:35:20,847 - INFO - Gong done
+2024-07-05 09:35:20,911 - INFO - Gong finished.
+2024-07-05 09:35:32,347 - INFO - Airtable done
+2024-07-05 09:35:32,417 - INFO - Airtable finished.
+2024-07-05 09:35:44,212 - INFO - Ringostat done
+2024-07-05 09:35:44,285 - INFO - Ringostat finished.
+2024-07-05 09:35:56,347 - INFO - Adobe Marketo done
+2024-07-05 09:35:56,427 - INFO - Adobe Marketo finished.
+2024-07-05 09:36:08,873 - INFO - Klaviyo done
+2024-07-05 09:36:08,957 - INFO - Klaviyo finished.
+2024-07-05 09:36:21,217 - INFO - Totango done
+2024-07-05 09:36:21,289 - INFO - Totango finished.
+2024-07-05 09:36:35,605 - INFO - Intercom done
+2024-07-05 09:36:35,680 - INFO - Intercom finished.
+2024-07-05 09:36:47,661 - INFO - Extole done
+2024-07-05 09:36:47,726 - INFO - Extole finished.
+2024-07-05 09:37:00,127 - INFO - MINDBODY done
+2024-07-05 09:37:00,169 - INFO - MINDBODY finished.
+2024-07-05 09:37:14,396 - INFO - Quickbooks done
+2024-07-05 09:37:14,470 - INFO - Quickbooks finished.
+2024-07-05 09:37:31,465 - INFO - ActiveProspect done
+2024-07-05 09:37:31,534 - INFO - ActiveProspect finished.
+2024-07-05 09:37:43,233 - INFO - Hibob done
+2024-07-05 09:37:43,307 - INFO - Hibob finished.
+2024-07-05 09:37:58,912 - INFO - Aurea done
+2024-07-05 09:37:58,980 - INFO - Aurea finished.
+2024-07-05 09:38:11,380 - INFO - Personia done
+2024-07-05 09:38:11,454 - INFO - Personia finished.
+2024-07-05 09:38:28,107 - INFO - ChannelAdvisor done
+2024-07-05 09:38:28,195 - INFO - ChannelAdvisor finished.
+2024-07-05 09:38:43,005 - INFO - Klue done
+2024-07-05 09:38:43,080 - INFO - Klue finished.
+2024-07-05 09:39:01,173 - INFO - Google Cloud Console done
+2024-07-05 09:39:01,237 - INFO - Google Cloud Console finished.
+2024-07-05 09:39:13,117 - INFO - Cart done
+2024-07-05 09:39:13,156 - INFO - Cart finished.
+2024-07-05 09:39:26,379 - INFO - Stripe Partner Directory done
+2024-07-05 09:39:26,418 - INFO - Stripe Partner Directory finished.
+2024-07-05 09:39:42,097 - INFO - Weebly done
+2024-07-05 09:39:42,175 - INFO - Weebly finished.
+2024-07-05 09:40:00,744 - INFO - Crowdstrike done
+2024-07-05 09:40:00,812 - INFO - Crowdstrike finished.
+2024-07-05 09:40:12,024 - INFO - Drift done
+2024-07-05 09:40:12,092 - INFO - Drift finished.
+2024-07-05 09:40:26,109 - INFO - Reply.io done
+2024-07-05 09:40:26,204 - INFO - Reply.io finished.
+2024-07-05 09:40:37,872 - INFO - Gusto done
+2024-07-05 09:40:37,939 - INFO - Gusto finished.
+2024-07-05 09:40:50,019 - INFO - Blueconic done
+2024-07-05 09:40:50,049 - INFO - Blueconic finished.
+2024-07-05 09:41:06,354 - INFO - Calendly done
+2024-07-05 09:41:06,444 - INFO - Calendly finished.
+2024-07-05 09:41:20,554 - INFO - Brevo done
+2024-07-05 09:41:20,619 - INFO - Brevo finished.
+2024-07-05 09:42:11,047 - INFO - Censhare done
+2024-07-05 09:42:11,111 - INFO - Censhare finished.
+2024-07-05 09:42:24,832 - INFO - 360Learning done
+2024-07-05 09:42:24,902 - INFO - 360Learning finished.
+2024-07-05 09:42:36,851 - INFO - Affirm done
+2024-07-05 09:42:36,916 - INFO - Affirm finished.
+2024-07-05 09:42:49,233 - INFO - Atlassian done
+2024-07-05 09:42:49,302 - INFO - Atlassian finished.
+2024-07-05 09:43:02,774 - INFO - Okta done
+2024-07-05 09:43:02,919 - INFO - Okta finished.
+2024-07-05 09:43:18,583 - INFO - Oneflow done
+2024-07-05 09:43:18,682 - INFO - Oneflow finished.
+2024-07-05 09:43:31,518 - INFO - Contentful done
+2024-07-05 09:43:31,645 - INFO - Contentful finished.
+2024-07-05 09:43:43,966 - INFO - BambooHR  done
+2024-07-05 09:43:44,133 - INFO - BambooHR  finished.
+2024-07-05 09:43:56,837 - INFO - BillingPlatform done
+2024-07-05 09:43:56,910 - INFO - BillingPlatform finished.
+2024-07-05 09:44:11,722 - INFO - Bombora done
+2024-07-05 09:44:11,828 - INFO - Bombora finished.
+2024-07-05 09:44:23,360 - INFO - CampaignMonitor done
+2024-07-05 09:44:23,508 - INFO - CampaignMonitor finished.
+2024-07-05 09:44:34,826 - INFO - Linear done
+2024-07-05 09:44:34,936 - INFO - Linear finished.
+2024-07-05 09:44:57,749 - INFO - Sage done
+2024-07-05 09:44:57,817 - INFO - Sage finished.
+2024-07-05 09:45:10,387 - INFO - Vercel done
+2024-07-05 09:45:10,461 - INFO - Vercel finished.
+2024-07-05 09:45:28,863 - INFO - Pendo done
+2024-07-05 09:45:28,936 - INFO - Pendo finished.
+2024-07-05 09:45:44,990 - INFO - Partnerbase done
+2024-07-05 09:45:45,089 - INFO - Partnerbase finished.
+2024-07-05 09:45:57,018 - INFO - Servicenow done
+2024-07-05 09:45:57,093 - INFO - Servicenow finished.
+2024-07-05 09:46:10,970 - INFO - Netlify done
+2024-07-05 09:46:11,046 - INFO - Netlify finished.
+2024-07-05 09:46:22,243 - INFO - Rippling done
+2024-07-05 09:46:22,312 - INFO - Rippling finished.
+2024-07-05 09:46:36,522 - INFO - SmartRecruiters done
+2024-07-05 09:46:36,556 - INFO - SmartRecruiters finished.
+2024-07-05 09:46:53,222 - INFO - Livechat done
+2024-07-05 09:46:53,297 - INFO - Livechat finished.
+2024-07-05 09:47:05,504 - INFO - Miro done
+2024-07-05 09:47:05,570 - INFO - Miro finished.
+2024-07-05 09:47:21,492 - INFO - Healthie done
+2024-07-05 09:47:21,539 - INFO - Healthie finished.
+2024-07-05 09:47:35,339 - INFO - Pax8 done
+2024-07-05 09:47:35,413 - INFO - Pax8 finished.
+2024-07-05 09:47:47,387 - INFO - Eventbrite done
+2024-07-05 09:47:47,476 - INFO - Eventbrite finished.
+2024-07-05 09:47:59,442 - INFO - OpenAI GPT Store done
+2024-07-05 09:47:59,511 - INFO - OpenAI GPT Store finished.
+2024-07-05 09:48:10,856 - INFO - Chargebee done
+2024-07-05 09:48:10,931 - INFO - Chargebee finished.
+2024-07-05 09:48:22,310 - INFO - Aircall done
+2024-07-05 09:48:22,384 - INFO - Aircall finished.
+2024-07-05 09:48:33,594 - INFO - Box done
+2024-07-05 09:48:33,672 - INFO - Box finished.
+2024-07-05 09:48:45,916 - INFO - Appdirect done
+2024-07-05 09:48:45,988 - INFO - Appdirect finished.
+2024-07-05 09:49:01,582 - INFO - Deel Integration Marketplace done
+2024-07-05 09:49:01,652 - INFO - Deel Integration Marketplace finished.
+2024-07-05 09:49:16,498 - INFO - Emarsys done
+2024-07-05 09:49:16,568 - INFO - Emarsys finished.
+2024-07-05 09:49:28,396 - INFO - Talkdesk done
+2024-07-05 09:49:28,458 - INFO - Talkdesk finished.
+2024-07-05 09:49:41,198 - INFO - Rydoo done
+2024-07-05 09:49:41,231 - INFO - Rydoo finished.
+2024-07-05 09:49:52,512 - INFO - Kameleoon done
+2024-07-05 09:49:52,623 - INFO - Kameleoon finished.
+2024-07-05 09:50:05,523 - INFO - Powerreviews done
+2024-07-05 09:50:05,582 - INFO - Powerreviews finished.
+2024-07-05 09:50:21,785 - INFO - Close done
+2024-07-05 09:50:21,867 - INFO - Close finished.
+2024-07-05 09:50:57,642 - INFO - Oktopost done
+2024-07-05 09:50:57,722 - INFO - Oktopost finished.
+2024-07-05 09:51:11,900 - INFO - Dukaan done
+2024-07-05 09:51:11,977 - INFO - Dukaan finished.
+2024-07-05 09:51:25,173 - INFO - Network done
+2024-07-05 09:51:25,315 - INFO - Network finished.
+2024-07-05 09:51:36,884 - INFO - Sendpulse done
+2024-07-05 09:51:37,001 - INFO - Sendpulse finished.
+2024-07-05 09:51:50,768 - INFO - Maximizer done
+2024-07-05 09:51:50,852 - INFO - Maximizer finished.
+2024-07-05 09:52:02,365 - INFO - MovableInk done
+2024-07-05 09:52:02,486 - INFO - MovableInk finished.
+2024-07-05 09:52:14,982 - INFO - Lightspeedhq done
+2024-07-05 09:52:15,065 - INFO - Lightspeedhq finished.
+2024-07-05 09:52:28,267 - INFO - yellow done
+2024-07-05 09:52:28,345 - INFO - yellow finished.
+2024-07-05 09:52:39,797 - INFO - Algolia done
+2024-07-05 09:52:39,964 - INFO - Algolia finished.
+2024-07-05 09:52:54,082 - INFO - RollWorks done
+2024-07-05 09:52:54,183 - INFO - RollWorks finished.
+2024-07-05 09:53:07,178 - INFO - ReachDesk done
+2024-07-05 09:53:07,257 - INFO - ReachDesk finished.
+2024-07-05 09:53:18,892 - INFO - Jebbit done
+2024-07-05 09:53:18,981 - INFO - Jebbit finished.
+2024-07-05 09:53:31,974 - INFO - Liferay done
+2024-07-05 09:53:32,048 - INFO - Liferay finished.
+2024-07-05 09:53:44,027 - INFO - Okendo done
+2024-07-05 09:53:44,095 - INFO - Okendo finished.
+2024-07-05 09:53:58,529 - INFO - Stackline done
+2024-07-05 09:53:58,610 - INFO - Stackline finished.
+2024-07-05 09:54:12,712 - INFO - Repay done
+2024-07-05 09:54:12,775 - INFO - Repay finished.
+2024-07-05 09:54:28,360 - INFO - Olo done
+2024-07-05 09:54:28,392 - INFO - Olo finished.
+2024-07-05 09:54:42,622 - INFO - spscommerce done
+2024-07-05 09:54:42,708 - INFO - spscommerce finished.
+2024-07-05 09:54:54,379 - INFO - Certinia done
+2024-07-05 09:54:54,468 - INFO - Certinia finished.
+2024-07-05 09:55:05,821 - INFO - Microsoft Azure done
+2024-07-05 09:55:05,884 - INFO - Microsoft Azure finished.
+2024-07-05 09:55:24,732 - INFO - Nationbuilder done
+2024-07-05 09:55:24,810 - INFO - Nationbuilder finished.
+2024-07-05 09:55:38,572 - INFO - Feefo done
+2024-07-05 09:55:38,650 - INFO - Feefo finished.
+2024-07-05 09:55:55,412 - INFO - Webflow done
+2024-07-05 09:55:55,493 - INFO - Webflow finished.
+2024-07-05 09:56:07,171 - INFO - NachoNacho done
+2024-07-05 09:56:07,247 - INFO - NachoNacho finished.
+2024-07-05 09:56:22,726 - INFO - Chilipiper done
+2024-07-05 09:56:22,802 - INFO - Chilipiper finished.
+2024-07-05 09:56:41,000 - INFO - Yotpo done
+2024-07-05 09:56:41,075 - INFO - Yotpo finished.
+2024-07-05 09:56:53,046 - INFO - Monday done
+2024-07-05 09:56:53,134 - INFO - Monday finished.
+2024-07-05 09:57:05,594 - INFO - Webflow done
+2024-07-05 09:57:05,709 - INFO - Webflow finished.
+2024-07-05 09:57:24,985 - INFO - Softwareag done
+2024-07-05 09:57:25,062 - INFO - Softwareag finished.
+2024-07-05 09:57:39,879 - INFO - Screencloud done
+2024-07-05 09:57:39,956 - INFO - Screencloud finished.
+2024-07-05 09:57:55,657 - INFO - Crossbeam done
+2024-07-05 09:57:55,737 - INFO - Crossbeam finished.
+2024-07-05 09:58:09,222 - INFO - Trainual done
+2024-07-05 09:58:09,312 - INFO - Trainual finished.
+2024-07-05 09:58:20,712 - INFO - Recurly done
+2024-07-05 09:58:20,777 - INFO - Recurly finished.
+2024-07-05 09:58:32,397 - INFO - Mixpanel done
+2024-07-05 09:58:32,461 - INFO - Mixpanel finished.
+2024-07-05 09:58:44,949 - INFO - Moengage done
+2024-07-05 09:58:45,029 - INFO - Moengage finished.
+2024-07-05 09:59:01,514 - INFO - Raydiant done
+2024-07-05 09:59:01,589 - INFO - Raydiant finished.
+2024-07-05 09:59:13,898 - INFO - Servicetitan done
+2024-07-05 09:59:13,998 - INFO - Servicetitan finished.
+2024-07-05 09:59:33,432 - INFO - Signpost done
+2024-07-05 09:59:33,510 - INFO - Signpost finished.
+2024-07-05 09:59:45,653 - INFO - Adjust done
+2024-07-05 09:59:45,724 - INFO - Adjust finished.
+2024-07-05 09:59:57,005 - INFO - Omnisend done
+2024-07-05 09:59:57,068 - INFO - Omnisend finished.
+2024-07-05 10:00:09,026 - INFO - Cloudtalk done
+2024-07-05 10:00:09,094 - INFO - Cloudtalk finished.
+2024-07-05 10:00:21,134 - INFO - Notion done
+2024-07-05 10:00:21,205 - INFO - Notion finished.
+2024-07-05 10:00:33,964 - INFO - LiveRamp done
+2024-07-05 10:00:34,001 - INFO - LiveRamp finished.
+2024-07-05 10:00:49,683 - INFO - Piperlinersales done
+2024-07-05 10:00:49,753 - INFO - Piperlinersales finished.
+2024-07-05 10:01:01,371 - INFO - Scoro done
+2024-07-05 10:01:01,436 - INFO - Scoro finished.
+2024-07-05 10:01:21,602 - INFO - Mode done
+2024-07-05 10:01:21,746 - INFO - Mode finished.
+2024-07-05 10:01:33,503 - INFO - Reputation done
+2024-07-05 10:01:33,607 - INFO - Reputation finished.
+2024-07-05 10:01:47,146 - INFO - Extensiv done
+2024-07-05 10:01:47,226 - INFO - Extensiv finished.
+2024-07-05 10:02:02,446 - INFO - Postal done
+2024-07-05 10:02:02,513 - INFO - Postal finished.
+2024-07-05 10:02:13,847 - INFO - Lianatech done
+2024-07-05 10:02:13,875 - INFO - Lianatech finished.
+2024-07-05 10:02:26,513 - INFO - Zuora done
+2024-07-05 10:02:26,590 - INFO - Zuora finished.
+2024-07-05 10:02:37,823 - INFO - Rudderstack done
+2024-07-05 10:02:37,901 - INFO - Rudderstack finished.
+2024-07-05 10:02:49,840 - INFO - Techjockey done
+2024-07-05 10:02:49,911 - INFO - Techjockey finished.
+2024-07-05 10:03:04,893 - INFO - Synup done
+2024-07-05 10:03:04,970 - INFO - Synup finished.
+2024-07-05 10:03:16,160 - INFO - Shipbob done
+2024-07-05 10:03:16,232 - INFO - Shipbob finished.
+2024-07-05 10:03:36,838 - INFO - mparticle done
+2024-07-05 10:03:36,913 - INFO - mparticle finished.
+2024-07-05 10:03:50,373 - INFO - Postscript done
+2024-07-05 10:03:50,453 - INFO - Postscript finished.
+2024-07-05 10:04:05,433 - INFO - Salesmanago done
+2024-07-05 10:04:05,507 - INFO - Salesmanago finished.
+2024-07-05 10:04:19,997 - INFO - Freshbooks App Store done
+2024-07-05 10:04:20,063 - INFO - Freshbooks App Store finished.
+2024-07-05 10:04:40,119 - INFO - Liveperson done
+2024-07-05 10:04:40,195 - INFO - Liveperson finished.
+2024-07-05 10:04:51,624 - INFO - Make done
+2024-07-05 10:04:51,702 - INFO - Make finished.
+2024-07-05 10:04:55,340 - INFO - scraping done
+2024-07-05 10:30:28,795 - INFO - Yext done
+2024-07-05 10:30:28,863 - INFO - Yext finished.
+2024-07-05 10:30:40,178 - INFO - Github done
+2024-07-05 10:30:40,255 - INFO - Github finished.
+2024-07-05 10:31:48,367 - INFO - Scraping Blueshift on page 1
+2024-07-05 10:32:53,451 - INFO - Scraping Blueshift on page 2
+2024-07-05 10:34:20,488 - INFO - Scraping Blueshift on page 3
+2024-07-05 10:35:24,556 - INFO - Scraping Blueshift on page 4
+2024-07-05 10:36:35,467 - INFO - Scraping Blueshift on page 5
+2024-07-05 10:37:37,590 - INFO - Blueshift done
+2024-07-05 10:37:37,664 - INFO - Blueshift finished.
+2024-07-05 10:37:51,620 - INFO - Gong done
+2024-07-05 10:37:51,698 - INFO - Gong finished.
+2024-07-05 10:38:03,126 - INFO - Airtable done
+2024-07-05 10:38:03,230 - INFO - Airtable finished.
+2024-07-05 10:38:14,822 - INFO - Ringostat done
+2024-07-05 10:38:14,960 - INFO - Ringostat finished.
+2024-07-05 10:38:28,048 - INFO - Adobe Marketo done
+2024-07-05 10:38:28,126 - INFO - Adobe Marketo finished.
+2024-07-05 10:38:40,795 - INFO - Klaviyo done
+2024-07-05 10:38:40,885 - INFO - Klaviyo finished.
+2024-07-05 10:38:54,838 - INFO - Totango done
+2024-07-05 10:38:54,911 - INFO - Totango finished.
+2024-07-05 10:39:06,231 - INFO - Intercom done
+2024-07-05 10:39:06,319 - INFO - Intercom finished.
+2024-07-05 10:39:17,818 - INFO - Extole done
+2024-07-05 10:39:17,892 - INFO - Extole finished.
+2024-07-05 10:39:30,423 - INFO - MINDBODY done
+2024-07-05 10:39:30,465 - INFO - MINDBODY finished.
+2024-07-05 10:39:44,504 - INFO - Quickbooks done
+2024-07-05 10:39:44,585 - INFO - Quickbooks finished.
+2024-07-05 10:40:00,526 - INFO - ActiveProspect done
+2024-07-05 10:40:00,640 - INFO - ActiveProspect finished.
+2024-07-05 10:40:12,544 - INFO - Hibob done
+2024-07-05 10:40:12,623 - INFO - Hibob finished.
+2024-07-05 10:40:24,136 - INFO - Aurea done
+2024-07-05 10:40:24,216 - INFO - Aurea finished.
+2024-07-05 10:40:36,288 - INFO - Personia done
+2024-07-05 10:40:36,369 - INFO - Personia finished.
+2024-07-05 10:40:52,432 - INFO - ChannelAdvisor done
+2024-07-05 10:40:52,521 - INFO - ChannelAdvisor finished.
+2024-07-05 10:41:06,223 - INFO - Klue done
+2024-07-05 10:41:06,301 - INFO - Klue finished.
+2024-07-05 10:41:22,041 - INFO - Google Cloud Console done
+2024-07-05 10:41:22,136 - INFO - Google Cloud Console finished.
+2024-07-05 10:41:34,239 - INFO - Cart done
+2024-07-05 10:41:34,317 - INFO - Cart finished.
+2024-07-05 10:41:49,330 - INFO - Stripe Partner Directory done
+2024-07-05 10:41:49,406 - INFO - Stripe Partner Directory finished.
+2024-07-05 10:42:04,857 - INFO - Weebly done
+2024-07-05 10:42:04,899 - INFO - Weebly finished.
+2024-07-05 10:42:17,873 - INFO - Crowdstrike done
+2024-07-05 10:42:17,978 - INFO - Crowdstrike finished.
+2024-07-05 10:42:32,150 - INFO - Drift done
+2024-07-05 10:42:32,230 - INFO - Drift finished.
+2024-07-05 10:42:43,818 - INFO - Reply.io done
+2024-07-05 10:42:43,915 - INFO - Reply.io finished.
+2024-07-05 10:42:55,244 - INFO - Gusto done
+2024-07-05 10:42:55,321 - INFO - Gusto finished.
+2024-07-05 10:43:06,852 - INFO - Blueconic done
+2024-07-05 10:43:06,910 - INFO - Blueconic finished.
+2024-07-05 10:43:19,451 - INFO - Calendly done
+2024-07-05 10:43:19,528 - INFO - Calendly finished.
+2024-07-05 10:43:31,453 - INFO - Brevo done
+2024-07-05 10:43:31,532 - INFO - Brevo finished.
+2024-07-05 10:43:43,128 - INFO - Censhare done
+2024-07-05 10:43:43,170 - INFO - Censhare finished.
+2024-07-05 10:44:01,751 - INFO - 360Learning done
+2024-07-05 10:44:01,846 - INFO - 360Learning finished.
+2024-07-05 10:44:13,967 - INFO - Affirm done
+2024-07-05 10:44:14,047 - INFO - Affirm finished.
+2024-07-05 10:44:30,514 - INFO - Atlassian done
+2024-07-05 10:44:30,606 - INFO - Atlassian finished.
+2024-07-05 10:45:08,725 - INFO - Okta done
+2024-07-05 10:45:08,807 - INFO - Okta finished.
+2024-07-05 10:45:24,658 - INFO - Oneflow done
+2024-07-05 10:45:24,732 - INFO - Oneflow finished.
+2024-07-05 10:45:38,701 - INFO - Contentful done
+2024-07-05 10:45:38,792 - INFO - Contentful finished.
+2024-07-05 10:45:49,992 - INFO - BambooHR  done
+2024-07-05 10:45:50,072 - INFO - BambooHR  finished.
+2024-07-05 10:46:01,315 - INFO - BillingPlatform done
+2024-07-05 10:46:01,392 - INFO - BillingPlatform finished.
+2024-07-05 10:46:20,221 - INFO - Bombora done
+2024-07-05 10:46:20,374 - INFO - Bombora finished.
+2024-07-05 10:46:35,225 - INFO - CampaignMonitor done
+2024-07-05 10:46:35,314 - INFO - CampaignMonitor finished.
+2024-07-05 10:46:46,630 - INFO - Linear done
+2024-07-05 10:46:46,759 - INFO - Linear finished.
+2024-07-05 10:47:02,853 - INFO - Sage done
+2024-07-05 10:47:02,929 - INFO - Sage finished.
+2024-07-05 10:47:14,371 - INFO - Vercel done
+2024-07-05 10:47:14,441 - INFO - Vercel finished.
+2024-07-05 10:47:32,513 - INFO - Pendo done
+2024-07-05 10:47:32,592 - INFO - Pendo finished.
+2024-07-05 10:47:45,513 - INFO - Partnerbase done
+2024-07-05 10:47:45,587 - INFO - Partnerbase finished.
+2024-07-05 10:47:57,721 - INFO - Servicenow done
+2024-07-05 10:47:57,813 - INFO - Servicenow finished.
+2024-07-05 10:48:12,237 - INFO - Netlify done
+2024-07-05 10:48:12,315 - INFO - Netlify finished.
+2024-07-05 10:48:26,444 - INFO - Rippling done
+2024-07-05 10:48:26,533 - INFO - Rippling finished.
+2024-07-05 10:48:40,773 - INFO - SmartRecruiters done
+2024-07-05 10:48:40,823 - INFO - SmartRecruiters finished.
+2024-07-05 10:48:56,772 - INFO - Livechat done
+2024-07-05 10:48:56,848 - INFO - Livechat finished.
+2024-07-05 10:49:09,103 - INFO - Miro done
+2024-07-05 10:49:09,186 - INFO - Miro finished.
+2024-07-05 10:49:22,125 - INFO - Healthie done
+2024-07-05 10:49:22,165 - INFO - Healthie finished.
+2024-07-05 10:49:37,339 - INFO - Pax8 done
+2024-07-05 10:49:37,455 - INFO - Pax8 finished.
+2024-07-05 10:49:51,518 - INFO - Eventbrite done
+2024-07-05 10:49:51,587 - INFO - Eventbrite finished.
+2024-07-05 10:50:04,806 - INFO - OpenAI GPT Store done
+2024-07-05 10:50:04,884 - INFO - OpenAI GPT Store finished.
+2024-07-05 10:50:16,100 - INFO - Chargebee done
+2024-07-05 10:50:16,176 - INFO - Chargebee finished.
+2024-07-05 10:50:31,481 - INFO - Aircall done
+2024-07-05 10:50:31,558 - INFO - Aircall finished.
+2024-07-05 10:50:43,452 - INFO - Box done
+2024-07-05 10:50:43,529 - INFO - Box finished.
+2024-07-05 10:50:55,682 - INFO - Appdirect done
+2024-07-05 10:50:55,766 - INFO - Appdirect finished.
+2024-07-05 10:51:11,657 - INFO - Deel Integration Marketplace done
+2024-07-05 10:51:11,737 - INFO - Deel Integration Marketplace finished.
+2024-07-05 10:51:23,796 - INFO - Emarsys done
+2024-07-05 10:51:23,875 - INFO - Emarsys finished.
+2024-07-05 10:51:37,359 - INFO - Talkdesk done
+2024-07-05 10:51:37,443 - INFO - Talkdesk finished.
+2024-07-05 10:51:49,950 - INFO - Rydoo done
+2024-07-05 10:51:49,995 - INFO - Rydoo finished.
+2024-07-05 10:52:04,930 - INFO - Kameleoon done
+2024-07-05 10:52:05,011 - INFO - Kameleoon finished.
+2024-07-05 10:52:17,524 - INFO - Powerreviews done
+2024-07-05 10:52:17,599 - INFO - Powerreviews finished.
+2024-07-05 10:52:33,975 - INFO - Close done
+2024-07-05 10:52:34,050 - INFO - Close finished.
+2024-07-05 10:52:49,989 - INFO - Oktopost done
+2024-07-05 10:52:50,071 - INFO - Oktopost finished.
+2024-07-05 10:53:03,934 - INFO - Dukaan done
+2024-07-05 10:53:04,014 - INFO - Dukaan finished.
+2024-07-05 10:53:16,888 - INFO - Network done
+2024-07-05 10:53:16,969 - INFO - Network finished.
+2024-07-05 10:53:28,414 - INFO - Sendpulse done
+2024-07-05 10:53:28,492 - INFO - Sendpulse finished.
+2024-07-05 10:53:41,118 - INFO - Maximizer done
+2024-07-05 10:53:41,197 - INFO - Maximizer finished.
+2024-07-05 10:53:52,525 - INFO - MovableInk done
+2024-07-05 10:53:52,631 - INFO - MovableInk finished.
+2024-07-05 10:54:05,147 - INFO - Lightspeedhq done
+2024-07-05 10:54:05,244 - INFO - Lightspeedhq finished.
+2024-07-05 10:54:18,145 - INFO - yellow done
+2024-07-05 10:54:18,220 - INFO - yellow finished.
+2024-07-05 10:54:30,916 - INFO - Algolia done
+2024-07-05 10:54:31,012 - INFO - Algolia finished.
+2024-07-05 10:54:45,519 - INFO - RollWorks done
+2024-07-05 10:54:45,614 - INFO - RollWorks finished.
+2024-07-05 10:55:02,170 - INFO - ReachDesk done
+2024-07-05 10:55:02,250 - INFO - ReachDesk finished.
+2024-07-05 10:55:13,534 - INFO - Jebbit done
+2024-07-05 10:55:13,607 - INFO - Jebbit finished.
+2024-07-05 10:55:26,573 - INFO - Liferay done
+2024-07-05 10:55:26,652 - INFO - Liferay finished.
+2024-07-05 10:55:39,073 - INFO - Okendo done
+2024-07-05 10:55:39,147 - INFO - Okendo finished.
+2024-07-05 10:55:53,380 - INFO - Stackline done
+2024-07-05 10:55:53,458 - INFO - Stackline finished.
+2024-07-05 10:56:08,970 - INFO - Repay done
+2024-07-05 10:56:09,049 - INFO - Repay finished.
+2024-07-05 10:56:24,589 - INFO - Olo done
+2024-07-05 10:56:24,634 - INFO - Olo finished.
+2024-07-05 10:56:38,714 - INFO - spscommerce done
+2024-07-05 10:56:38,842 - INFO - spscommerce finished.
+2024-07-05 10:56:52,672 - INFO - Certinia done
+2024-07-05 10:56:52,761 - INFO - Certinia finished.
+2024-07-05 10:57:04,308 - INFO - Microsoft Azure done
+2024-07-05 10:57:04,385 - INFO - Microsoft Azure finished.
+2024-07-05 10:57:15,802 - INFO - Nationbuilder done
+2024-07-05 10:57:15,878 - INFO - Nationbuilder finished.
+2024-07-05 10:57:33,672 - INFO - Feefo done
+2024-07-05 10:57:33,781 - INFO - Feefo finished.
+2024-07-05 10:57:53,927 - INFO - Webflow done
+2024-07-05 10:57:54,006 - INFO - Webflow finished.
+2024-07-05 10:58:05,622 - INFO - NachoNacho done
+2024-07-05 10:58:05,706 - INFO - NachoNacho finished.
+2024-07-05 10:58:21,300 - INFO - Chilipiper done
+2024-07-05 10:58:21,379 - INFO - Chilipiper finished.
+2024-07-05 10:58:40,362 - INFO - Yotpo done
+2024-07-05 10:58:40,431 - INFO - Yotpo finished.
+2024-07-05 10:58:52,166 - INFO - Monday done
+2024-07-05 10:58:52,252 - INFO - Monday finished.
+2024-07-05 10:59:24,303 - INFO - Webflow done
+2024-07-05 10:59:24,379 - INFO - Webflow finished.
+2024-07-05 10:59:49,186 - INFO - Softwareag done
+2024-07-05 10:59:49,261 - INFO - Softwareag finished.
+2024-07-05 11:00:03,820 - INFO - Screencloud done
+2024-07-05 11:00:03,903 - INFO - Screencloud finished.
+2024-07-05 11:00:17,348 - INFO - Crossbeam done
+2024-07-05 11:00:17,400 - INFO - Crossbeam finished.
+2024-07-05 11:00:30,412 - INFO - Trainual done
+2024-07-05 11:00:30,506 - INFO - Trainual finished.
+2024-07-05 11:00:41,994 - INFO - Recurly done
+2024-07-05 11:00:42,073 - INFO - Recurly finished.
+2024-07-05 11:00:54,057 - INFO - Mixpanel done
+2024-07-05 11:00:54,133 - INFO - Mixpanel finished.
+2024-07-05 11:01:06,372 - INFO - Moengage done
+2024-07-05 11:01:06,479 - INFO - Moengage finished.
+2024-07-05 11:01:21,618 - INFO - Raydiant done
+2024-07-05 11:01:21,694 - INFO - Raydiant finished.
+2024-07-05 11:01:33,460 - INFO - Servicetitan done
+2024-07-05 11:01:33,539 - INFO - Servicetitan finished.
+2024-07-05 11:01:52,097 - INFO - Signpost done
+2024-07-05 11:01:52,176 - INFO - Signpost finished.
+2024-07-05 11:02:04,808 - INFO - Adjust done
+2024-07-05 11:02:04,855 - INFO - Adjust finished.
+2024-07-05 11:02:16,063 - INFO - Omnisend done
+2024-07-05 11:02:16,143 - INFO - Omnisend finished.
+2024-07-05 11:02:32,520 - INFO - Cloudtalk done
+2024-07-05 11:02:32,598 - INFO - Cloudtalk finished.
+2024-07-05 11:02:43,747 - INFO - Notion done
+2024-07-05 11:02:43,827 - INFO - Notion finished.
+2024-07-05 11:02:56,332 - INFO - LiveRamp done
+2024-07-05 11:02:56,410 - INFO - LiveRamp finished.
+2024-07-05 11:03:12,627 - INFO - Piperlinersales done
+2024-07-05 11:03:12,736 - INFO - Piperlinersales finished.
+2024-07-05 11:03:24,265 - INFO - Scoro done
+2024-07-05 11:03:24,362 - INFO - Scoro finished.
+2024-07-05 11:03:43,448 - INFO - Mode done
+2024-07-05 11:03:43,530 - INFO - Mode finished.
+2024-07-05 11:03:55,070 - INFO - Reputation done
+2024-07-05 11:03:55,153 - INFO - Reputation finished.
+2024-07-05 11:04:08,149 - INFO - Extensiv done
+2024-07-05 11:04:08,225 - INFO - Extensiv finished.
+2024-07-05 11:04:22,861 - INFO - Postal done
+2024-07-05 11:04:23,009 - INFO - Postal finished.
+2024-07-05 11:04:36,439 - INFO - Lianatech done
+2024-07-05 11:04:36,476 - INFO - Lianatech finished.
+2024-07-05 11:04:48,904 - INFO - Zuora done
+2024-07-05 11:04:48,993 - INFO - Zuora finished.
+2024-07-05 11:05:00,333 - INFO - Rudderstack done
+2024-07-05 11:05:00,409 - INFO - Rudderstack finished.
+2024-07-05 11:05:12,013 - INFO - Techjockey done
+2024-07-05 11:05:12,089 - INFO - Techjockey finished.
+2024-07-05 11:05:28,314 - INFO - Synup done
+2024-07-05 11:05:28,396 - INFO - Synup finished.
+2024-07-05 11:05:42,853 - INFO - Shipbob done
+2024-07-05 11:05:42,937 - INFO - Shipbob finished.
+2024-07-05 11:06:02,054 - INFO - mparticle done
+2024-07-05 11:06:02,105 - INFO - mparticle finished.
+2024-07-05 11:06:15,525 - INFO - Postscript done
+2024-07-05 11:06:15,610 - INFO - Postscript finished.
+2024-07-05 11:06:31,642 - INFO - Salesmanago done
+2024-07-05 11:06:31,730 - INFO - Salesmanago finished.
+2024-07-05 11:06:47,978 - INFO - Freshbooks App Store done
+2024-07-05 11:06:48,056 - INFO - Freshbooks App Store finished.
+2024-07-05 11:07:06,746 - INFO - Liveperson done
+2024-07-05 11:07:06,821 - INFO - Liveperson finished.
+2024-07-05 11:07:24,111 - INFO - Make done
+2024-07-05 11:07:24,185 - INFO - Make finished.
+2024-07-05 11:07:27,958 - INFO - scraping done
